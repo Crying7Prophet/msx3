@@ -1,3 +1,4 @@
 players:
   Crying_Prophet: {}
-  KaleSsz: {}
+  KaleSsz:
+    oldSpeed: 0.19

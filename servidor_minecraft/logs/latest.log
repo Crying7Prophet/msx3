@@ -347,3 +347,9 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [21:31:56] [Server thread/INFO]: KaleSsz was slain by Zombified Piglin
 [21:33:28] [Server thread/INFO]: Crying_Prophet has made the advancement [Hot Stuff]
 [21:34:13] [Server thread/INFO]: KaleSsz has made the advancement [Hot Stuff]
+[21:36:03] [Server thread/INFO]: KaleSsz was shot by Skeleton
+[21:36:16] [Server thread/INFO]: KaleSsz has made the advancement [Take Aim]
+[21:38:17] [Server thread/INFO]: Villager EntityVillager['Villager'/1952, uuid='84bf155d-a3bb-4b52-aa3a-d8a0a18f41ea', l='ServerLevel[world]', x=8.45, y=-183.61, z=9.53, cx=0, cz=0, tl=163, v=true, d=false] died, message: 'Villager fell out of the world'
+[21:39:52] [Server thread/INFO]: Crying_Prophet died
+[21:40:05] [Server thread/INFO]: Crying_Prophet has made the advancement [Into Fire]
+[21:44:03] [Server thread/INFO]: KaleSsz died
