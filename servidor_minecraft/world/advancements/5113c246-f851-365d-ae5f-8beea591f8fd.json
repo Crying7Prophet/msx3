@@ -367,6 +367,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-14 20:50:53 +0000",
       "mushroom_stew": "2025-04-14 04:01:02 +0000",
       "cooked_salmon": "2025-04-14 18:28:04 +0000"
     },
