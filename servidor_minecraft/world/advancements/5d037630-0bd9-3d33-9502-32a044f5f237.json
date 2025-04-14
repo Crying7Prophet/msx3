@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-14 21:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 03:35:54 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-04-14 21:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-04-14 03:56:02 +0000"
@@ -284,6 +296,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-14 03:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-14 21:32:57 +0000"
     },
     "done": true
   },
@@ -354,9 +372,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-14 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 21:31:55 +0000"
     },
     "done": true
   },
@@ -558,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-14 20:48:33 +0000"
@@ -624,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-14 21:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-14 03:56:02 +0000"
@@ -633,6 +675,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-04-14 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
     },
     "done": true
   },
@@ -762,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-14 21:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-14 03:36:02 +0000"
@@ -789,6 +843,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-14 20:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
     },
     "done": true
   },
@@ -872,6 +932,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-14 21:27:33 +0000",
       "minecraft:spider": "2025-04-14 21:16:00 +0000",
       "minecraft:zombified_piglin": "2025-04-14 21:22:46 +0000",
       "minecraft:zombie": "2025-04-14 21:09:32 +0000"
@@ -944,6 +1005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-14 03:32:09 +0000"
@@ -965,6 +1032,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 20:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 21:31:55 +0000"
     },
     "done": true
   },
@@ -1238,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-04-14 21:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 03:53:39 +0000"
@@ -1328,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-14 21:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-14 03:37:22 +0000"
@@ -1343,6 +1428,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-04-14 20:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-14 21:30:18 +0000"
     },
     "done": true
   },
@@ -1514,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-14 21:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 03:35:54 +0000"
@@ -1631,6 +1728,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-14 03:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-14 21:25:16 +0000"
     },
     "done": true
   },

@@ -335,3 +335,15 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [21:25:17] [Server thread/INFO]: KaleSsz has made the advancement [Suit Up]
 [21:25:17] [Server thread/INFO]: KaleSsz has made the advancement [Ice Bucket Challenge]
 [21:25:27] [Server thread/INFO]: KaleSsz died
+[21:25:39] [Server thread/INFO]: Crying_Prophet was slain by Piglin
+[21:25:45] [Server thread/INFO]: KaleSsz was slain by Piglin
+[21:28:04] [Server thread/INFO]: Crying_Prophet issued server command: /gh help
+[21:28:08] [Server thread/INFO]: Crying_Prophet issued server command: /gh help
+[21:28:13] [Server thread/INFO]: Crying_Prophet issued server command: /gh give
+[21:28:20] [Server thread/INFO]: Crying_Prophet issued server command: /gh:gh
+[21:29:28] [Server thread/INFO]: Villager EntityVillager['Villager'/5, uuid='784d17ec-bd42-40fd-a37a-837a6eaa13c1', l='ServerLevel[world]', x=11.62, y=4.90, z=4.71, cx=0, cz=0, tl=84204, v=true, d=false] died, message: 'Villager was blown up by Creeper'
+[21:31:16] [Server thread/INFO]: KaleSsz was slain by Zombie
+[21:31:33] [Server thread/INFO]: Crying_Prophet was slain by Piglin
+[21:31:56] [Server thread/INFO]: KaleSsz was slain by Zombified Piglin
+[21:33:28] [Server thread/INFO]: Crying_Prophet has made the advancement [Hot Stuff]
+[21:34:13] [Server thread/INFO]: KaleSsz has made the advancement [Hot Stuff]
