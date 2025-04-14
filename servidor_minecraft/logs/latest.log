@@ -148,3 +148,35 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [18:50:12] [Server thread/INFO]: Crying_Prophet issued server command: /qa shop
 [18:50:16] [Server thread/INFO]: Crying_Prophet issued server command: /qa shop
 [18:50:22] [Server thread/INFO]: Crying_Prophet issued server command: /qa craft
+[18:50:47] [Server thread/INFO]: Crying_Prophet issued server command: /qa craft
+[18:51:17] [Server thread/INFO]: Crying_Prophet issued server command: /qa craft
+[18:51:51] [Server thread/INFO]: Crying_Prophet issued server command: /qa craft
+[18:52:31] [Server thread/INFO]: Crying_Prophet issued server command: /qa craft
+[18:54:54] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[18:54:54] [Server thread/INFO]: Crying_Prophet left the game
+[18:55:02] [Server thread/INFO]: Stopping the server
+[18:55:02] [Server thread/INFO]: Stopping server
+[18:55:02] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.2.9w
+[18:55:02] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.5
+[18:55:02] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.6-T20250103114036
+[18:55:03] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[18:55:03] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[18:55:03] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[18:55:03] [Server thread/INFO]: [Images] Disabling Images v2.5.4
+[18:55:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[18:55:03] [Server thread/INFO]: [ManhuntPlus] Disabling ManhuntPlus v1.4.1
+[18:55:03] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.18
+[18:55:03] [Server thread/INFO]: Saving players
+[18:55:03] [Server thread/INFO]: Saving worlds
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:55:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:55:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:55:03] [Server thread/INFO]: Flushing Chunk IO
+[18:55:03] [Server thread/INFO]: Closing Thread Pool
+[18:55:03] [Server thread/INFO]: Closing Server
