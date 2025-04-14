@@ -353,3 +353,10 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [21:39:52] [Server thread/INFO]: Crying_Prophet died
 [21:40:05] [Server thread/INFO]: Crying_Prophet has made the advancement [Into Fire]
 [21:44:03] [Server thread/INFO]: KaleSsz died
+[21:47:10] [Server thread/INFO]: KaleSsz died
+[21:47:58] [Server thread/INFO]: Villager EntityVillager['Villager'/6, uuid='62c8a0d6-821b-49fa-b229-59a17302fc2d', l='ServerLevel[world]', x=8.32, y=4.90, z=0.81, cx=0, cz=0, tl=90420, v=true, d=false] died, message: 'Villager was burnt to a crisp whilst fighting Blaze'
+[21:50:05] [Server thread/INFO]: Crying_Prophet has made the advancement [Cover Me With Diamonds]
+[21:50:36] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[21:50:36] [Server thread/INFO]: Crying_Prophet left the game
+[21:50:38] [Server thread/INFO]: KaleSsz lost connection: Disconnected
+[21:50:38] [Server thread/INFO]: KaleSsz left the game
