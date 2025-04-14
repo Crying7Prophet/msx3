@@ -325,3 +325,5 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [21:03:51] [User Authenticator #3/INFO]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
 [21:03:51] [Server thread/INFO]: KaleSsz joined the game
 [21:03:51] [Server thread/INFO]: KaleSsz[/127.247.150.28:53023] logged in with entity id 185 at ([world]8.5, 5.2013, 8.5)
+[21:05:47] [Server thread/INFO]: Crying_Prophet died
+[21:09:32] [Server thread/INFO]: KaleSsz has made the advancement [Monster Hunter]
