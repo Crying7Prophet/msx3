@@ -295,3 +295,33 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
 [20:55:11] [Async Chat Thread - #1/INFO]: <Crying_Prophet> salvada mesopotamica
 [20:55:17] [Async Chat Thread - #1/INFO]: <KaleSsz> pa nada
 [20:55:19] [Async Chat Thread - #1/INFO]: <Crying_Prophet> dame mis cosas
+[20:55:21] [Async Chat Thread - #1/INFO]: <KaleSsz> pq igual te moriste
+[20:55:25] [Async Chat Thread - #1/INFO]: <KaleSsz> ahi estan
+[20:55:28] [Async Chat Thread - #1/INFO]: <Crying_Prophet> pero salve las cosas w
+[20:55:56] [Async Chat Thread - #1/INFO]: <Crying_Prophet> puedes minar
+[20:56:00] [Async Chat Thread - #1/INFO]: <Crying_Prophet> ???
+[20:56:24] [Server thread/INFO]: Crying_Prophet issued server command: /skoice configure
+[20:57:12] [Async Chat Thread - #2/INFO]: <KaleSsz> nop
+[20:57:24] [Server thread/INFO]: Crying_Prophet issued server command: /skoice token MTM2MTQ0MzcyNzMxMDE5Njg1Nw.GZ-QIA.V3wE9c0A_7pFVV2OREDea784lICfQRnqNP6uoY
+[20:57:24] [Server thread/INFO]: [Skoice] Your bot is attempting to connect.
+[20:57:26] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Your bot is connected.
+[20:57:26] [ForkJoinPool.commonPool-worker-3/WARN]: [Skoice] Voice channel not set. Type "/configure" on your Discord server to set up Skoice.
+[20:57:57] [JDA MainWS-ReadThread/WARN]: [Skoice] Radius not set. Type "/configure" on your Discord server to set up Skoice.
+[20:58:03] [Async Chat Thread - #2/INFO]: <KaleSsz> ahora si
+[20:58:05] [JDA MainWS-ReadThread/INFO]: [Skoice] Skoice is now configured. Type "/link" on your Discord server to link your Discord account to Minecraft. Players must link their accounts to use the proximity voice chat.
+[20:58:45] [Server thread/INFO]: KaleSsz has made the advancement [Acquire Hardware]
+[21:00:14] [Async Chat Thread - #3/INFO]: <Crying_Prophet> entra al dc
+[21:01:22] [Server thread/INFO]: KaleSsz issued server command: /skoice link 347483
+[21:01:25] [Async Chat Thread - #4/INFO]: <Crying_Prophet> ve al general nyevo
+[21:01:35] [Async Chat Thread - #4/INFO]: <Crying_Prophet> tengo que terminar de configurar esa mrda
+[21:03:25] [Server thread/INFO]: KaleSsz lost connection: Disconnected
+[21:03:25] [Server thread/INFO]: KaleSsz left the game
+[21:03:26] [User Authenticator #3/INFO]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[21:03:26] [Server thread/INFO]: KaleSsz joined the game
+[21:03:27] [Server thread/INFO]: KaleSsz[/127.247.150.28:59779] logged in with entity id 183 at ([world]8.5, 5.2013, 8.5)
+[21:03:27] [Server thread/WARN]: KaleSsz moved wrongly!
+[21:03:45] [Server thread/INFO]: KaleSsz lost connection: Disconnected
+[21:03:45] [Server thread/INFO]: KaleSsz left the game
+[21:03:51] [User Authenticator #3/INFO]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[21:03:51] [Server thread/INFO]: KaleSsz joined the game
+[21:03:51] [Server thread/INFO]: KaleSsz[/127.247.150.28:53023] logged in with entity id 185 at ([world]8.5, 5.2013, 8.5)
