@@ -1,0 +1,137 @@
+[18:10:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:10:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:10:21] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:10:23] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:10:23] [Server thread/INFO]: Loading properties
+[18:10:24] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[18:10:24] [Server thread/INFO]: Debug logging is disabled
+[18:10:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:10:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:10:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:10:24] [Server thread/INFO]: Generating keypair
+[18:10:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:10:24] [Server thread/INFO]: Using epoll channel type
+[18:10:25] [Server thread/ERROR]: Could not load 'plugins/CombatWeaponryPlus v1.5.7 (1.20).jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
+	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[18:10:25] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.18
+[18:10:25] [Server thread/INFO]: [ManhuntPlus] Loading ManhuntPlus v1.4.1
+[18:10:25] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[18:10:25] [Server thread/INFO]: [Images] Loading Images v2.5.4
+[18:10:25] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.31.6-T20250103114036
+[18:10:25] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[18:10:25] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.5
+[18:10:25] [Server thread/INFO]: [Oneblock] Loading Oneblock v1.2.9w
+[18:10:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:10:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[18:10:26] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[18:10:26] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[18:10:27] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[18:10:27] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[18:10:27] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[18:10:27] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[18:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:10:27] [Server thread/INFO]: Preparing level "world"
+[18:10:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:28] [Server thread/INFO]: Time elapsed: 920 ms
+[18:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:28] [Server thread/INFO]: Time elapsed: 239 ms
+[18:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:10:28] [Server thread/INFO]: Time elapsed: 199 ms
+[18:10:28] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.18
+[18:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[18:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[18:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[18:10:29] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[18:10:30] [Server thread/INFO]: [ManhuntPlus] Enabling ManhuntPlus v1.4.1
+[18:10:30] [Server thread/INFO]: [ManhuntPlus] Author: UmbralPhoenix
+[18:10:30] [Server thread/INFO]: [ManhuntPlus] Version: 1.4.1
+[18:10:30] [Server thread/INFO]: [Images] Enabling Images v2.5.4
+[18:10:30] [Server thread/INFO]: [Images] PaperMC server detected. Adjustments will be made to accommodate...
+[18:10:31] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.6-T20250103114036
+[18:10:31] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[18:10:31] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[18:10:31] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[18:10:31] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[18:10:31] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[18:10:31] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[18:10:31] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[18:10:31] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
+[18:10:31] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[18:10:31] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.5
+[18:10:31] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
+[18:10:31] [Server thread/INFO]: [MTVehicles] --------------------------
+[18:10:31] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.5!
+[18:10:31] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
+[18:10:31] [Server thread/INFO]: [MTVehicles] --------------------------
+[18:10:32] [Server thread/INFO]: [Oneblock] Enabling Oneblock v1.2.9w
+[18:10:32] [Server thread/INFO]: [Oneblock] 
+┏━┓····┏━━┓·····┏┓
+┃┃┣━┳┳━┫┏┓┣┓┏━┳━┫┣┓
+┃┃┃┃┃┃┻┫┏┓┃┗┫╋┃━┫━┫
+┗━┻┻━┻━┻━━┻━┻━┻━┻┻┛ by MrMarL
+[18:10:32] [Server thread/INFO]: [Oneblock] basic
+[18:10:32] [Server thread/INFO]: Running delayed init tasks
+[18:10:32] [Server thread/INFO]: Done (9.063s)! For help, type "help"
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.26
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[18:10:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:10:32] [Server thread/INFO]: Timings Reset
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[18:10:33] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[18:10:34] [Craft Scheduler Thread - 2/INFO]: [Oneblock] The initialization of the world was successful!
+[18:10:34] [Craft Scheduler Thread - 3/INFO]: [Images] Loaded 0 images...
+[18:10:41] [User Authenticator #1/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[18:10:41] [Server thread/INFO]: Crying_Prophet joined the game
+[18:10:41] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:37881] logged in with entity id 20 at ([world]8.5, 5.2013, 8.5)
+[18:10:42] [Server thread/WARN]: Crying_Prophet moved wrongly!
+[18:11:11] [Server thread/INFO]: Crying_Prophet issued server command: /qualityarmory
+[18:11:36] [Server thread/INFO]: Crying_Prophet issued server command: /QA craft
+[18:14:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[18:14:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[18:14:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'MTVehicles' to create a bStats instance!
+[18:16:29] [Server thread/INFO]: Crying_Prophet has made the advancement [Best Friends Forever]
