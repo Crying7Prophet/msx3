@@ -1,18 +1,17 @@
-[00:43:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:43:10] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[00:43:10] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[00:43:11] [Worker-Main-1/INFO]: Loaded 7 recipes
-[00:43:12] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:43:12] [Server thread/INFO]: Loading properties
-[00:43:13] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[00:43:13] [Server thread/INFO]: Debug logging is disabled
-[00:43:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:43:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:43:13] [Server thread/INFO]: Default game type: SURVIVAL
-[00:43:13] [Server thread/INFO]: Generating keypair
-[00:43:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:43:13] [Server thread/INFO]: Using epoll channel type
-[00:43:14] [Server thread/ERROR]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
+[03:44:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:44:44] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[03:44:45] [Worker-Main-1/INFO]: Loaded 7 recipes
+[03:44:48] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[03:44:48] [Server thread/INFO]: Loading properties
+[03:44:48] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[03:44:48] [Server thread/INFO]: Debug logging is disabled
+[03:44:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:44:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:44:48] [Server thread/INFO]: Default game type: SURVIVAL
+[03:44:48] [Server thread/INFO]: Generating keypair
+[03:44:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:44:49] [Server thread/INFO]: Using epoll channel type
+[03:44:51] [Server thread/ERROR]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformGeneratorPlugin has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -36,7 +35,7 @@ Caused by: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformG
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[00:43:14] [Server thread/ERROR]: Could not load 'plugins/HealthBar (1).jar' in folder 'plugins'
+[03:44:51] [Server thread/ERROR]: Could not load 'plugins/HealthBar (1).jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/rocknatalino/plugin/Main has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -60,33 +59,9 @@ Caused by: java.lang.UnsupportedClassVersionError: com/rocknatalino/plugin/Main 
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[00:43:14] [Server thread/ERROR]: Could not load 'plugins/EnchantsSquared_2.5.16.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/athlaeos/enchantssquared/EnchantsSquared has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.UnsupportedClassVersionError: me/athlaeos/enchantssquared/EnchantsSquared has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:398) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
-	... 7 more
-[00:43:14] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:43:19] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
-[00:43:19] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
+[03:44:51] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[03:45:00] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
+[03:45:00] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/spigot/GeyserSpigotPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -110,167 +85,164 @@ Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[00:43:19] [Server thread/INFO]: [Brewery] Loading Brewery v3.1.1
-[00:43:19] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.18
-[00:43:19] [Server thread/INFO]: [UltimateAirdrops] Loading UltimateAirdrops v1.0.3
-[00:43:19] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[00:43:19] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.31.6-T20250103114036
-[00:43:19] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[00:43:19] [Server thread/INFO]: [CombatWeaponryPlus] Loading CombatWeaponryPlus v1.5.7
-[00:43:19] [Server thread/INFO]: [Skoice] Loading Skoice v3.2.5
-[00:43:19] [Server thread/INFO]: [BedrockPlayerManager] Loading BedrockPlayerManager v1.4
-[00:43:19] [Server thread/INFO]: [PickMeUp] Debug logger initialized. Log Level: INFO
-[00:43:19] [Server thread/INFO]: [PickMeUp] Loading PickMeUp v1.3.1
-[00:43:19] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.3
-[00:43:19] [Server thread/INFO]: [ManhuntPlus] Loading ManhuntPlus v1.4.1
-[00:43:19] [Server thread/INFO]: [Graves] Loading Graves v4.9
-[00:43:19] [Server thread/INFO]: [GrapplingHook] Loading GrapplingHook v1.6.5
-[00:43:19] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
-[00:43:19] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.5
-[00:43:19] [Server thread/INFO]: [Oneblock] Loading Oneblock v1.2.9w
-[00:43:19] [Server thread/INFO]: [ReviveMe] Loading ReviveMe v0.4.4
-[00:43:19] [Server thread/INFO]: [JukeBox] Loading JukeBox v1.17
-[00:43:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:43:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[00:43:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[00:43:20] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[00:43:20] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[00:43:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[00:43:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[00:43:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[00:43:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:43:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:43:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:43:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:43:20] [Server thread/INFO]: Preparing level "world"
-[00:43:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:43:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:25] [Server thread/INFO]: Time elapsed: 658 ms
-[00:43:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:27] [Server thread/INFO]: Time elapsed: 1605 ms
-[00:43:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:43:28] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:28] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:28] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:28] [Server thread/INFO]: Time elapsed: 1229 ms
-[00:43:28] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
-[00:43:29] [Server thread/INFO]: [Brewery] Brewery enabled!
-[00:43:29] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.18
-[00:43:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
-[00:43:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
-[00:43:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[00:43:29] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[00:43:30] [Server thread/INFO]: [UltimateAirdrops] Enabling UltimateAirdrops v1.0.3
-[00:43:30] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:43:30] [Server thread/INFO]: [UltimateAirdrops] Has been successfully enabled (version: 1.0.3)
-[00:43:30] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
-[00:43:30] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:43:30] [Server thread/INFO]: nullA total of 0where updated to the latest format
-[00:43:30] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.6-T20250103114036
-[00:43:30] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[00:43:30] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
-[00:43:30] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:43:30] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
-[00:43:30] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
-[00:43:30] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:43:30] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[00:43:30] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
-[00:43:30] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
-[00:43:30] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus v1.5.7
-[00:43:31] [Server thread/INFO]: [Skoice] Enabling Skoice v3.2.5
-[00:43:31] [Server thread/INFO]: [Skoice] Plugin enabled.
-[00:43:31] [Server thread/INFO]: [Skoice] Your bot is attempting to connect.
-[00:43:31] [Server thread/INFO]: [BedrockPlayerManager] Enabling BedrockPlayerManager v1.4
-[00:43:31] [Server thread/WARN]: [BedrockPlayerManager]: PlaceholderAPI plugin not found! Install the missing plugin or set PlaceholderAPI to false in your config.yml!
-[00:43:31] [Server thread/INFO]: [PickMeUp] Enabling PickMeUp v1.3.1
-[00:43:31] [Server thread/INFO]: [PickMeUp] Metrics enabled. Thank you <3
-[00:43:31] [Server thread/INFO]: [PickMeUp] Found matching locale for zh_CN
-[00:43:31] [Server thread/INFO]: [PickMeUp] Locale messages_zh_CN.properties is up to date.
-[00:43:31] [Server thread/INFO]: [PickMeUp] Found matching locale for de_DE
-[00:43:31] [Server thread/INFO]: [PickMeUp] Locale messages_de_DE.properties is up to date.
-[00:43:31] [Server thread/INFO]: [PickMeUp] Found matching locale for en_US
-[00:43:31] [Server thread/INFO]: [PickMeUp] Locale messages_en_US.properties is up to date.
-[00:43:31] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
-[00:43:31] [Server thread/INFO]: [ManhuntPlus] Enabling ManhuntPlus v1.4.1
-[00:43:31] [Server thread/INFO]: [ManhuntPlus] Author: UmbralPhoenix
-[00:43:31] [Server thread/INFO]: [ManhuntPlus] Version: 1.4.1
-[00:43:31] [Server thread/INFO]: [Graves] Enabling Graves v4.9
-[00:43:31] [Server thread/INFO]: [GrapplingHook] Enabling GrapplingHook v1.6.5
-[00:43:31] [Server thread/INFO]: [GrapplingHook] Loaded 8 recipes.
-[00:43:31] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3*
-[00:43:31] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.5
-[00:43:31] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
-[00:43:31] [Server thread/INFO]: [MTVehicles] --------------------------
-[00:43:31] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.5!
-[00:43:31] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
-[00:43:31] [Server thread/INFO]: [MTVehicles] --------------------------
-[00:43:32] [Server thread/INFO]: [Oneblock] Enabling Oneblock v1.2.9w
-[00:43:32] [Server thread/INFO]: [Oneblock] 
+[03:45:00] [Server thread/INFO]: [Brewery] Loading Brewery v3.1.1
+[03:45:00] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.18
+[03:45:00] [Server thread/INFO]: [UltimateAirdrops] Loading UltimateAirdrops v1.0.3
+[03:45:00] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[03:45:00] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.31.6-T20250103114036
+[03:45:00] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[03:45:00] [Server thread/INFO]: [Enchantssquared] Loading Enchantssquared v1.6.2
+[03:45:00] [Server thread/INFO]: [EnchantsSquared] WorldGuard failed to hook, plugin not found in plugin list.
+[03:45:00] [Server thread/INFO]: [CombatWeaponryPlus] Loading CombatWeaponryPlus v1.5.7
+[03:45:00] [Server thread/INFO]: [Skoice] Loading Skoice v3.2.5
+[03:45:00] [Server thread/INFO]: [BedrockPlayerManager] Loading BedrockPlayerManager v1.4
+[03:45:00] [Server thread/INFO]: [PickMeUp] Debug logger initialized. Log Level: INFO
+[03:45:00] [Server thread/INFO]: [PickMeUp] Loading PickMeUp v1.3.1
+[03:45:00] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.3
+[03:45:00] [Server thread/INFO]: [ManhuntPlus] Loading ManhuntPlus v1.4.1
+[03:45:00] [Server thread/INFO]: [Graves] Loading Graves v4.9
+[03:45:01] [Server thread/INFO]: [GrapplingHook] Loading GrapplingHook v1.6.5
+[03:45:01] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
+[03:45:01] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.5
+[03:45:01] [Server thread/INFO]: [Oneblock] Loading Oneblock v1.2.9w
+[03:45:01] [Server thread/INFO]: [ReviveMe] Loading ReviveMe v0.4.4
+[03:45:01] [Server thread/INFO]: [JukeBox] Loading JukeBox v1.17
+[03:45:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:45:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[03:45:02] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[03:45:02] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[03:45:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[03:45:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[03:45:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[03:45:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[03:45:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:45:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:45:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:45:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:45:03] [Server thread/INFO]: Preparing level "world"
+[03:45:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:45:04] [Server thread/INFO]: Preparing spawn area: 0%
+[03:45:04] [Server thread/INFO]: Preparing spawn area: 0%
+[03:45:05] [Server thread/INFO]: Preparing spawn area: 0%
+[03:45:05] [Server thread/INFO]: Time elapsed: 1035 ms
+[03:45:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:45:05] [Server thread/INFO]: Time elapsed: 281 ms
+[03:45:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:45:05] [Server thread/INFO]: Time elapsed: 319 ms
+[03:45:05] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
+[03:45:07] [Server thread/INFO]: [Brewery] Brewery enabled!
+[03:45:07] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.18
+[03:45:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[03:45:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[03:45:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[03:45:08] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[03:45:10] [Server thread/INFO]: [UltimateAirdrops] Enabling UltimateAirdrops v1.0.3
+[03:45:10] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[03:45:10] [Server thread/INFO]: [UltimateAirdrops] Has been successfully enabled (version: 1.0.3)
+[03:45:10] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
+[03:45:10] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[03:45:10] [Server thread/INFO]: nullA total of 0where updated to the latest format
+[03:45:10] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.6-T20250103114036
+[03:45:10] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[03:45:10] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[03:45:10] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[03:45:10] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[03:45:11] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[03:45:11] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[03:45:11] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[03:45:11] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
+[03:45:11] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[03:45:11] [Server thread/INFO]: [Enchantssquared] Enabling Enchantssquared v1.6.2
+[03:45:11] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus v1.5.7
+[03:45:11] [Server thread/INFO]: [Skoice] Enabling Skoice v3.2.5
+[03:45:12] [Server thread/INFO]: [Skoice] Plugin enabled.
+[03:45:12] [Server thread/INFO]: [Skoice] Your bot is attempting to connect.
+[03:45:13] [Server thread/INFO]: [BedrockPlayerManager] Enabling BedrockPlayerManager v1.4
+[03:45:13] [Server thread/WARN]: [BedrockPlayerManager]: PlaceholderAPI plugin not found! Install the missing plugin or set PlaceholderAPI to false in your config.yml!
+[03:45:13] [Server thread/INFO]: [PickMeUp] Enabling PickMeUp v1.3.1
+[03:45:13] [Server thread/INFO]: [PickMeUp] Metrics enabled. Thank you <3
+[03:45:13] [Server thread/INFO]: [PickMeUp] Found matching locale for zh_CN
+[03:45:13] [Server thread/INFO]: [PickMeUp] Locale messages_zh_CN.properties is up to date.
+[03:45:13] [Server thread/INFO]: [PickMeUp] Found matching locale for de_DE
+[03:45:13] [Server thread/INFO]: [PickMeUp] Locale messages_de_DE.properties is up to date.
+[03:45:13] [Server thread/INFO]: [PickMeUp] Found matching locale for en_US
+[03:45:13] [Server thread/INFO]: [PickMeUp] Locale messages_en_US.properties is up to date.
+[03:45:13] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
+[03:45:13] [Server thread/INFO]: [ManhuntPlus] Enabling ManhuntPlus v1.4.1
+[03:45:13] [Server thread/INFO]: [ManhuntPlus] Author: UmbralPhoenix
+[03:45:13] [Server thread/INFO]: [ManhuntPlus] Version: 1.4.1
+[03:45:13] [Server thread/INFO]: [Graves] Enabling Graves v4.9
+[03:45:13] [Server thread/INFO]: [GrapplingHook] Enabling GrapplingHook v1.6.5
+[03:45:13] [Server thread/INFO]: [GrapplingHook] Loaded 8 recipes.
+[03:45:13] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3*
+[03:45:13] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.5
+[03:45:13] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
+[03:45:13] [Server thread/INFO]: [MTVehicles] --------------------------
+[03:45:13] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.5!
+[03:45:13] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
+[03:45:13] [Server thread/INFO]: [MTVehicles] --------------------------
+[03:45:14] [Server thread/INFO]: [Oneblock] Enabling Oneblock v1.2.9w
+[03:45:14] [Server thread/INFO]: [Oneblock] 
 ┏━┓····┏━━┓·····┏┓
 ┃┃┣━┳┳━┫┏┓┣┓┏━┳━┫┣┓
 ┃┃┃┃┃┃┻┫┏┓┃┗┫╋┃━┫━┫
 ┗━┻┻━┻━┻━━┻━┻━┻━┻┻┛ by MrMarL
-[00:43:32] [Server thread/INFO]: [Oneblock] basic
-[00:43:32] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
-[00:43:32] [Server thread/INFO]: ReviveMe enable
-[00:43:32] [Server thread/INFO]: [JukeBox] Enabling JukeBox v1.17
-[00:43:32] [Server thread/INFO]: [JukeBox] This JukeBox version requires NoteBlockAPI version 1.5.0 or more. Please ensure you have the right version before using JukeBox (you are using NBAPI ver. 1.6.3)
-[00:43:32] [Server thread/INFO]: [JukeBox] Loaded language file en.yml
-[00:43:32] [Server thread/INFO]: [JukeBox] 0 songs loadeds. Sorting by name... 
-[00:43:32] [Server thread/INFO]: [JukeBox] Songs sorted ! 0 songs. Number of pages : 0
-[00:43:32] [Server thread/INFO]: [UltimateAirdrops] Enabled Soft-Dependencies: [None]
-[00:43:32] [Server thread/INFO]: [UltimateAirdrops] Missing Soft-Dependencies: HolographicDisplay, DecentHolograms, RedProtect, GriefPrevention, PlaceHolderAPI, WorldGuard, Dynmap, Towny, Lands
-[00:43:32] [Server thread/INFO]: Running delayed init tasks
-[00:43:32] [Craft Scheduler Thread - 0/INFO]: [Brewery] Background data loading complete.
-[00:43:32] [Craft Scheduler Thread - 4/INFO]: [UltimateAirdrops] There is a new update available!
-[00:43:32] [Craft Scheduler Thread - 4/INFO]: [UltimateAirdrops] You can download it at: https://bit.ly/UltimateAirdrops-Spigot
-[00:43:32] [Server thread/INFO]: Done (19.562s)! For help, type "help"
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.26
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[00:43:32] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[00:43:32] [Server thread/INFO]: Timings Reset
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[00:43:32] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[00:43:32] [Craft Scheduler Thread - 6/INFO]: [ReviveMe] There is not a new update available.
-[00:43:33] [Craft Scheduler Thread - 3/INFO]: [Oneblock] The initialization of the world was successful!
-[00:43:36] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Your bot is connected.
-[00:43:36] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Skoice is now configured. Type "/link" on your Discord server to link your Discord account to Minecraft. Players must link their accounts to use the proximity voice chat.
-[00:43:39] [Craft Scheduler Thread - 1/WARN]: [Brewery] Plugin Brewery v3.1.1 generated an exception while executing task 11
+[03:45:14] [Server thread/INFO]: [Oneblock] basic
+[03:45:14] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
+[03:45:14] [Server thread/INFO]: ReviveMe enable
+[03:45:14] [Server thread/INFO]: [JukeBox] Enabling JukeBox v1.17
+[03:45:14] [Server thread/INFO]: [JukeBox] This JukeBox version requires NoteBlockAPI version 1.5.0 or more. Please ensure you have the right version before using JukeBox (you are using NBAPI ver. 1.6.3)
+[03:45:14] [Server thread/INFO]: [JukeBox] Loaded language file en.yml
+[03:45:14] [Server thread/INFO]: [JukeBox] 0 songs loadeds. Sorting by name... 
+[03:45:14] [Server thread/INFO]: [JukeBox] Songs sorted ! 0 songs. Number of pages : 0
+[03:45:14] [Server thread/INFO]: [UltimateAirdrops] Enabled Soft-Dependencies: [None]
+[03:45:14] [Server thread/INFO]: [UltimateAirdrops] Missing Soft-Dependencies: HolographicDisplay, DecentHolograms, RedProtect, GriefPrevention, PlaceHolderAPI, WorldGuard, Dynmap, Towny, Lands
+[03:45:14] [Server thread/INFO]: Running delayed init tasks
+[03:45:14] [Craft Scheduler Thread - 0/INFO]: [Brewery] Background data loading complete.
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[03:45:14] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[03:45:14] [Server thread/INFO]: Done (26.694s)! For help, type "help"
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.26
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[03:45:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[03:45:14] [Server thread/INFO]: Timings Reset
+[03:45:14] [Craft Scheduler Thread - 4/INFO]: [UltimateAirdrops] There is a new update available!
+[03:45:14] [Craft Scheduler Thread - 4/INFO]: [UltimateAirdrops] You can download it at: https://bit.ly/UltimateAirdrops-Spigot
+[03:45:14] [Craft Scheduler Thread - 6/INFO]: [ReviveMe] There is not a new update available.
+[03:45:18] [Craft Scheduler Thread - 1/INFO]: [Oneblock] The initialization of the world was successful!
+[03:45:20] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Your bot is connected.
+[03:45:21] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Skoice is now configured. Type "/link" on your Discord server to link your Discord account to Minecraft. Players must link their accounts to use the proximity voice chat.
+[03:45:21] [Craft Scheduler Thread - 3/WARN]: [Brewery] Plugin Brewery v3.1.1 generated an exception while executing task 57
 java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonParser.parseReader(java.io.Reader)'
 	at com.dre.brewery.filedata.UpdateChecker.query(UpdateChecker.java:85) ~[?:?]
 	at com.dre.brewery.filedata.UpdateChecker.run(UpdateChecker.java:50) ~[?:?]
@@ -280,152 +252,35 @@ java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonPa
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:45:05] [User Authenticator #1/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[00:45:06] [Server thread/WARN]: [BedrockPlayerManager]: neither Floodgate API version 1.x nor 2.x has been detected – plugin running in 'solo mode' without Floodgate, all players will be treated as Java players!
-[00:45:06] [Server thread/INFO]: Crying_Prophet joined the game
-[00:45:06] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:60169] logged in with entity id 250 at ([world]8.5, 5.2013, 8.5)
-[00:45:15] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode creative
-[00:45:15] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Creative Mode]
-[00:45:34] [Server thread/INFO]: Crying_Prophet has made the advancement [Isn't It Iron Pick]
-[00:45:35] [Server thread/INFO]: Crying_Prophet has made the advancement [Ice Bucket Challenge]
-[00:46:05] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn
-[00:46:05] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to -28, 77, -4 [0.0]]
-[00:46:09] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn
-[00:46:09] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to -28, 77, -4 [0.0]]
-[00:46:17] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:46:17] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:46:17] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:46:39] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn
-[00:46:39] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to -28, 77, -3 [0.0]]
-[00:46:49] [Server thread/INFO]: Crying_Prophet issued server command: /spawnpoint Crying_Prophet
-[00:46:49] [Server thread/INFO]: [Crying_Prophet: Set spawn point to -28, 77, -3 [0.0] in minecraft:overworld for Crying_Prophet]
-[00:46:55] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:46:55] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:46:55] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:47:16] [Server thread/INFO]: Crying_Prophet issued server command: /spawnpoint Crying_Prophet
-[00:47:16] [Server thread/INFO]: [Crying_Prophet: Set spawn point to -28, 77, -3 [0.0] in minecraft:overworld for Crying_Prophet]
-[00:47:23] [Server thread/INFO]: Crying_Prophet issued server command: /spawnpoint Crying_Prophet
-[00:47:23] [Server thread/INFO]: [Crying_Prophet: Set spawn point to -28, 77, -3 [0.0] in minecraft:overworld for Crying_Prophet]
-[00:47:45] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode survival
-[00:47:45] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Survival Mode]
-[00:48:28] [Server thread/INFO]: Crying_Prophet died
-[00:48:41] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode adventure
-[00:48:41] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Adventure Mode]
-[00:48:45] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode creative
-[00:48:45] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Creative Mode]
-[00:49:16] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:49:16] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:49:16] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:49:37] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:49:37] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:49:37] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:50:06] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:50:06] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:50:06] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:50:19] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:50:19] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:50:19] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:54:48] [Server thread/INFO]: Crying_Prophet issued server command: /time set day
-[00:54:48] [Server thread/INFO]: [Crying_Prophet: Set the time to 1000]
-[00:57:30] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[00:57:30] [Server thread/INFO]: Crying_Prophet fell out of the world
-[00:57:30] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[00:58:27] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode adventure
-[00:58:27] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Adventure Mode]
-[00:59:45] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
-[00:59:45] [Server thread/INFO]: Crying_Prophet left the game
-[00:59:51] [User Authenticator #2/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[00:59:51] [Server thread/INFO]: Crying_Prophet joined the game
-[00:59:51] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:48929] logged in with entity id 2683 at ([world]8.5, 5.2013, 8.5)
-[00:59:57] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode creative
-[00:59:57] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Creative Mode]
-[01:00:25] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[01:00:25] [Server thread/INFO]: Crying_Prophet fell out of the world
-[01:00:25] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[01:00:41] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn
-[01:00:41] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to 8, 63, 8 [0.0]]
-[01:00:45] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[01:00:45] [Server thread/INFO]: Crying_Prophet fell out of the world
-[01:00:45] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[01:01:00] [Server thread/INFO]: Crying_Prophet issued server command: /kill
-[01:01:00] [Server thread/INFO]: Crying_Prophet fell out of the world
-[01:01:00] [Server thread/INFO]: [Crying_Prophet: Killed Crying_Prophet]
-[01:01:44] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox Crying_Prophet
-[01:01:58] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox help
-[01:02:09] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox:adminmusic
-[01:02:20] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox:amusic
-[01:02:31] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox:music
-[01:02:38] [Server thread/INFO]: Crying_Prophet issued server command: /jukebox:jukebox
-[01:02:45] [Server thread/INFO]: Crying_Prophet issued server command: /help
-[01:03:10] [Server thread/INFO]: Crying_Prophet issued server command: /help jukebox
-[01:03:57] [Server thread/INFO]: Crying_Prophet issued server command: /help 2
-[01:04:03] [Server thread/INFO]: Crying_Prophet issued server command: /help 3
-[01:04:07] [Server thread/INFO]: Crying_Prophet issued server command: /help 4
-[01:04:14] [Server thread/INFO]: Crying_Prophet issued server command: /help 5
-[01:04:17] [Server thread/INFO]: Crying_Prophet issued server command: /help 6
-[01:04:21] [Server thread/INFO]: Crying_Prophet issued server command: /help 7
-[01:04:26] [Server thread/INFO]: Crying_Prophet issued server command: /help 7
-[01:04:30] [Server thread/INFO]: Crying_Prophet issued server command: /help 8
-[01:04:38] [Server thread/INFO]: Crying_Prophet issued server command: /help 9
-[01:04:47] [Server thread/INFO]: Crying_Prophet issued server command: /help 10
-[01:04:55] [Server thread/INFO]: Crying_Prophet issued server command: /help 11
-[01:05:01] [Server thread/INFO]: Crying_Prophet issued server command: /help 12
-[01:05:08] [Server thread/INFO]: Crying_Prophet issued server command: /help 13
-[01:05:12] [Server thread/INFO]: Crying_Prophet issued server command: /help 14
-[01:05:18] [Server thread/INFO]: Crying_Prophet issued server command: /plugins
-[01:05:34] [Server thread/INFO]: Crying_Prophet issued server command: /combatweaponry
-[01:05:45] [Server thread/INFO]: Crying_Prophet issued server command: /time set day
-[01:05:45] [Server thread/INFO]: [Crying_Prophet: Set the time to 1000]
-[01:06:00] [Server thread/INFO]: Crying_Prophet has made the advancement [Monster Hunter]
-[01:08:35] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode adventure
-[01:08:35] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Adventure Mode]
-[01:08:37] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode creative
-[01:08:37] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Creative Mode]
-[01:10:34] [Server thread/INFO]: Crying_Prophet has made the advancement [Acquire Hardware]
-[01:12:59] [Server thread/INFO]: Crying_Prophet issued server command: /plugins
-[01:19:26] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
-[01:19:26] [Server thread/INFO]: Crying_Prophet left the game
-[01:19:33] [Server thread/INFO]: Stopping the server
-[01:19:33] [Server thread/INFO]: Stopping server
-[01:19:33] [Server thread/INFO]: [JukeBox] Disabling JukeBox v1.17
-[01:19:33] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v0.4.4
-[01:19:33] [Server thread/INFO]: ReviveMe disable
-[01:19:33] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.2.9w
-[01:19:33] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.5
-[01:19:33] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
-[01:19:33] [Server thread/INFO]: [GrapplingHook] Disabling GrapplingHook v1.6.5
-[01:19:33] [Server thread/INFO]: [Graves] Disabling Graves v4.9
-[01:19:33] [Server thread/INFO]: [ManhuntPlus] Disabling ManhuntPlus v1.4.1
-[01:19:33] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.3
-[01:19:33] [Server thread/INFO]: [PickMeUp] Disabling PickMeUp v1.3.1
-[01:19:33] [Server thread/INFO]: [BedrockPlayerManager] Disabling BedrockPlayerManager v1.4
-[01:19:33] [Server thread/INFO]: [Skoice] Disabling Skoice v3.2.5
-[01:19:33] [Server thread/INFO]: [Skoice] Plugin disabled.
-[01:19:33] [Server thread/INFO]: [CombatWeaponryPlus] Disabling CombatWeaponryPlus v1.5.7
-[01:19:33] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.6-T20250103114036
-[01:19:34] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
-[01:19:34] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
-[01:19:34] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
-[01:19:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[01:19:34] [Server thread/INFO]: [UltimateAirdrops] Disabling UltimateAirdrops v1.0.3
-[01:19:34] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[01:19:34] [Server thread/INFO]: [UltimateAirdrops] Has been successfully disabled (version: 1.0.3)
-[01:19:34] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
-[01:19:34] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[01:19:34] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.18
-[01:19:34] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
-[01:19:34] [Server thread/INFO]: [Brewery] Brewery disabled!
-[01:19:34] [Server thread/INFO]: Saving players
-[01:19:35] [Server thread/INFO]: Saving worlds
-[01:19:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:19:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:19:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:19:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:19:35] [Server thread/INFO]: Flushing Chunk IO
-[01:19:35] [Server thread/INFO]: Closing Thread Pool
-[01:19:35] [Server thread/INFO]: Closing Server
+[03:45:31] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:45:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:45:47] [User Authenticator #1/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[03:45:47] [Server thread/WARN]: [BedrockPlayerManager]: neither Floodgate API version 1.x nor 2.x has been detected – plugin running in 'solo mode' without Floodgate, all players will be treated as Java players!
+[03:45:47] [Server thread/INFO]: Crying_Prophet joined the game
+[03:45:48] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:35905] logged in with entity id 173 at ([world]8.5, 5.2013, 8.5)
+[03:46:23] [Server thread/INFO]: Crying_Prophet issued server command: /reviveme mdisable
+[03:46:31] [Server thread/INFO]: Crying_Prophet issued server command: /plugins
+[03:49:24] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list
+[03:49:59] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 2
+[03:50:06] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 3
+[03:50:08] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 4
+[03:50:10] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 5
+[03:50:13] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 6
+[03:50:15] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 7
+[03:50:17] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 8
+[03:50:20] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 9
+[03:50:23] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 10
+[03:50:25] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 11
+[03:50:28] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 12
+[03:50:31] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 13
+[03:50:33] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 14
+[03:50:36] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 15
+[03:52:07] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 2
+[03:52:35] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 3
+[03:52:46] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 4
+[03:53:03] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 5
+[03:53:22] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 6
+[03:53:37] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 7
+[03:53:57] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 8
+[03:54:02] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 9
+[03:54:23] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 10
