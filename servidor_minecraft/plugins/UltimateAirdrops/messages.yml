@@ -1,0 +1,38 @@
+### All messages support color codes with "&" (1.16+ colors are not implemented yet)
+Messages:
+    
+    prefix: "&e[&aUltimateAirdrops&e]&f"     # This can be used in any message with the placeholder %prefix%
+    
+    command-not-found: "%prefix% That command does not exist, use &e/airdrops help &ffor a list of available commands"     # Placeholders: N/A
+    use-help: "%prefix% Use /airdrops help for a list of all available commands"     # Placeholders: N/A
+    plugin-reload: "%prefix% UltimateAirdrops has been successfully reloaded!"     # Placeholders: N/A
+    not-enough-permissions: "%prefix% &cYou dont have enough permissions to do this"     # Placeholders: N/A
+    no-airdrops-created: "%prefix% &cYou dont have any airdrops created"     # Placeholders: N/A
+    could-not-find-drop-safe-spawn-zone-console: "%prefix% &cDrop couldnt find a factible spawn block in %checks% checks"     # Placeholders: %checks%
+    could-not-find-drop-safe-spawn-zone-broadcast: "%prefix% &cAn airdrop got lost in the storm so it couldn't land"     # Placeholders: N/A
+    cannot-execute-from-console: "%prefix% &cYou cannot execute that command from the console"     # Placeholders: N/A
+    airdrop-removed-succesfully: "%prefix% &aAirdrop with ID %airdrop_id% removed succesfully"     # Placeholders: %airdrop_id%
+    no-airdrop-with-that-id-to-remove: "%prefix% &cThere is no airdrop with ID %airdrop_id% created"     # Placeholders: %airdrop_id%
+    summon-airdrop-doesnt-exist: "%prefix% &cThere is no airdrop with ID %airdrop_id% created"     # Placeholders: %airdrop_id%
+    succesfully-summoned-airdrop: "%prefix% &aAirdrop with ID %airdrop_id% has been succesfully summoned at %x_coord% %y_coord% %z_coord%"     # Placeholders: %airdrop_id%, %x_coord%, %y_coord%, %z_coord%
+    airdrop-removed-console: "%prefix% &eAn airdrop with the ID %airdrop_id% has been removed from %x_coord% %y_coord% %z_coord%"     # Placeholders: %airdrop_id%, %x_coord%, %y_coord%, %z_coord%
+    airdrop-removed-broadcast: "%prefix% &eAn &6%airdrop_name% &earound %max_corner_x_coord% %max_corner_z_coord% and %min_corner_x_coord% %min_corner_z_coord% has gone"    # Placeholders: %airdrop_name%, %x_coord%, %y_coord%, %z_coord%, %max_corner_x_coord%, %max_corner_z_coord%, %min_corner_x_coord%, %min_corner_z_coord%; Corner placeholders are affected by the location offset, normal coords are the real ones.
+    airdrop-summoned-broadcast: "%prefix% &eAn &6%airdrop_name% &ehas landed around %max_corner_x_coord% %max_corner_z_coord% and %min_corner_x_coord% %min_corner_z_coord%"    # Placeholders: %airdrop_name%, %x_coord%, %y_coord%, %z_coord%, %max_corner_x_coord%, %max_corner_z_coord%, %min_corner_x_coord%, %min_corner_z_coord%; Corner placeholders are affected by the location offset, normal coords are the real ones.
+    airdrop-first-open-broadcast: "%prefix% &6%player% &ehas opened an &6%airdrop_name% &eat %x_coord% %y_coord% %z_coord%"    # Placeholders: %player%, %airdrop_name%, %x_coord%, %y_coord%, %z_coord%, %max_corner_x_coord%, %max_corner_z_coord%, %min_corner_x_coord%, %min_corner_z_coord%; Corner placeholders are affected by the location offset, normal coords are the real ones.
+    airdrop-start-unlock-broadcast: "%prefix% &6%player% &ehas started unlocking an &6%airdrop_name% &earound %max_corner_x_coord% %max_corner_z_coord% and %min_corner_x_coord% %min_corner_z_coord%, %locked_time_left% left"    # Placeholders: %locked_time_left%, %player%, %airdrop_name%, %x_coord%, %y_coord%, %z_coord%, %max_corner_x_coord%, %max_corner_z_coord%, %min_corner_x_coord%, %min_corner_z_coord%; Corner placeholders are affected by the location offset, normal coords are the real ones.
+    airdrop-unlocked-broadcast: "%prefix% &eAn &6%airdrop_name% &ehas been unlocked around %max_corner_x_coord% %max_corner_z_coord% and %min_corner_x_coord% %min_corner_z_coord%"    # Placeholders: %airdrop_name%, %x_coord%, %y_coord%, %z_coord%, %max_corner_x_coord%, %max_corner_z_coord%, %min_corner_x_coord%, %min_corner_z_coord%; Corner placeholders are affected by the location offset, normal coords are the real ones.
+    no-airdrops-to-clear: "%prefix% &eNo airdrops to remove!"     # Placeholders: N/A
+    airdrops-cleared: "%prefix% &aA total of %total_airdrops% spawned airdrops have been cleared!"     # Placeholders: %total_airdrops%
+    airdrop-hologram: # Placeholders: %airdrop_name%, %time_left%, %locked_status%
+        - "&2Drop: &a%airdrop_name%"
+        - "&6Time left: &e%time_left%"
+        - "&cLocked: &e%locked_status%"
+    airdrop-list-title: "&e<----- [There are a total of &6%airdrop_count% &eairdrops created] ----->"     # Placeholders: %airdrop_count%
+    airdrop-list-lines: "&e- &2ID: &a%airdrop_id% &f| &2Name: &a%airdrop_name% &f| &2Chance: &a%airdrop_chance%"    # Placeholders: %airdrop_id%, %airdrop_name%, %airdrop_chance%
+    cannot-destroy-airdrops: "%prefix% &cYou cannot destroy airdrops"    # Placeholders: N/A
+    cannot-open-locked-airdrops: "%prefix% &cYou cannot open a locked airdrop"    # Placeholders: N/A
+    dynmap-marker-display-name: "<div> Airdrop: %airdrop_name% </div> <br/> <div> Time left: %time_left% </div> <br/> <div> Locked: %locked_status% </div>"    # Placeholders: %airdrop_name%, %locked_status%, %time_left%; Supports HTML code, as well as inline styles.
+    airdrop-unlocked-label: "No"    # Placeholders: N/A; Used when locked time is 0 in any other messages
+    airdrop-started-to-unlock: "%prefix% &6You &ehave started to unlock %airdrop_name%, %locked_time_left% left"    # Placeholders: %airdrop_name%, %locked_time_left%
+    airdrop-spawn-time-left: "%prefix% &aTime until an airdrop lands: %spawn_time%"    # Placeholders: %spawn_time%
+    airdrop-never-spawning-label: "Never"    # Placeholders: N/A; Used when airdrop auto-spawning is disabled in related messages.
