@@ -394,3 +394,37 @@ org.bukkit.command.CommandException: Cannot execute command 'vdt' in plugin View
 [19:01:53] [Server thread/INFO]: Tontuex[/127.90.218.78:33687] logged in with entity id 1836 at ([world]108.5, 5.2013, 8.5)
 [19:01:54] [Server thread/INFO]: Tontuex lost connection: Disconnected
 [19:01:54] [Server thread/INFO]: Tontuex left the game
+[19:01:59] [User Authenticator #2/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[19:01:59] [Server thread/INFO]: Tontuex joined the game
+[19:01:59] [Server thread/INFO]: Tontuex[/127.90.218.78:38109] logged in with entity id 1841 at ([world]108.5, 5.2013, 8.5)
+[19:02:01] [Server thread/INFO]: Tontuex lost connection: Disconnected
+[19:02:01] [Server thread/INFO]: Tontuex left the game
+[19:04:45] [User Authenticator #3/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[19:04:45] [Server thread/INFO]: Crying_Prophet joined the game
+[19:04:45] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:39273] logged in with entity id 1846 at ([world]8.5, 5.2013, 8.5)
+[19:05:40] [Server thread/INFO]: Crying_Prophet issued server command: /mtvehicle menu
+[19:11:10] [Server thread/INFO]: Crying_Prophet died
+[19:11:28] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[19:11:28] [Server thread/INFO]: Crying_Prophet left the game
+[19:12:52] [User Authenticator #4/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[19:12:52] [Server thread/INFO]: Tontuex joined the game
+[19:12:52] [Server thread/INFO]: Tontuex[/127.90.218.78:53211] logged in with entity id 3428 at ([world]108.5, 5.2013, 8.5)
+[19:12:53] [Server thread/INFO]: Tontuex lost connection: Disconnected
+[19:12:53] [Server thread/INFO]: Tontuex left the game
+[19:13:00] [User Authenticator #4/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[19:13:00] [Server thread/INFO]: Crying_Prophet joined the game
+[19:13:00] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:33557] logged in with entity id 3472 at ([world]8.5, 5.2013, 8.5)
+[19:13:07] [User Authenticator #4/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[19:13:07] [Server thread/INFO]: Tontuex joined the game
+[19:13:07] [Server thread/INFO]: Tontuex[/127.90.218.78:34763] logged in with entity id 3549 at ([world]108.5, 5.2013, 8.5)
+[19:13:46] [Server thread/INFO]: Crying_Prophet issued server command: /tp Tontuex Crying_Prophet
+[19:13:46] [Server thread/INFO]: [Crying_Prophet: Teleported Tontuex to Crying_Prophet]
+[19:13:47] [Server thread/INFO]: Tontuex lost connection: Disconnected
+[19:13:47] [Server thread/INFO]: Tontuex died
+[19:13:47] [Server thread/INFO]: Tontuex left the game
+[19:14:01] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn -27 76 -2
+[19:14:01] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to -27, 76, -2 [0.0]]
+[19:14:06] [Server thread/INFO]: Crying_Prophet issued server command: /setworldspawn
+[19:14:06] [Server thread/INFO]: [Crying_Prophet: Set the world spawn point to -29, 77, -4 [0.0]]
+[19:14:38] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[19:14:38] [Server thread/INFO]: Crying_Prophet left the game
