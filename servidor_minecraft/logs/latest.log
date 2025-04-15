@@ -294,3 +294,50 @@ java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonPa
 [04:01:38] [Server thread/INFO]: Crying_Prophet has made the advancement [Sweet Dreams]
 [04:03:28] [Server thread/INFO]: Crying_Prophet has made the advancement [Stone Age]
 [04:04:38] [Server thread/INFO]: Crying_Prophet has made the advancement [Getting an Upgrade]
+[04:06:00] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[04:06:00] [Server thread/INFO]: Crying_Prophet left the game
+[04:07:12] [Server thread/INFO]: Stopping the server
+[04:07:12] [Server thread/INFO]: Stopping server
+[04:07:12] [Server thread/INFO]: [JukeBox] Disabling JukeBox v1.17
+[04:07:12] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v0.4.4
+[04:07:12] [Server thread/INFO]: ReviveMe disable
+[04:07:12] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.2.9w
+[04:07:12] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.5
+[04:07:12] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[04:07:12] [Server thread/INFO]: [GrapplingHook] Disabling GrapplingHook v1.6.5
+[04:07:12] [Server thread/INFO]: [Graves] Disabling Graves v4.9
+[04:07:12] [Server thread/INFO]: [ManhuntPlus] Disabling ManhuntPlus v1.4.1
+[04:07:12] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.3
+[04:07:12] [Server thread/INFO]: [PickMeUp] Disabling PickMeUp v1.3.1
+[04:07:12] [Server thread/INFO]: [BedrockPlayerManager] Disabling BedrockPlayerManager v1.4
+[04:07:12] [Server thread/INFO]: [Skoice] Disabling Skoice v3.2.5
+[04:07:12] [Server thread/INFO]: [Skoice] Plugin disabled.
+[04:07:12] [Server thread/INFO]: [CombatWeaponryPlus] Disabling CombatWeaponryPlus v1.5.7
+[04:07:12] [Server thread/INFO]: [Enchantssquared] Disabling Enchantssquared v1.6.2
+[04:07:12] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.6-T20250103114036
+[04:07:13] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[04:07:13] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[04:07:13] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[04:07:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[04:07:13] [Server thread/INFO]: [UltimateAirdrops] Disabling UltimateAirdrops v1.0.3
+[04:07:13] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[04:07:13] [Server thread/INFO]: [UltimateAirdrops] Has been successfully disabled (version: 1.0.3)
+[04:07:13] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
+[04:07:13] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[04:07:13] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.18
+[04:07:13] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
+[04:07:13] [Server thread/INFO]: [Brewery] Brewery disabled!
+[04:07:13] [Server thread/INFO]: Saving players
+[04:07:13] [Server thread/INFO]: Saving worlds
+[04:07:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:14] [Server thread/INFO]: Flushing Chunk IO
+[04:07:14] [Server thread/INFO]: Closing Thread Pool
+[04:07:14] [Server thread/INFO]: Closing Server
