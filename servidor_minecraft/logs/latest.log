@@ -284,3 +284,13 @@ java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonPa
 [03:53:57] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 8
 [03:54:02] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 9
 [03:54:23] [Server thread/INFO]: Crying_Prophet issued server command: /enchantssquared list 10
+[03:54:43] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode adventure
+[03:54:43] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[03:56:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[03:56:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[03:56:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'MTVehicles' to create a bStats instance!
+[03:56:53] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode survival
+[03:56:53] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Survival Mode]
+[04:01:38] [Server thread/INFO]: Crying_Prophet has made the advancement [Sweet Dreams]
+[04:03:28] [Server thread/INFO]: Crying_Prophet has made the advancement [Stone Age]
+[04:04:38] [Server thread/INFO]: Crying_Prophet has made the advancement [Getting an Upgrade]
