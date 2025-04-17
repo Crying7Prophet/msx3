@@ -1,0 +1,17 @@
+players:
+  5113c246-f851-365d-ae5f-8beea591f8fd:
+    stand: Silver Chariot
+    standLog: []
+    standXP:
+      Stand:
+        XP: 40
+        Level: 1
+      Ability1:
+        XP: 40
+        Level: 1
+      Ability2:
+        XP: 0
+        Level: 0
+      Ability3:
+        XP: 0
+        Level: 0
