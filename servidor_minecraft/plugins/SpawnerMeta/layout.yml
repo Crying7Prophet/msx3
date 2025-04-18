@@ -1,0 +1,138 @@
+# In this file you can modify spawner upgrade inventory layout.
+# After any modifications do /sm update
+Upgrade-Layout:
+  '0':
+    Type: STATS
+    Changable: true
+    Material: NETHER_STAR
+    Glint: true
+  '1':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '2':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '3':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '4':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '5':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '6':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '7':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '8':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '9':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '10':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '11':
+    Type: UPGRADE_RANGE
+    Changable: true
+    Material: COMPASS
+    Glint: true
+  '12':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '13':
+    Type: UPGRADE_DELAY
+    Changable: true
+    Material: CLOCK
+    Glint: true
+  '14':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '15':
+    Type: UPGRADE_AMOUNT
+    Changable: true
+    Material: GOLD_INGOT
+    Glint: true
+  '16':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '17':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '18':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '19':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '20':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '21':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '22':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '23':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '24':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '25':
+    Type: BACKGROUND
+    Changable: false
+    Material: CYAN_STAINED_GLASS_PANE
+    Glint: false
+  '26':
+    Type: CHARGES
+    Changable: true
+    Material: COAL
+    Glint: true

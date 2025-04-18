@@ -1,28 +1,19 @@
-[00:10:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:10:42] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[00:10:43] [Worker-Main-1/INFO]: Loaded 7 recipes
-[00:10:45] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:10:45] [Server thread/INFO]: Loading properties
-[00:10:45] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[00:10:45] [Server thread/INFO]: Debug logging is disabled
-[00:10:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:10:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:10:45] [Server thread/INFO]: Default game type: SURVIVAL
-[00:10:45] [Server thread/INFO]: Generating keypair
-[00:10:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:10:45] [Server thread/INFO]: Using epoll channel type
-[00:10:47] [Server thread/ERROR]: Could not load 'plugins/Drugs-6.3.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
-	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:10:47] [Server thread/ERROR]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
+[02:37:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:37:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:37:47] [Worker-Main-1/INFO]: Loaded 7 recipes
+[02:37:49] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:37:49] [Server thread/INFO]: Loading properties
+[02:37:49] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[02:37:49] [Server thread/INFO]: Debug logging is disabled
+[02:37:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:37:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:37:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:37:49] [Server thread/INFO]: Generating keypair
+[02:37:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:37:50] [Server thread/INFO]: Using epoll channel type
+[02:37:50] [Server thread/ERROR]: Ambiguous plugin name `Drugs' for files `plugins/Drugs-6.2.jar' and `plugins/Drugs-5.2.jar' in `plugins'
+[02:37:50] [Server thread/ERROR]: Ambiguous plugin name `Drugs' for files `plugins/Drugs-6.1.jar' and `plugins/Drugs-6.2.jar' in `plugins'
+[02:37:51] [Server thread/ERROR]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformGeneratorPlugin has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -46,78 +37,9 @@ Caused by: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformG
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[00:10:47] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:10:52] [Server thread/WARN]: Legacy plugin HealthBar v1.2 does not specify an api-version.
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/TitanetGhast-1.6.0.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
-	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:10:52] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/DrugsV2-1.0.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
-	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/circuitsnakes-1.0.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
-	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/3DItems.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/classified/realitems/RealItemMain has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.UnsupportedClassVersionError: me/classified/realitems/RealItemMain has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:398) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
-	... 7 more
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/offhand-torch-light-1.4.0.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.19
-	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:361) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
+[02:37:51] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:37:56] [Server thread/WARN]: Legacy plugin HealthBar v1.2 does not specify an api-version.
+[02:37:56] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/spigot/GeyserSpigotPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -141,256 +63,233 @@ Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[00:10:52] [Server thread/ERROR]: Could not load 'plugins/SpawnerMeta.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: mc/rellox/spawnermeta/SpawnerMeta has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.UnsupportedClassVersionError: mc/rellox/spawnermeta/SpawnerMeta has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:398) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
-	... 7 more
-[00:10:52] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.18
-[00:10:52] [Server thread/INFO]: [UltimateAirdrops] Loading UltimateAirdrops v1.0.3
-[00:10:52] [Server thread/INFO]: [ViewDistanceTweaks] Loading ViewDistanceTweaks v1.5.7
-[00:10:52] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.2
-[00:10:52] [Server thread/INFO]: [Enchantssquared] Loading Enchantssquared v1.6.2
-[00:10:52] [Server thread/INFO]: [EnchantsSquared] WorldGuard failed to hook, plugin not found in plugin list.
-[00:10:52] [Server thread/INFO]: [CombatWeaponryPlus] Loading CombatWeaponryPlus v1.5.7
-[00:10:52] [Server thread/INFO]: [Skoice] Loading Skoice v3.2.5
-[00:10:52] [Server thread/INFO]: [Stands] Loading Stands v1.4.3
-[00:10:52] [Server thread/INFO]: [BedrockPlayerManager] Loading BedrockPlayerManager v1.4
-[00:10:52] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.5
-[00:10:52] [Server thread/INFO]: [spark] Loading spark v1.10.119
-[00:10:52] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
-[00:10:52] [Server thread/INFO]: [FancyBags] Loading FancyBags v1.8.4
-[00:10:52] [Server thread/INFO]: [Oneblock] Loading Oneblock v1.2.9w
-[00:10:52] [Server thread/INFO]: [Brewery] Loading Brewery v3.1.1
-[00:10:52] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[00:10:52] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.31.6-T20250103114036
-[00:10:52] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[00:10:52] [Server thread/INFO]: [sleep-most] Loading sleep-most v5.6.0
-[00:10:52] [Server thread/INFO]: [PickMeUp] Debug logger initialized. Log Level: INFO
-[00:10:52] [Server thread/INFO]: [PickMeUp] Loading PickMeUp v1.3.1
-[00:10:52] [Server thread/INFO]: [IsaacsItems] Loading IsaacsItems v0.7
-[00:10:52] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.3
-[00:10:52] [Server thread/INFO]: [ManhuntPlus] Loading ManhuntPlus v1.4.1
-[00:10:52] [Server thread/INFO]: [GrapplingHook] Loading GrapplingHook v1.6.5
-[00:10:52] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.5
-[00:10:52] [Server thread/INFO]: [ReviveMe] Loading ReviveMe v0.4.4
-[00:10:52] [Server thread/INFO]: [JukeBox] Loading JukeBox v1.17
-[00:10:52] [Server thread/INFO]: [ChestSort] Loading ChestSort v11.5.6
-[00:10:52] [Server thread/INFO]: [Graves] Loading Graves v4.9
-[00:10:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:10:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[00:10:53] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[00:10:54] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[00:10:54] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[00:10:54] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[00:10:54] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[00:10:54] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[00:10:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:10:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:10:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:10:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:10:54] [Server thread/INFO]: Preparing level "world"
-[00:10:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:10:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:10:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:10:55] [Server thread/INFO]: Time elapsed: 566 ms
-[00:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:10:55] [Server thread/INFO]: Time elapsed: 297 ms
-[00:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:10:55] [Server thread/INFO]: Time elapsed: 159 ms
-[00:10:55] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.18
-[00:10:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
-[00:10:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
-[00:10:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[00:10:56] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[00:10:56] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[00:10:57] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[00:10:58] [Server thread/INFO]: [UltimateAirdrops] Enabling UltimateAirdrops v1.0.3
-[00:10:58] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:10:58] [Server thread/INFO]: [UltimateAirdrops] Has been successfully enabled (version: 1.0.3)
-[00:10:58] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
-[00:10:58] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:10:58] [Server thread/INFO]: nullA total of 0where updated to the latest format
-[00:10:58] [Server thread/INFO]: [ViewDistanceTweaks] Enabling ViewDistanceTweaks v1.5.7
-[00:10:58] [Server thread/WARN]: [ViewDistanceTweaks] ViewDistanceTweaks must be configured before it can be enabled. Edit the config.yml file in the plugin's data folder, setting the 'enabled' option to true when you are done, then reload or restart the server.
-[00:10:58] [Server thread/INFO]: [ViewDistanceTweaks] Disabling ViewDistanceTweaks v1.5.7
-[00:10:58] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.2*
-[00:10:58] [Server thread/INFO]: [HealthBar] Enabled
-[00:10:58] [Server thread/INFO]: [Enchantssquared] Enabling Enchantssquared v1.6.2
-[00:10:58] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus v1.5.7
-[00:10:58] [Server thread/INFO]: [Skoice] Enabling Skoice v3.2.5
-[00:10:58] [Server thread/INFO]: [Skoice] Plugin enabled.
-[00:10:59] [Server thread/INFO]: [Skoice] Your bot is attempting to connect.
-[00:10:59] [Server thread/INFO]: [Stands] Enabling Stands v1.4.3
-[00:10:59] [Server thread/INFO]: [Stands] You expected a message, but it was me, DIO!
-[00:10:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
-[00:10:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
-[00:10:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Stands' to create a bStats instance!
-[00:10:59] [Server thread/INFO]: [BedrockPlayerManager] Enabling BedrockPlayerManager v1.4
-[00:10:59] [Server thread/WARN]: [BedrockPlayerManager]: PlaceholderAPI plugin not found! Install the missing plugin or set PlaceholderAPI to false in your config.yml!
-[00:10:59] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.5
-[00:10:59] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
-[00:10:59] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
-[00:10:59] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
-[00:10:59] [Server thread/INFO]: [spark] Enabling spark v1.10.119
-[00:10:59] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[00:10:59] [Server thread/INFO]: [spark] Starting background profiler...
-[00:11:00] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3*
-[00:11:00] [Server thread/INFO]: [FancyBags] Enabling FancyBags v1.8.4
-[00:11:00] [Server thread/INFO]: FancyBags >>> NMS Version Detected: v1_16_R3
-[00:11:00] [Server thread/INFO]: FancyBags >>> No recipes detected!
-[00:11:00] [Server thread/INFO]: FancyBags plugin has been enabled!
-[00:11:00] [Server thread/INFO]: [Oneblock] Enabling Oneblock v1.2.9w
-[00:11:00] [Server thread/INFO]: [Oneblock] 
-┏━┓····┏━━┓·····┏┓
-┃┃┣━┳┳━┫┏┓┣┓┏━┳━┫┣┓
-┃┃┃┃┃┃┻┫┏┓┃┗┫╋┃━┫━┫
-┗━┻┻━┻━┻━━┻━┻━┻━┻┻┛ by MrMarL
-[00:11:00] [Server thread/INFO]: [Oneblock] basic
-[00:11:00] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
-[00:11:01] [Server thread/INFO]: [Brewery] Brewery enabled!
-[00:11:01] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.6-T20250103114036
-[00:11:01] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[00:11:01] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
-[00:11:01] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:11:01] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
-[00:11:01] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
-[00:11:01] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:11:01] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[00:11:01] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
-[00:11:01] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
-[00:11:01] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.6.0
-[00:11:01] [Server thread/INFO]: [PickMeUp] Enabling PickMeUp v1.3.1
-[00:11:01] [Server thread/INFO]: [PickMeUp] Metrics enabled. Thank you <3
-[00:11:01] [Server thread/INFO]: [PickMeUp] Found matching locale for zh_CN
-[00:11:01] [Server thread/INFO]: [PickMeUp] Locale messages_zh_CN.properties is up to date.
-[00:11:01] [Server thread/INFO]: [PickMeUp] Found matching locale for de_DE
-[00:11:01] [Server thread/INFO]: [PickMeUp] Locale messages_de_DE.properties is up to date.
-[00:11:01] [Server thread/INFO]: [PickMeUp] Found matching locale for en_US
-[00:11:01] [Server thread/INFO]: [PickMeUp] Locale messages_en_US.properties is up to date.
-[00:11:01] [Server thread/INFO]: [IsaacsItems] Enabling IsaacsItems v0.7
-[00:11:01] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
-[00:11:01] [Server thread/INFO]: [ManhuntPlus] Enabling ManhuntPlus v1.4.1
-[00:11:01] [Server thread/INFO]: [ManhuntPlus] Author: UmbralPhoenix
-[00:11:01] [Server thread/INFO]: [ManhuntPlus] Version: 1.4.1
-[00:11:02] [Server thread/INFO]: [GrapplingHook] Enabling GrapplingHook v1.6.5
-[00:11:02] [Server thread/INFO]: [GrapplingHook] Loaded 8 recipes.
-[00:11:02] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.5
-[00:11:02] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
-[00:11:02] [Server thread/INFO]: [MTVehicles] --------------------------
-[00:11:02] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.5!
-[00:11:02] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
-[00:11:02] [Server thread/INFO]: [MTVehicles] --------------------------
-[00:11:02] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
-[00:11:02] [Server thread/INFO]: ReviveMe enable
-[00:11:02] [Server thread/INFO]: [JukeBox] Enabling JukeBox v1.17
-[00:11:02] [Server thread/INFO]: [JukeBox] This JukeBox version requires NoteBlockAPI version 1.5.0 or more. Please ensure you have the right version before using JukeBox (you are using NBAPI ver. 1.6.3)
-[00:11:02] [Server thread/INFO]: [JukeBox] Loaded language file en.yml
-[00:11:02] [Server thread/INFO]: [JukeBox] 0 songs loadeds. Sorting by name... 
-[00:11:02] [Server thread/INFO]: [JukeBox] Songs sorted ! 0 songs. Number of pages : 0
-[00:11:02] [Server thread/INFO]: [ChestSort] Enabling ChestSort v11.5.6
-[00:11:02] [Server thread/INFO]: [ChestSort] Successfully hooked into Minepacks
-[00:11:02] [Server thread/INFO]: [ChestSort] Use permissions: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[00:11:02] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[00:11:02] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[00:11:02] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[00:11:02] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[00:11:02] [Server thread/INFO]: [ChestSort] Check for updates: true
-[00:11:02] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[00:11:02] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[00:11:02] [Server thread/INFO]: [Graves] Enabling Graves v4.9
-[00:11:02] [Server thread/INFO]: [Graves] Integration: Hooked into ChestSort 11.5.6.
-[00:11:03] [Server thread/INFO]: [UltimateAirdrops] Enabled Soft-Dependencies: [None]
-[00:11:03] [Server thread/INFO]: [UltimateAirdrops] Missing Soft-Dependencies: HolographicDisplay, DecentHolograms, RedProtect, GriefPrevention, PlaceHolderAPI, WorldGuard, Dynmap, Towny, Lands
-[00:11:03] [Server thread/INFO]: Running delayed init tasks
-[00:11:03] [Craft Scheduler Thread - 5/INFO]: [Brewery] Background data loading complete.
-[00:11:03] [Craft Scheduler Thread - 1/INFO]: [UltimateAirdrops] There is a new update available!
-[00:11:03] [Craft Scheduler Thread - 1/INFO]: [UltimateAirdrops] You can download it at: https://bit.ly/UltimateAirdrops-Spigot
-[00:11:03] [Craft Scheduler Thread - 7/INFO]: [ReviveMe] There is not a new update available.
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:11:03] [Craft Scheduler Thread - 9/WARN]: [Graves] Loaded class org.apache.commons.lang3.StringUtils from sleep-most v5.6.0 which is not a depend, softdepend or loadbefore of this plugin.
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[00:11:03] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[00:11:03] [Craft Scheduler Thread - 4/INFO]: FancyBags >> You are using the latest version of the plugin!
-[00:11:03] [Server thread/INFO]: Done (18.120s)! For help, type "help"
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.26
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[00:11:03] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:11:03] [Server thread/INFO]: Timings Reset
-[00:11:04] [Server thread/WARN]: [ChestSort] **************************************************
-[00:11:04] [Server thread/WARN]: [ChestSort] * There is a new version of ChestSort available!
-[00:11:04] [Server thread/WARN]: [ChestSort] *  
-[00:11:04] [Server thread/WARN]: [ChestSort] * Your version:   11.5.6
-[00:11:04] [Server thread/WARN]: [ChestSort] * Latest version: 14.2.0
-[00:11:04] [Server thread/WARN]: [ChestSort] *  
-[00:11:04] [Server thread/WARN]: [ChestSort] * Please update to the newest version.
-[00:11:04] [Server thread/WARN]: [ChestSort] *  
-[00:11:04] [Server thread/WARN]: [ChestSort] * Download:
-[00:11:04] [Server thread/WARN]: [ChestSort] *   https://www.chestsort.de
-[00:11:04] [Server thread/WARN]: [ChestSort] **************************************************
-[00:11:05] [Craft Scheduler Thread - 2/INFO]: [Oneblock] The initialization of the world was successful!
-[00:11:06] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Your bot is connected.
-[00:11:07] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Skoice is now configured. Type "/link" on your Discord server to link your Discord account to Minecraft. Players must link their accounts to use the proximity voice chat.
-[00:11:10] [Craft Scheduler Thread - 8/WARN]: [Brewery] Plugin Brewery v3.1.1 generated an exception while executing task 88
+[02:37:56] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v2.0.18
+[02:37:56] [Server thread/INFO]: [Drugs] Loading Drugs v6.1
+[02:37:56] [Server thread/INFO]: [UltimateAirdrops] Loading UltimateAirdrops v1.0.3
+[02:37:56] [Server thread/INFO]: [ViewDistanceTweaks] Loading ViewDistanceTweaks v1.5.7
+[02:37:56] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.2
+[02:37:56] [Server thread/INFO]: [Enchantssquared] Loading Enchantssquared v1.6.2
+[02:37:56] [Server thread/INFO]: [EnchantsSquared] WorldGuard failed to hook, plugin not found in plugin list.
+[02:37:56] [Server thread/INFO]: [CombatWeaponryPlus] Loading CombatWeaponryPlus v1.5.7
+[02:37:56] [Server thread/INFO]: [Skoice] Loading Skoice v3.2.5
+[02:37:56] [Server thread/INFO]: [Stands] Loading Stands v1.4.3
+[02:37:56] [Server thread/INFO]: [BedrockPlayerManager] Loading BedrockPlayerManager v1.4
+[02:37:56] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.5
+[02:37:56] [Server thread/INFO]: [spark] Loading spark v1.10.119
+[02:37:56] [Server thread/INFO]: [FancyBags] Loading FancyBags v1.8.1
+[02:37:56] [Server thread/INFO]: [ChestSort] Loading ChestSort v11.5.6
+[02:37:56] [Server thread/INFO]: [Brewery] Loading Brewery v3.1.1
+[02:37:56] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[02:37:56] [Server thread/INFO]: [sleep-most] Loading sleep-most v5.6.0
+[02:37:56] [Server thread/INFO]: [PickMeUp] Debug logger initialized. Log Level: INFO
+[02:37:56] [Server thread/INFO]: [PickMeUp] Loading PickMeUp v1.3.1
+[02:37:56] [Server thread/INFO]: [IsaacsItems] Loading IsaacsItems v0.7
+[02:37:56] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.3
+[02:37:56] [Server thread/INFO]: [ManhuntPlus] Loading ManhuntPlus v1.4.1
+[02:37:56] [Server thread/INFO]: [Graves] Loading Graves v4.9
+[02:37:56] [Server thread/INFO]: [MTVehicles] Loading MTVehicles v2.5.5
+[02:37:56] [Server thread/INFO]: [ReviveMe] Loading ReviveMe v0.4.4
+[02:37:56] [Server thread/INFO]: [SpawnerMeta] Loading SpawnerMeta v17.0
+[02:37:56] [Server thread/INFO]: [JukeBox] Loading JukeBox v1.17
+[02:37:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:37:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:37:57] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:37:58] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[02:37:58] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:37:58] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02:37:58] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02:37:58] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02:37:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:37:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:37:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:37:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:37:58] [Server thread/INFO]: Preparing level "world"
+[02:37:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:37:59] [Server thread/INFO]: Preparing spawn area: 0%
+[02:37:59] [Server thread/INFO]: Time elapsed: 494 ms
+[02:37:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:37:59] [Server thread/INFO]: Time elapsed: 201 ms
+[02:37:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:37:59] [Server thread/INFO]: Time elapsed: 185 ms
+[02:37:59] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.18
+[02:37:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[02:37:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[02:37:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[02:38:00] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[02:38:01] [Server thread/INFO]: [Drugs] Enabling Drugs v6.1
+[02:38:01] [Server thread/INFO]: [Drugs] Drugs by TheMindDroid.
+[02:38:01] [Server thread/INFO]: [Drugs] Building drug recipes:
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Narcan... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Cocaine... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Heroin... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Adderall... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Steroids... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Hennessy... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Ketamine... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Marijuana... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for LSD... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Ecstasy... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Ayahuasca... Complete.
+[02:38:01] [Server thread/INFO]: [Drugs] Generating recipe for Shrooms... Complete.
+[02:38:01] [Server thread/INFO]: [UltimateAirdrops] Enabling UltimateAirdrops v1.0.3
+[02:38:01] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[02:38:01] [Server thread/INFO]: [UltimateAirdrops] Has been successfully enabled (version: 1.0.3)
+[02:38:01] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
+[02:38:01] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
+[02:38:01] [Server thread/INFO]: nullA total of 0where updated to the latest format
+[02:38:01] [Server thread/INFO]: [ViewDistanceTweaks] Enabling ViewDistanceTweaks v1.5.7
+[02:38:02] [Server thread/INFO]: [ViewDistanceTweaks] Using LegacyPaperSimulationDistanceHook for the simulation distance hook.
+[02:38:02] [Server thread/INFO]: [ViewDistanceTweaks] Using LegacyPaperViewDistanceHook for the view distance hook.
+[02:38:02] [Server thread/INFO]: [ViewDistanceTweaks] Using PaperTickHook for the tick hook.
+[02:38:02] [Server thread/INFO]: [ViewDistanceTweaks] Finished startup.
+[02:38:02] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.2*
+[02:38:02] [Server thread/INFO]: [HealthBar] Enabled
+[02:38:02] [Server thread/INFO]: [Enchantssquared] Enabling Enchantssquared v1.6.2
+[02:38:02] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus v1.5.7
+[02:38:02] [Server thread/INFO]: [Skoice] Enabling Skoice v3.2.5
+[02:38:03] [Server thread/INFO]: [Skoice] Plugin enabled.
+[02:38:03] [Server thread/INFO]: [Skoice] Your bot is attempting to connect.
+[02:38:03] [Server thread/INFO]: [Stands] Enabling Stands v1.4.3
+[02:38:03] [Server thread/INFO]: [Stands] You expected a message, but it was me, DIO!
+[02:38:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[02:38:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[02:38:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Stands' to create a bStats instance!
+[02:38:03] [Server thread/INFO]: [BedrockPlayerManager] Enabling BedrockPlayerManager v1.4
+[02:38:03] [Server thread/WARN]: [BedrockPlayerManager]: PlaceholderAPI plugin not found! Install the missing plugin or set PlaceholderAPI to false in your config.yml!
+[02:38:03] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.5
+[02:38:03] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[02:38:03] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[02:38:03] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[02:38:03] [Server thread/INFO]: [spark] Enabling spark v1.10.119
+[02:38:04] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[02:38:04] [Server thread/INFO]: [spark] Starting background profiler...
+[02:38:04] [Server thread/INFO]: [FancyBags] Enabling FancyBags v1.8.1
+[02:38:04] [Server thread/INFO]: FancyBags >>> NMS Version Detected: v1_16_R3
+[02:38:04] [Server thread/INFO]: FancyBags >>> No recipes detected!
+[02:38:04] [Server thread/INFO]: FancyBags plugin has been enabled!
+[02:38:04] [Server thread/INFO]: [ChestSort] Enabling ChestSort v11.5.6
+[02:38:04] [Server thread/INFO]: [ChestSort] Use permissions: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[02:38:04] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[02:38:04] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[02:38:04] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[02:38:04] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[02:38:04] [Server thread/INFO]: [ChestSort] Check for updates: true
+[02:38:04] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[02:38:04] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[02:38:04] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
+[02:38:05] [Server thread/INFO]: [Brewery] Brewery enabled!
+[02:38:05] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.6.0
+[02:38:05] [Server thread/INFO]: [PickMeUp] Enabling PickMeUp v1.3.1
+[02:38:05] [Server thread/INFO]: [PickMeUp] Metrics enabled. Thank you <3
+[02:38:05] [Server thread/INFO]: [PickMeUp] Found matching locale for zh_CN
+[02:38:05] [Server thread/INFO]: [PickMeUp] Locale messages_zh_CN.properties is up to date.
+[02:38:05] [Server thread/INFO]: [PickMeUp] Found matching locale for de_DE
+[02:38:05] [Server thread/INFO]: [PickMeUp] Locale messages_de_DE.properties is up to date.
+[02:38:05] [Server thread/INFO]: [PickMeUp] Found matching locale for en_US
+[02:38:05] [Server thread/INFO]: [PickMeUp] Locale messages_en_US.properties is up to date.
+[02:38:05] [Server thread/INFO]: [IsaacsItems] Enabling IsaacsItems v0.7
+[02:38:05] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
+[02:38:05] [Server thread/INFO]: [ManhuntPlus] Enabling ManhuntPlus v1.4.1
+[02:38:05] [Server thread/INFO]: [ManhuntPlus] Author: UmbralPhoenix
+[02:38:05] [Server thread/INFO]: [ManhuntPlus] Version: 1.4.1
+[02:38:05] [Server thread/INFO]: [Graves] Enabling Graves v4.9
+[02:38:05] [Server thread/INFO]: [Graves] Integration: Hooked into ChestSort 11.5.6.
+[02:38:05] [Server thread/INFO]: [MTVehicles] Enabling MTVehicles v2.5.5
+[02:38:05] [Server thread/INFO]: [MTVehicles] Plugin has been loaded!
+[02:38:05] [Server thread/INFO]: [MTVehicles] --------------------------
+[02:38:05] [Server thread/INFO]: [MTVehicles] Welcome by MTVehicles v2.5.5!
+[02:38:05] [Server thread/INFO]: [MTVehicles] Thanks for using our plugin.
+[02:38:05] [Server thread/INFO]: [MTVehicles] --------------------------
+[02:38:05] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
+[02:38:05] [Server thread/INFO]: ReviveMe enable
+[02:38:05] [Server thread/INFO]: [SpawnerMeta] Enabling SpawnerMeta v17.0
+[02:38:05] [Server thread/INFO]: [Spawner Meta v17.0] enabled!
+[02:38:06] [Server thread/INFO]: [JukeBox] Enabling JukeBox v1.17
+[02:38:06] [Server thread/INFO]: [JukeBox] This JukeBox version requires NoteBlockAPI version 1.5.0 or more. Please ensure you have the right version before using JukeBox (you are using NBAPI ver. 1.6.3)
+[02:38:06] [Server thread/INFO]: [JukeBox] Loaded language file en.yml
+[02:38:06] [Server thread/INFO]: [JukeBox] 0 songs loadeds. Sorting by name... 
+[02:38:06] [Server thread/INFO]: [JukeBox] Songs sorted ! 0 songs. Number of pages : 0
+[02:38:06] [Server thread/INFO]: [UltimateAirdrops] Enabled Soft-Dependencies: [None]
+[02:38:06] [Server thread/INFO]: [UltimateAirdrops] Missing Soft-Dependencies: HolographicDisplay, DecentHolograms, RedProtect, GriefPrevention, PlaceHolderAPI, WorldGuard, Dynmap, Towny, Lands
+[02:38:06] [Server thread/INFO]: Running delayed init tasks
+[02:38:06] [Craft Scheduler Thread - 3/INFO]: [Brewery] Background data loading complete.
+[02:38:06] [Craft Scheduler Thread - 6/INFO]: FancyBags >> You are using an outdated version of the plugin!
+Your version is: 1.8.1
+The latest version is: 1.8.4
+[02:38:06] [Craft Scheduler Thread - 0/INFO]: [UltimateAirdrops] There is a new update available!
+[02:38:06] [Craft Scheduler Thread - 0/INFO]: [UltimateAirdrops] You can download it at: https://bit.ly/UltimateAirdrops-Spigot
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [31;1m15.6.1[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [31;1m8687003[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    A new version ([32;1m15.6.2[36;1m) is available! Downloading update...[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:38:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m
+[02:38:06] [Craft Scheduler Thread - 8/WARN]: [Graves] Loaded class org.apache.commons.lang3.StringUtils from sleep-most v5.6.0 which is not a depend, softdepend or loadbefore of this plugin.
+[02:38:06] [Craft Scheduler Thread - 9/INFO]: [ReviveMe] There is not a new update available.
+[02:38:06] [Server thread/INFO]: Done (17.275s)! For help, type "help"
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.26
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[02:38:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[02:38:06] [Server thread/INFO]: Timings Reset
+[02:38:08] [Server thread/WARN]: [ChestSort] **************************************************
+[02:38:08] [Server thread/WARN]: [ChestSort] * There is a new version of ChestSort available!
+[02:38:08] [Server thread/WARN]: [ChestSort] *  
+[02:38:08] [Server thread/WARN]: [ChestSort] * Your version:   11.5.6
+[02:38:08] [Server thread/WARN]: [ChestSort] * Latest version: 14.2.0
+[02:38:08] [Server thread/WARN]: [ChestSort] *  
+[02:38:08] [Server thread/WARN]: [ChestSort] * Please update to the newest version.
+[02:38:08] [Server thread/WARN]: [ChestSort] *  
+[02:38:08] [Server thread/WARN]: [ChestSort] * Download:
+[02:38:08] [Server thread/WARN]: [ChestSort] *   https://www.chestsort.de
+[02:38:08] [Server thread/WARN]: [ChestSort] **************************************************
+[02:38:09] [Craft Scheduler Thread - 2/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[GitHubUpdate] SHA256 hash not found, cannot verify integrity[0;39m
+[02:38:09] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 2313ms[0;39m
+[02:38:09] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m
+[02:38:09] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m
+[02:38:10] [Craft Scheduler Thread - 2/INFO]: [Spawner Meta v17.0] New version is available: v25.0! To download visit: https://www.spigotmc.org/resources/spawnermeta.74188/
+[02:38:11] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Your bot is connected.
+[02:38:11] [ForkJoinPool.commonPool-worker-3/INFO]: [Skoice] Skoice is now configured. Type "/link" on your Discord server to link your Discord account to Minecraft. Players must link their accounts to use the proximity voice chat.
+[02:38:13] [Craft Scheduler Thread - 4/WARN]: [Brewery] Plugin Brewery v3.1.1 generated an exception while executing task 46
 java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonParser.parseReader(java.io.Reader)'
 	at com.dre.brewery.filedata.UpdateChecker.query(UpdateChecker.java:85) ~[?:?]
 	at com.dre.brewery.filedata.UpdateChecker.run(UpdateChecker.java:50) ~[?:?]
@@ -400,101 +299,35 @@ java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonPa
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:11:45] [User Authenticator #1/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[00:11:45] [Server thread/WARN]: [BedrockPlayerManager]: neither Floodgate API version 1.x nor 2.x has been detected – plugin running in 'solo mode' without Floodgate, all players will be treated as Java players!
-[00:11:45] [Server thread/INFO]: Crying_Prophet joined the game
-[00:11:46] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:41877] logged in with entity id 163 at ([world]8.5, 5.2013, 8.5)
-[00:11:58] [User Authenticator #1/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
-[00:11:58] [Server thread/INFO]: Tontuex joined the game
-[00:11:58] [Server thread/INFO]: Tontuex[/127.90.218.78:55619] logged in with entity id 233 at ([world]-26.865504877527496, 77.0, -2.7459694723567605)
-[00:12:08] [Server thread/INFO]: Tontuex lost connection: Disconnected
-[00:12:08] [Server thread/INFO]: Tontuex left the game
-[00:12:40] [Server thread/INFO]: Crying_Prophet issued server command: /plugins
-[00:13:17] [Server thread/INFO]: Crying_Prophet issued server command: /isaacsitems
-[00:13:26] [Server thread/INFO]: Crying_Prophet issued server command: /isaacsitemshelp
-[00:13:28] [User Authenticator #2/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
-[00:13:28] [Server thread/INFO]: Tontuex joined the game
-[00:13:28] [Server thread/INFO]: Tontuex[/127.90.218.78:43745] logged in with entity id 384 at ([world]-26.865504877527496, 77.0, -2.7459694723567605)
-[00:13:30] [Server thread/INFO]: Tontuex lost connection: Disconnected
-[00:13:30] [Server thread/INFO]: Tontuex left the game
-[00:13:40] [Server thread/INFO]: Crying_Prophet issued server command: /ii
-[00:13:46] [User Authenticator #2/INFO]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
-[00:13:46] [Server thread/INFO]: Tontuex joined the game
-[00:13:46] [Server thread/INFO]: Tontuex[/127.90.218.78:39583] logged in with entity id 421 at ([world]-26.865504877527496, 77.0, -2.7459694723567605)
-[00:13:48] [Server thread/INFO]: Crying_Prophet issued server command: /ii get BAG_LUNCH
-[00:14:45] [Server thread/INFO]: Crying_Prophet issued server command: /stand use
-[00:14:45] [Server thread/ERROR]: stands.yml couldn't be loaded: plugins/Stands/stands.yml (No such file or directory)
-[00:14:49] [Server thread/INFO]: Crying_Prophet issued server command: /stand
-[00:14:49] [Server thread/ERROR]: stands.yml couldn't be loaded: plugins/Stands/stands.yml (No such file or directory)
-[00:15:00] [Server thread/INFO]: Crying_Prophet issued server command: /stand help
-[00:15:00] [Server thread/ERROR]: stands.yml couldn't be loaded: plugins/Stands/stands.yml (No such file or directory)
-[00:15:10] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode adventure
-[00:15:10] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Adventure Mode]
-[00:15:12] [Server thread/INFO]: Crying_Prophet issued server command: /gamemode creative
-[00:15:12] [Server thread/INFO]: [Crying_Prophet: Set own game mode to Creative Mode]
-[00:16:34] [Server thread/INFO]: stands.yml file created successfully.
-[00:16:55] [Server thread/INFO]: Crying_Prophet issued server command: /stand dictionary
-[00:17:44] [Server thread/INFO]: Crying_Prophet issued server command: /stand use
-[00:17:48] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
-[00:17:48] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
-[00:17:48] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'MTVehicles' to create a bStats instance!
-[00:18:50] [Server thread/INFO]: Crying_Prophet issued server command: /stand upgrade
-[00:19:04] [Server thread/INFO]: Stopping the server
-[00:19:04] [Server thread/INFO]: Stopping server
-[00:19:04] [Server thread/INFO]: [Graves] Disabling Graves v4.9
-[00:19:04] [Server thread/INFO]: [ChestSort] Disabling ChestSort v11.5.6
-[00:19:04] [Server thread/INFO]: [JukeBox] Disabling JukeBox v1.17
-[00:19:04] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v0.4.4
-[00:19:04] [Server thread/INFO]: ReviveMe disable
-[00:19:04] [Server thread/INFO]: [MTVehicles] Disabling MTVehicles v2.5.5
-[00:19:04] [Server thread/INFO]: [GrapplingHook] Disabling GrapplingHook v1.6.5
-[00:19:04] [Server thread/INFO]: [ManhuntPlus] Disabling ManhuntPlus v1.4.1
-[00:19:04] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.3
-[00:19:04] [Server thread/INFO]: [IsaacsItems] Disabling IsaacsItems v0.7
-[00:19:04] [Server thread/INFO]: [PickMeUp] Disabling PickMeUp v1.3.1
-[00:19:04] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
-[00:19:04] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.6-T20250103114036
-[00:19:05] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
-[00:19:05] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
-[00:19:05] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
-[00:19:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[00:19:05] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
-[00:19:05] [Server thread/INFO]: [Brewery] Brewery disabled!
-[00:19:05] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.2.9w
-[00:19:05] [Server thread/INFO]: [FancyBags] Disabling FancyBags v1.8.4
-[00:19:05] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
-[00:19:05] [Server thread/INFO]: [spark] Disabling spark v1.10.119
-[00:19:05] [Server thread/INFO]: [VillagerOptimiser] Disabling VillagerOptimiser v1.1.5
-[00:19:05] [Server thread/INFO]: [BedrockPlayerManager] Disabling BedrockPlayerManager v1.4
-[00:19:05] [Server thread/INFO]: [Stands] Disabling Stands v1.4.3
-[00:19:05] [Server thread/INFO]: [Stands] Plugin successfully cut in half.
-[00:19:05] [Server thread/INFO]: [Skoice] Disabling Skoice v3.2.5
-[00:19:05] [Server thread/INFO]: [Skoice] Plugin disabled.
-[00:19:05] [Server thread/INFO]: [CombatWeaponryPlus] Disabling CombatWeaponryPlus v1.5.7
-[00:19:05] [Server thread/INFO]: [Enchantssquared] Disabling Enchantssquared v1.6.2
-[00:19:05] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.2
-[00:19:05] [Server thread/INFO]: [HealthBar] Configuration file saved.
-[00:19:05] [Server thread/INFO]: [UltimateAirdrops] Disabling UltimateAirdrops v1.0.3
-[00:19:05] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:19:05] [Server thread/INFO]: [UltimateAirdrops] Has been successfully disabled (version: 1.0.3)
-[00:19:05] [Server thread/INFO]: [UltimateAirdrops] Thanks for using UltimateAirdrops by KeySet Studios :)
-[00:19:05] [Server thread/INFO]: [UltimateAirdrops]<-------------------------------------------------------------->
-[00:19:05] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.18
-[00:19:05] [Server thread/INFO]: Saving players
-[00:19:05] [Server thread/INFO]: Crying_Prophet lost connection: Server closed
-[00:19:05] [Server thread/INFO]: Crying_Prophet left the game
-[00:19:05] [Server thread/INFO]: Tontuex lost connection: Server closed
-[00:19:05] [Server thread/INFO]: Tontuex left the game
-[00:19:05] [Server thread/INFO]: Saving worlds
-[00:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:19:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:19:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:19:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:19:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:19:08] [Server thread/INFO]: Flushing Chunk IO
-[00:19:08] [Server thread/INFO]: Closing Thread Pool
-[00:19:08] [Server thread/INFO]: Closing Server
+[02:40:08] [User Authenticator #1/INFO]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[02:40:08] [Server thread/WARN]: [BedrockPlayerManager]: neither Floodgate API version 1.x nor 2.x has been detected – plugin running in 'solo mode' without Floodgate, all players will be treated as Java players!
+[02:40:08] [Server thread/INFO]: Silver Chariot's user Crying_Prophet joined the server!
+[02:40:09] [Server thread/INFO]: Crying_Prophet[/127.90.218.78:59527] logged in with entity id 134 at ([world]-163.0536188652125, 68.0, 161.14776769726362)
+[02:40:29] [Server thread/INFO]: Crying_Prophet died
+[02:40:32] [User Authenticator #1/INFO]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[02:40:32] [Server thread/INFO]: KaleSsz joined the game
+[02:40:32] [Server thread/INFO]: KaleSsz[/127.244.200.188:51047] logged in with entity id 324 at ([world]12.5, 64.0, 8.5)
+[02:41:10] [Async Chat Thread - #0/INFO]: <KaleSsz> q haces
+[02:41:14] [Async Chat Thread - #0/INFO]: <Crying_Prophet> nada
+[02:41:20] [Async Chat Thread - #0/INFO]: <Crying_Prophet> acabo de crear el mundo
+[02:41:22] [Async Chat Thread - #0/INFO]: <Crying_Prophet> mira
+[02:42:10] [Async Chat Thread - #0/INFO]: <Crying_Prophet> dc
+[02:42:55] [Server thread/INFO]: Crying_Prophet was slain by KaleSsz using [Wooden Katana]
+[02:43:03] [Async Chat Thread - #0/INFO]: <Crying_Prophet> pq me matas mmwbo
+[02:43:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[02:43:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[02:43:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'MTVehicles' to create a bStats instance!
+[02:43:20] [Async Chat Thread - #0/INFO]: <KaleSsz> xDD
+[02:43:31] [Async Chat Thread - #0/INFO]: <KaleSsz> vamos pue
+[02:44:21] [Server thread/INFO]: Crying_Prophet issued server command: /skinsrestorer:skinsrestorer
+[02:44:37] [Server thread/INFO]: Crying_Prophet issued server command: /sr reload
+[02:44:37] [Thread-55/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:45:02] [Server thread/INFO]: Crying_Prophet has made the advancement [Monster Hunter]
+[02:45:34] [Server thread/INFO]: KaleSsz lost connection: Disconnected
+[02:45:34] [Server thread/INFO]: KaleSsz left the game
+[02:45:46] [User Authenticator #2/INFO]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[02:45:46] [Server thread/INFO]: KaleSsz joined the game
+[02:45:46] [Server thread/INFO]: KaleSsz[/127.244.200.188:57299] logged in with entity id 1013 at ([world]20.17678155724832, 70.0, 70.98102935669988)
+[02:45:59] [Server thread/INFO]: Crying_Prophet lost connection: Disconnected
+[02:45:59] [Server thread/INFO]: Crying_Prophet left the game
+[02:46:40] [Server thread/INFO]: KaleSsz died

@@ -1,0 +1,265 @@
+Natural:
+  Warn:
+    Stacking: '&4(!) &6You cannot stack a natural spawner!'
+    Changing: '&4(!) &6You cannot change a natural spawner!'
+    Breaking: '&4(!) &6You cannot break a natural spawner!'
+    Interact: '&4(!) &6You cannot open a natural spawner!'
+    Upgrading: '&4(!) &6You cannot upgrade a natural spawner!'
+Upgrades:
+  DisabledUpgrade: '&4(!) &6You cannot upgrade this!'
+  PriceNotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+  Upgrade: '&a(!) %color_light%Upgraded %color_dark%%upgrade_name% %color_light%to
+    level %upgrade_level%'
+  InventoryName: Spawner
+  StatsItem:
+    Name: '&7* &e%type% Spawner&7 *'
+    Lore:
+      Disabled: '&cDISABLED &8(Click to enable)'
+      Enabled: '&aENABLED &8(Click to disable)'
+      Empty: '&7Shift-right click on this spawner to empty it.'
+      Location: '&7Location: &c%loc_x%&8, &c%loc_y%&8, &c%loc_z%'
+      Spawnable: '&7Spawnable Entities: &b%spawnable%'
+      EmptyCharges: '&4Unable to spawn! &7(Empty Charges)'
+      Stacked:
+        Infinite: '&7Stacked: &b%stacked% Spawner'
+        Finite: '&7Stacked: &b%stacked%/%limit% Spawners'
+  UpgradeItem:
+    Name: '%color_dark%* %upgrade_name% %upgrade_level% *'
+    Lore:
+      Info: '&8Click to upgrade!'
+      Current: '&7&oCurrent %upgrade_name%: %color_light%%upgrade_value% %measurement%'
+      Next: '&7&oNext %upgrade_name%: %color_light%%upgrade_value% %measurement%'
+      Maximum: '&2Maximum level has been reached!'
+      Price: '&f&oPrice: &2%price%'
+  DisabledItem:
+    Name: '%color_dark%* %upgrade_name% *'
+    Lore:
+      Info: '&4Cannot be upgraded!'
+      Current: '&7&oCurrent %upgrade_name%: %color_light%%upgrade_value% %measurement%'
+  ChargesItem:
+    Name: '&cSpawning Charges: &b%charges%'
+    Lore:
+      Buy16: '&7Left-Click to buy &e16 Charges &8(%price%)'
+      Buy128: '&7Right-Click to buy &6128 Charges &8(%price%)'
+      BuyAll: '&7Middle-Click to buy &c%charges% Charges &8(%price%)'
+  Charges:
+    Buy: '&a(!) &bYou bought %charges% spawner charges'
+Spawner:
+  Item:
+    Name: '&bSpawner&e (%type%)'
+    EmptyName: '&6<Empty> &bSpawner'
+    Lore:
+      Info: '&fUpgrades:'
+      Upgrade: '&7-» %color_dark%&o%upgrade_name% &b%upgrade_level%'
+      Charges: '&cCharges: &b%charges%'
+      Spawnable: '&6Spawnable Entities: &b%spawnable%'
+  View:
+    Spawner:
+      Name: '&e-=[ &b%type% Spawner&e ]=-'
+      Lore:
+        Price: '&8* &7Price: &f%price%'
+        Increase: '&8* &7Price Increase: &f%increase%'
+        MaxLevel: '&8* &7Maximum Level: &f%max_level%'
+        Spawnable: '&7Spawnable Entities: &9%spawnable%'
+    Inventory:
+      Name: '&0All Spawners'
+    Page:
+      Current: '&bPage %page%'
+      Next: '&6Next Page'
+      Previous: '&6Previous Page'
+    Warn:
+      Empty: '&4(!) &3Nothing to view!'
+      Disabled: '&4(!) &3Spawner viewing is disabled!'
+  Ownership:
+    Limit:
+      Current: '&2(!) &bSpawner placed &6(&e%placed%&6/&e%limit%&6)'
+      Reached: '&4(!) &6You have reach your spawner limit! &7(%limit%)'
+    Warn:
+      Stacking: '&4(!) &6You cannot stack a spawner that you do not own!'
+      Breaking: '&4(!) &6You cannot break a spawner that you do not own!'
+      Upgrading: '&4(!) &6You cannot upgrade a spawner that you do not own!'
+      Interact: '&4(!) &6You cannot open a spawner that you do not own!'
+      Changing: '&4(!) &6You cannot change a spawner that you do not own!'
+  Empty:
+    DisabledWarn: '&4(!) &3Empty spawners are disabled!'
+    InteractWarn: '&4(!) &3Cannot open empty spawners!'
+    FullHandWarn: '&4(!) &3You must have an empty hand to remove spawner egg(s)!'
+  Mine:
+    Succeed: '&a(!) &bSpawner successfully mined!'
+    Fail: '&4(!) &3Spawner failed to mine!'
+  Hologram:
+    Single: '&b%name% Spawner'
+    Multiple: '&b%name% Spawner &6[&e%stack%&6]'
+Stacking:
+  UnequalSpawner: '&4(!) &6Spawners must be the same to stack!'
+  LimitReached: '&4(!) &6This spawner has reached its stacking limit!'
+  PriceNotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+  Stack: '&2(!) &bSpawners have been stacked!'
+  Stacked:
+    Infinite: '&e(%stacked% Stacked)'
+    Finite: '&e(%stacked%/%limit% Stacked)'
+Shop:
+  Buy:
+    NotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+    Success: '&2(!) &bPurchased &e%amount% × %type%&b Spawner(s)!'
+    Inventory:
+      Name: '&0Spawner Shop &8(&6%page_current%&8/&6%page_total%&8)'
+      Page:
+        This: '&bPage %page%'
+        Next: '&6Next Page'
+        Previous: '&6Previous Page'
+    Item:
+      Name: '&bSpawner&e (%type%)'
+      Price: '&f&oPrice: &2%price%'
+      Buy1: '&7Left-Click to buy 1'
+      Buy4: '&7Right-Click to buy 4'
+      Buy16: '&7Shift-Left-Click to buy 16'
+      BuyMax: '&7Shift-Right-Click to buy maximum'
+  Sell:
+    Empty: '&4(!) &6Nothing to sell!'
+    Unable: '&4(!) &6Unable to sell that!'
+    Success: '&2(!) &bSuccessfully sold spawners for:'
+    Item:
+      Sell: '&aSell'
+      Close: '&cClose'
+    Info:
+      Header: '&bSelling for:'
+      Price: '&7» &2%price%'
+    Inventory:
+      Name: '&0Spawners Selling'
+  Selection:
+    Buy: '&bClick to buy spawners'
+    Sell: '&bClick to sell spawners'
+    Inventory:
+      Name: '&0Spawners Selling'
+  Warn:
+    Disabled: '&4(!) &3Spawner shop has been disabled!'
+Main:
+  Name:
+    Range: Range
+    Delay: Delay
+    Amount: Amount
+  Measurement:
+    Range: Blocks
+    Delay: Seconds
+    Amount: Entities
+Permission:
+  Warn:
+    Place: '&4(!) &6You do not have a permission to place this!'
+    Break: '&4(!) &6You do not have a permission to break this!'
+    Stack: '&4(!) &6You do not have a permission to stack this!'
+    EggUse: '&4(!) &6You do not have a permission to use this!'
+    View: '&4(!) &6You do not have a permission to view this!'
+    Upgrade:
+      Open: '&4(!) &6You do not have a permission to open this!'
+      Buy: '&4(!) &6You do not have a permission to upgrade this!'
+    Shop:
+      Open: '&4(!) &6You do not have a permission to open this!'
+      Buy: '&4(!) &6You do not have a permission to buy this!'
+      Sell: '&4(!) &6You do not have a permission to sell this!'
+Chunk:
+  LimitReached: '&4(!) &6This chunk has reached its spawner limit!'
+Place:
+  PriceNotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+EggUse:
+  SameEntity: '&4(!) &6You cannot set the same entity type!'
+  PriceNotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+  EggsNotEnough: '&4(!) &6Not enough spawn eggs &7(Requires %required%)'
+  TypeChanged: '&2(!) &bSpawner type set to &e%type%'
+Breaking:
+  PriceNotEnough: '&4(!) &6%not_enough%&7 (Requires %price%)'
+Price:
+  Experience:
+    NotEnough: Not enough experience!
+    Amount: '%amount% Experience'
+  Levels:
+    NotEnough: Not enough experience levels!
+    Amount: '%amount% Experience Levels'
+  Material:
+    NotEnough: Not enough materials!
+    Amount: '%amount% × %material_name%'
+  Economy:
+    NotEnough: Insufficient funds!
+    Amount: $%amount%
+Entities:
+  ARMOR_STAND: Armor Stand
+  BAT: Bat
+  BEE: Bee
+  BLAZE: Blaze
+  BOAT: Boat
+  CAT: Cat
+  CAVE_SPIDER: Cave Spider
+  CHICKEN: Chicken
+  COD: Cod
+  COW: Cow
+  CREEPER: Creeper
+  DOLPHIN: Dolphin
+  DONKEY: Donkey
+  DROWNED: Drowned
+  ELDER_GUARDIAN: Elder Guardian
+  ENDERMAN: Enderman
+  ENDERMITE: Endermite
+  ENDER_DRAGON: Ender Dragon
+  EVOKER: Evoker
+  EXPERIENCE_BOTTLE: Experience Bottle
+  EXPERIENCE_ORB: Experience Orb
+  FOX: Fox
+  GHAST: Ghast
+  GIANT: Giant
+  GUARDIAN: Guardian
+  HOGLIN: Hoglin
+  HORSE: Horse
+  HUSK: Husk
+  ILLUSIONER: Illusioner
+  IRON_GOLEM: Iron Golem
+  LLAMA: Llama
+  MAGMA_CUBE: Magma Cube
+  MINECART: Minecart
+  MINECART_CHEST: Minecart with Chest
+  MINECART_COMMAND: Minecart with Command Block
+  MINECART_FURNACE: Minecart with Furnace
+  MINECART_HOPPER: Minecart with Hopper
+  MINECART_SPAWNER: Minecart with Spawner
+  MINECART_TNT: Minecart with TNT
+  MULE: Mule
+  MUSHROOM_COW: Mushroom Cow
+  OCELOT: Ocelot
+  PANDA: Panda
+  PARROT: Parrot
+  PHANTOM: Phantom
+  PIG: Pig
+  PIGLIN: Piglin
+  PIGLIN_BRUTE: Piglin Brute
+  PILLAGER: Pillager
+  POLAR_BEAR: Polar Bear
+  PUFFERFISH: Pufferfish
+  RABBIT: Rabbit
+  RAVAGER: Ravager
+  SALMON: Salmon
+  SHEEP: Sheep
+  SHULKER: Shulker
+  SILVERFISH: Silverfish
+  SKELETON: Skeleton
+  SKELETON_HORSE: Skeleton Horse
+  SLIME: Slime
+  SNOWMAN: Snowman
+  SPIDER: Spider
+  SQUID: Squid
+  STRAY: Stray
+  STRIDER: Strider
+  TRADER_LLAMA: Trader Llama
+  TROPICAL_FISH: Tropical Fish
+  TURTLE: Turtle
+  VEX: Vex
+  VILLAGER: Villager
+  VINDICATOR: Vindicator
+  WANDERING_TRADER: Wandering Trader
+  WITCH: Witch
+  WITHER: Wither
+  WITHER_SKELETON: Wither Skeleton
+  WOLF: Wolf
+  ZOGLIN: Zoglin
+  ZOMBIE: Zombie
+  ZOMBIE_HORSE: Zombie Horse
+  ZOMBIE_VILLAGER: Zombie Villager
+  ZOMBIFIED_PIGLIN: Zombified Piglin
