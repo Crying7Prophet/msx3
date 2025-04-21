@@ -17,7 +17,7 @@
 		Can_Jump = "YES"
 		#What pose you have whilst fallen
 		#Allowed Values: CROUCH, PRONE, SLEEP
-		Fallen_Pose = "CROUCH"
+		Fallen_Pose = "SLEEP"
 		#If the player may move while fallen
 		Can_Move = true
 
@@ -49,13 +49,13 @@
 		Time_Reduction_Penalty = 0.2
 		#How much time (in seconds) must pass before you may be killed by other players. Affected by time reduction penalty. Setting to -1 will disable this
 		#Range: > -1
-		PVP_Timer = 10
+		PVP_Timer = 1
 		#how long the revive penalty effects will last in SECONDS
 		#Range: 0.0 ~ 1.7976931348623157E308
 		Revive_Penalty_Timer = 45.0
 		#How long you have before death. Default is 30 seconds. Setting to 0 will disable the timer
 		#Range: > 0
-		"Time Left" = 30
+		"Time Left" = 10
 
 ["Revive Settings"]
 
