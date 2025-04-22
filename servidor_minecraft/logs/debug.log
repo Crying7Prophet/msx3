@@ -7816,3 +7816,142 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 04:19:07.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k68s6kew54aw]: Consuming argument `#air`
 [22Apr2025 04:19:07.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k68s6kew54aw]: Consuming argument `minecraft:stone`
 [22Apr2025 04:19:07.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k68s6kew54aw]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:19:14.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 04:19:14.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 04:19:14.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 04:19:17.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 04:19:17.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:19:17.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:19:17.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 65.29 blocks apart]
+[22Apr2025 04:20:12.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> ponte en survival
+[22Apr2025 04:20:16.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tvoy
+[22Apr2025 04:20:18.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[22Apr2025 04:20:34.441] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:20:34.488] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:20:34.489] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:20:34.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:20:34.494] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 04:20:34.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el pvp sigue inactivo
+[22Apr2025 04:20:37.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> no se activó
+[22Apr2025 04:20:39.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:20:43.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> me kago
+[22Apr2025 04:20:53.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> ayuda aqui
+[22Apr2025 04:20:55.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i3h41qs78712]: started parsing
+[22Apr2025 04:20:55.053] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i3h41qs78712]: Consuming argument ``
+[22Apr2025 04:20:56.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9af85cpufss]: started parsing
+[22Apr2025 04:20:56.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9af85cpufss]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02wce50gfbvnl]: started parsing
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02wce50gfbvnl]: Consuming argument `#air`
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02wce50gfbvnl]: Consuming argument `minecraft:stone`
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02wce50gfbvnl]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvs0hrziqynw]: started parsing
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvs0hrziqynw]: Consuming argument `#air`
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvs0hrziqynw]: Consuming argument `minecraft:stone`
+[22Apr2025 04:21:10.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvs0hrziqynw]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:21:11.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02oi02f333r3k]: started parsing
+[22Apr2025 04:21:11.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02oi02f333r3k]: Consuming argument `#air`
+[22Apr2025 04:21:11.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02oi02f333r3k]: Consuming argument `minecraft:stone`
+[22Apr2025 04:21:11.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02oi02f333r3k]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:21:16.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[22Apr2025 04:21:30.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:22:16.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> jere veni
+[22Apr2025 04:22:42.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> voy
+[22Apr2025 04:22:48.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[22Apr2025 04:22:59.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n0a6ju6incc5]: started parsing
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n0a6ju6incc5]: Consuming argument `#air`
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n0a6ju6incc5]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n0a6ju6incc5]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oeg5sp5i8k25]: started parsing
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oeg5sp5i8k25]: Consuming argument `#air`
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oeg5sp5i8k25]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:28.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oeg5sp5i8k25]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzeh15yxy6gb]: started parsing
+[22Apr2025 04:23:29.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzeh15yxy6gb]: Consuming argument `#air`
+[22Apr2025 04:23:29.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzeh15yxy6gb]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzeh15yxy6gb]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11b10aov6gp9w]: started parsing
+[22Apr2025 04:23:29.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11b10aov6gp9w]: Consuming argument `#air`
+[22Apr2025 04:23:29.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11b10aov6gp9w]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11b10aov6gp9w]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14y66ruvna76w]: started parsing
+[22Apr2025 04:23:29.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14y66ruvna76w]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14y66ruvna76w]: Consuming argument `minecraft:air`
+[22Apr2025 04:23:29.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14y66ruvna76w]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0otwgghf2f5]: started parsing
+[22Apr2025 04:23:29.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0otwgghf2f5]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0otwgghf2f5]: Consuming argument `minecraft:air`
+[22Apr2025 04:23:29.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0otwgghf2f5]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10sz5vd4370wg]: started parsing
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10sz5vd4370wg]: Consuming argument `#air`
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10sz5vd4370wg]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10sz5vd4370wg]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m4oqbkiw1no]: started parsing
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m4oqbkiw1no]: Consuming argument `#air`
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m4oqbkiw1no]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10m4oqbkiw1no]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dak5j1csre1i]: started parsing
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dak5j1csre1i]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dak5j1csre1i]: Consuming argument `minecraft:air`
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dak5j1csre1i]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9aymkjasrm5]: started parsing
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9aymkjasrm5]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9aymkjasrm5]: Consuming argument `minecraft:air`
+[22Apr2025 04:23:29.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9aymkjasrm5]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:29.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ea0pceunweg8]: started parsing
+[22Apr2025 04:23:29.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ea0pceunweg8]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ea0pceunweg8]: Consuming argument `#air`
+[22Apr2025 04:23:29.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nzhp4nm5r7q]: started parsing
+[22Apr2025 04:23:29.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nzhp4nm5r7q]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nzhp4nm5r7q]: Consuming argument `#air`
+[22Apr2025 04:23:29.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm78nifescz3]: started parsing
+[22Apr2025 04:23:29.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm78nifescz3]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm78nifescz3]: Consuming argument `##`
+[22Apr2025 04:23:29.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzvhx5zgnwws]: started parsing
+[22Apr2025 04:23:29.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzvhx5zgnwws]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:29.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pzvhx5zgnwws]: Consuming argument `##`
+[22Apr2025 04:23:30.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i3jg91e8v6is]: started parsing
+[22Apr2025 04:23:30.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i3jg91e8v6is]: Consuming argument `#air`
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i3jg91e8v6is]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i3jg91e8v6is]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i874kb2w1avd]: started parsing
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i874kb2w1avd]: Consuming argument `#air`
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i874kb2w1avd]: Consuming argument `minecraft:stone`
+[22Apr2025 04:23:30.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i874kb2w1avd]: Finished looking at arguments. Finalizing command.
+[22Apr2025 04:23:32.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to KaleSsz]
+[22Apr2025 04:23:35.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> hola
+[22Apr2025 04:24:20.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq friendly fire false?
+[22Apr2025 04:24:23.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tas tonto
+[22Apr2025 04:24:32.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> donde
+[22Apr2025 04:24:41.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya lo arreglre
+[22Apr2025 04:24:53.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> este es el spread
+[22Apr2025 04:25:04.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> cual
+[22Apr2025 04:25:12.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> arrregla esa mrda
+[22Apr2025 04:25:21.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pa que no apareszca en los bordes
+[22Apr2025 04:25:34.433] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:25:34.490] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:25:34.490] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 04:25:34.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:25:34.493] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 04:25:44.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:25:44.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:25:44.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 04:25:44.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 04:25:44.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 04:25:44.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 04:25:47.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y tienes que poner el bloque alla
+[22Apr2025 04:25:57.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 04:25:57.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 04:25:57.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 04:26:00.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 04:26:00.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:26:00.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:26:00.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 04:26:00.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 50.04 blocks apart]
+[22Apr2025 04:26:42.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> dime la ubicacion pue
+[22Apr2025 04:27:48.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale
+[22Apr2025 04:27:53.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mmdor de pippi
+[22Apr2025 04:27:56.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya te digo
+[22Apr2025 04:28:05.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira el discord
+[22Apr2025 04:28:15.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to KaleSsz]
+[22Apr2025 04:28:56.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Applied effect Night Vision to Crying_Prophet]
