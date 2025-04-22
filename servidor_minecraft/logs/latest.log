@@ -796,3 +796,236 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 01:23:05.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for Dylan_HHH]
 [22Apr2025 01:23:05.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to Dylan_HHH]
 [22Apr2025 01:23:05.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:23:09.279] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a5f4ee3
+[22Apr2025 01:23:09.302] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:36119] logged in with entity id 1785 at (28.324070369912263, -138.25106959837353, 38.215153477696994)
+[22Apr2025 01:23:09.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[22Apr2025 01:23:09.362] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[22Apr2025 01:23:09.497] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[22Apr2025 01:23:09.498] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[22Apr2025 01:23:10.306] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 0.0,-22.783684435935925,0.0
+[22Apr2025 01:23:10.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:23:11.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet fell out of the world
+[22Apr2025 01:23:11.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:23:11.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:23:11.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:23:12.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:23:12.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:23:12.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:23:23.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> q fue
+[22Apr2025 01:23:31.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 365 items from player Dylan_HHH]
+[22Apr2025 01:23:31.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:23:31.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Dylan_HHH]
+[22Apr2025 01:23:31.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:23:31.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Cap]]
+[22Apr2025 01:23:31.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> apareci en el borde
+[22Apr2025 01:23:32.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Tunic]]
+[22Apr2025 01:23:32.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Pants]]
+[22Apr2025 01:23:32.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:23:32.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:23:44.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 01:23:44.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 01:23:44.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 01:23:44.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 01:23:44.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 01:23:45.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 01:23:46.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 01:23:46.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> se acabo
+[22Apr2025 01:23:47.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 01:23:47.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 01:23:47.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 01:23:48.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 50.35 blocks apart]
+[22Apr2025 01:23:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:23:48.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 01:23:48.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to 2 targets]
+[22Apr2025 01:23:48.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 01:23:48.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:23:48.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 01:23:49.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:23:51.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 01:23:54.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:24:10.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 01:24:10.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 01:24:10.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:24:11.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 01:24:11.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 01:24:14.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 1110 items from player Crying_Prophet]
+[22Apr2025 01:24:32.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 01:25:22.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:25:22.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:25:22.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:25:22.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:25:22.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:27:32.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 2 items from player Crying_Prophet]
+[22Apr2025 01:27:33.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:27:33.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:27:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:27:33.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:27:33.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:27:33.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:27:33.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:27:33.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:27:34.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Dylan_HHH]
+[22Apr2025 01:27:49.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> estas muycerca w
+[22Apr2025 01:27:51.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 70 items from player Crying_Prophet]
+[22Apr2025 01:27:51.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:27:51.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:27:51.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:27:51.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:27:51.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:27:52.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:27:52.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 01:27:52.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:27:52.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:27:57.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Crying_Prophet's game mode to Adventure Mode]
+[22Apr2025 01:27:57.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 01:27:57.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 01:27:57.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 01:27:57.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 01:27:58.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 01:27:58.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 01:27:59.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 01:28:00.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 01:28:00.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 01:28:00.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 01:28:01.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 50.41 blocks apart]
+[22Apr2025 01:28:01.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:28:01.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 01:28:01.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to 2 targets]
+[22Apr2025 01:28:01.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 01:28:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:28:02.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 01:28:02.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:28:16.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:28:20.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by Dylan_HHH
+[22Apr2025 01:28:20.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:28:20.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:28:20.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:28:20.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:28:20.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:28:20.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:28:21.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:29:11.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:29:14.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:29:14.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:29:14.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:29:14.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:29:15.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:29:15.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:29:15.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:29:15.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:29:30.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Removed 412 items from player Crying_Prophet]
+[22Apr2025 01:29:36.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:29:39.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:29:39.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:29:40.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:29:40.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:29:40.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:29:40.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:29:40.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:29:40.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:29:47.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:29:52.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:29:52.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:29:52.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:29:52.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:29:52.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:29:52.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:29:53.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:29:53.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:30:02.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:30:04.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[22Apr2025 01:30:05.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:30:05.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:30:05.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:30:05.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:30:05.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:30:05.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:30:06.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:30:15.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:30:22.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was doomed to fall by Crying_Prophet
+[22Apr2025 01:30:22.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:30:22.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Dylan_HHH]
+[22Apr2025 01:30:22.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Dylan_HHH]
+[22Apr2025 01:30:22.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Dylan_HHH]
+[22Apr2025 01:30:22.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:30:22.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Dylan_HHH]
+[22Apr2025 01:30:23.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:30:40.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:30:45.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[22Apr2025 01:30:45.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:30:45.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:30:45.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:30:45.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:30:45.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:30:45.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:30:46.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:31:10.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:31:13.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was annihilated by Dylan_HHH
+[22Apr2025 01:31:13.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:31:13.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:31:13.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:31:14.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:31:14.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:31:14.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:31:14.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:31:32.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:31:39.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[22Apr2025 01:31:39.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:31:40.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:31:40.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:31:40.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:31:40.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:31:40.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:31:40.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:31:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:32:00.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:32:01.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:32:01.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:32:01.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:32:01.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:32:01.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:32:01.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:32:01.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:32:31.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:32:38.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:32:40.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:32:40.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:32:40.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:32:40.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:32:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:32:40.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:32:41.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:32:41.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:32:42.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> xd
+[22Apr2025 01:32:48.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was taken down by Crying_Prophet
+[22Apr2025 01:32:49.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:32:49.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Dylan_HHH]
+[22Apr2025 01:32:49.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Dylan_HHH]
+[22Apr2025 01:32:49.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Dylan_HHH]
+[22Apr2025 01:32:49.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:32:49.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Dylan_HHH]
+[22Apr2025 01:32:49.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:33:00.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:33:01.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:33:02.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 01:33:02.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 01:33:02.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:33:02.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 01:33:02.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 01:33:10.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was executed by Crying_Prophet
+[22Apr2025 01:33:11.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:33:19.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 1080 items from player Crying_Prophet]
+[22Apr2025 01:33:22.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 289 items from player Dylan_HHH]
+[22Apr2025 01:33:22.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:33:22.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Dylan_HHH]
+[22Apr2025 01:33:22.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> chamo
+[22Apr2025 01:33:22.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:33:22.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Cap]]
+[22Apr2025 01:33:22.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Tunic]]
+[22Apr2025 01:33:22.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Pants]]
+[22Apr2025 01:33:23.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:33:23.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:33:32.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> que molleja que no sirve esta monda
+[22Apr2025 01:33:37.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:33:49.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> se quito la rapidez
+[22Apr2025 01:34:07.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> solo es para el maniaco
