@@ -5200,3 +5200,143 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 02:58:05.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ?
 [22Apr2025 02:58:08.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si pero tu mrda no deja juagr
 [22Apr2025 02:58:30.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya arregle tu cagadero
+[22Apr2025 02:58:40.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to Crying_Prophet]
+[22Apr2025 02:59:01.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> los plugins? pq el server es de forge supongo
+[22Apr2025 02:59:10.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hay una version de forge y plugins
+[22Apr2025 02:59:12.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> para servidores
+[22Apr2025 02:59:25.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> quejesto
+[22Apr2025 02:59:36.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7095rcvztbp]: started parsing
+[22Apr2025 02:59:36.184] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7095rcvztbp]: Consuming argument ``
+[22Apr2025 02:59:37.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1al8jhy07ccjc]: started parsing
+[22Apr2025 02:59:37.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1al8jhy07ccjc]: Consuming argument `m`
+[22Apr2025 02:59:37.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8rvtxelyvyi]: started parsing
+[22Apr2025 02:59:37.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8rvtxelyvyi]: Consuming argument `mi`
+[22Apr2025 02:59:38.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g8l4p3p2mc7u]: started parsing
+[22Apr2025 02:59:38.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g8l4p3p2mc7u]: Consuming argument `mie`
+[22Apr2025 02:59:38.917] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ry7at30ftwti]: started parsing
+[22Apr2025 02:59:38.917] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ry7at30ftwti]: Consuming argument `miec`
+[22Apr2025 02:59:39.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [123sdi7nq38n7]: started parsing
+[22Apr2025 02:59:39.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [123sdi7nq38n7]: Consuming argument `miecr`
+[22Apr2025 02:59:39.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tpt5spo3v35k]: started parsing
+[22Apr2025 02:59:39.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tpt5spo3v35k]: Consuming argument `miecra`
+[22Apr2025 02:59:39.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fnud7mnkwvne]: started parsing
+[22Apr2025 02:59:39.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fnud7mnkwvne]: Consuming argument `miecraf`
+[22Apr2025 02:59:39.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwpubin9yyg0]: started parsing
+[22Apr2025 02:59:39.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwpubin9yyg0]: Consuming argument `miecra`
+[22Apr2025 02:59:39.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [061v1rothhwv8]: started parsing
+[22Apr2025 02:59:39.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [061v1rothhwv8]: Consuming argument `miecr`
+[22Apr2025 02:59:39.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dw3lmidh4lkh]: started parsing
+[22Apr2025 02:59:39.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dw3lmidh4lkh]: Consuming argument `miec`
+[22Apr2025 02:59:39.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b4cwb6mpycot]: started parsing
+[22Apr2025 02:59:39.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b4cwb6mpycot]: Consuming argument `mie`
+[22Apr2025 02:59:39.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0poxln2y4y5o1]: started parsing
+[22Apr2025 02:59:39.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0poxln2y4y5o1]: Consuming argument `mi`
+[22Apr2025 02:59:40.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ev7z5q4hva0]: started parsing
+[22Apr2025 02:59:40.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ev7z5q4hva0]: Consuming argument `min`
+[22Apr2025 02:59:40.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qx4lb61gdnqz]: started parsing
+[22Apr2025 02:59:40.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qx4lb61gdnqz]: Consuming argument `mine`
+[22Apr2025 02:59:40.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iih879acruk9]: started parsing
+[22Apr2025 02:59:40.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iih879acruk9]: Consuming argument `minec`
+[22Apr2025 02:59:40.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sfouz3jztnxl]: started parsing
+[22Apr2025 02:59:40.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sfouz3jztnxl]: Consuming argument `minecr`
+[22Apr2025 02:59:40.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oh994fsnal8w]: started parsing
+[22Apr2025 02:59:40.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oh994fsnal8w]: Consuming argument `minecra`
+[22Apr2025 02:59:40.782] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0do58keke9v8m]: started parsing
+[22Apr2025 02:59:40.782] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0do58keke9v8m]: Consuming argument `minecraf`
+[22Apr2025 02:59:40.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vm476zwdmh0r]: started parsing
+[22Apr2025 02:59:40.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vm476zwdmh0r]: Consuming argument `minecraft`
+[22Apr2025 02:59:41.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18sbcshjqsrde]: started parsing
+[22Apr2025 02:59:41.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18sbcshjqsrde]: Consuming argument `minecraft:`
+[22Apr2025 02:59:42.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nl6lrhv1vv0n]: started parsing
+[22Apr2025 02:59:42.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nl6lrhv1vv0n]: Consuming argument `minecraft:g`
+[22Apr2025 02:59:42.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v68w3vfdqsuj]: started parsing
+[22Apr2025 02:59:42.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v68w3vfdqsuj]: Consuming argument `minecraft:gl`
+[22Apr2025 02:59:42.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k8xah7s0v6p2]: started parsing
+[22Apr2025 02:59:42.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k8xah7s0v6p2]: Consuming argument `minecraft:glo`
+[22Apr2025 02:59:42.433] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fj9rmqn038ds]: started parsing
+[22Apr2025 02:59:42.433] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fj9rmqn038ds]: Consuming argument `minecraft:glow`
+[22Apr2025 02:59:43.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> este loco esta haciendo un lobby
+[22Apr2025 02:59:43.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0703rbjp7vmrp]: started parsing
+[22Apr2025 02:59:43.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0703rbjp7vmrp]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:43.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0703rbjp7vmrp]: Consuming argument ``
+[22Apr2025 02:59:44.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bk9p2j0ups3]: started parsing
+[22Apr2025 02:59:44.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bk9p2j0ups3]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:44.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bk9p2j0ups3]: Consuming argument `1`
+[22Apr2025 02:59:44.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bk9p2j0ups3]: Finished looking at arguments. Finalizing command.
+[22Apr2025 02:59:44.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t6xls5tdhjl]: started parsing
+[22Apr2025 02:59:44.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t6xls5tdhjl]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:44.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t6xls5tdhjl]: Consuming argument ``
+[22Apr2025 02:59:44.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj0nk7fej5gy]: started parsing
+[22Apr2025 02:59:44.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj0nk7fej5gy]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:44.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj0nk7fej5gy]: Consuming argument `6`
+[22Apr2025 02:59:44.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj0nk7fej5gy]: Finished looking at arguments. Finalizing command.
+[22Apr2025 02:59:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbajvu02q4gn]: started parsing
+[22Apr2025 02:59:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbajvu02q4gn]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbajvu02q4gn]: Consuming argument `6`
+[22Apr2025 02:59:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbajvu02q4gn]: Consuming argument ``
+[22Apr2025 02:59:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbajvu02q4gn]: parseRegularArgument: no arguments to attempt matching
+[22Apr2025 02:59:46.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [158mzpy6wi1et]: started parsing
+[22Apr2025 02:59:46.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [158mzpy6wi1et]: Consuming argument `minecraft:glowstone`
+[22Apr2025 02:59:46.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [158mzpy6wi1et]: Consuming argument `6`
+[22Apr2025 02:59:46.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [158mzpy6wi1et]: Finished looking at arguments. Finalizing command.
+[22Apr2025 02:59:47.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> segun el
+[22Apr2025 02:59:50.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si pero me esta como quedando feo
+[22Apr2025 02:59:50.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> oye y cual era mi cagadero
+[22Apr2025 02:59:54.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si no me gusta exploto todo con tnt
+[22Apr2025 03:00:01.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo de los equipos
+[22Apr2025 03:00:03.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no
+[22Apr2025 03:00:04.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vyg3w79bv64a]: started parsing
+[22Apr2025 03:00:04.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vyg3w79bv64a]: Finished looking at arguments. Finalizing command.
+[22Apr2025 03:00:07.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tu cocina
+[22Apr2025 03:00:22.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> te voy a tener fe
+[22Apr2025 03:00:31.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no
+[22Apr2025 03:00:35.272] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:00:35.396] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:00:35.398] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:00:35.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:00:35.403] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 03:00:36.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale
+[22Apr2025 03:00:36.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> que me guste construir no queire decir q lo haga bien
+[22Apr2025 03:00:44.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> adentro esta mas bonito
+[22Apr2025 03:00:50.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> uy
+[22Apr2025 03:01:05.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> no veo nada malo aca
+[22Apr2025 03:01:06.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo que deberiamos quitar es la parte de abajo
+[22Apr2025 03:01:11.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq no se va a ver
+[22Apr2025 03:01:20.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> QUE YA LO ARREGLE
+[22Apr2025 03:01:26.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> MRDA
+[22Apr2025 03:01:38.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> que colocaste
+[22Apr2025 03:01:39.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> SI NO, NO PODIAMOS JUGAR
+[22Apr2025 03:01:48.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pero nosotros jugamos tranqui ayer
+[22Apr2025 03:01:56.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y eso no lo movi
+[22Apr2025 03:02:04.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 03:02:07.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no tenia nda
+[22Apr2025 03:02:23.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y el clear del final tambien
+[22Apr2025 03:02:55.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> No te preocupes
+[22Apr2025 03:02:59.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> voy a volarlo
+[22Apr2025 03:03:14.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> tengo que hacer una restructuración
+[22Apr2025 03:03:43.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> necesito que configures un bloque que sume una variable
+[22Apr2025 03:03:51.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> con cada tick del reloj
+[22Apr2025 03:04:43.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> No se si Mc maneja unidades de tiempo convencionales
+[22Apr2025 03:04:48.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> usa ticks
+[22Apr2025 03:04:55.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> o hay que pasarlas de ticks a segundos en el scoreboard
+[22Apr2025 03:04:56.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> es una unidad de tiempo rara
+[22Apr2025 03:05:30.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> el fokin beacon se va
+[22Apr2025 03:05:35.274] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:05:35.432] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:05:35.435] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:05:35.437] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:05:35.442] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 03:06:54.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lito
+[22Apr2025 03:07:05.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pq quitaste los bloques animal
+[22Apr2025 03:07:11.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> los iba a copiar
+[22Apr2025 03:07:18.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq eso no los ibas a poner alla
+[22Apr2025 03:07:23.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> si
+[22Apr2025 03:07:23.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ?
+[22Apr2025 03:07:26.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> a
+[22Apr2025 03:07:31.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya vi el problema
+[22Apr2025 03:07:33.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> el del pvp
+[22Apr2025 03:07:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pido perdon
+[22Apr2025 03:07:40.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> :1
+[22Apr2025 03:07:45.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> copia el que lo quita
+[22Apr2025 03:07:52.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y ponle true
+[22Apr2025 03:08:34.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero no rompas

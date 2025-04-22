@@ -2188,3 +2188,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 02:58:05.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ?
 [22Apr2025 02:58:08.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si pero tu mrda no deja juagr
 [22Apr2025 02:58:30.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya arregle tu cagadero
+[22Apr2025 02:58:40.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to Crying_Prophet]
+[22Apr2025 02:59:01.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> los plugins? pq el server es de forge supongo
+[22Apr2025 02:59:10.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hay una version de forge y plugins
+[22Apr2025 02:59:12.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> para servidores
+[22Apr2025 02:59:25.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> quejesto
+[22Apr2025 02:59:43.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> este loco esta haciendo un lobby
+[22Apr2025 02:59:47.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> segun el
+[22Apr2025 02:59:50.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si pero me esta como quedando feo
+[22Apr2025 02:59:50.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> oye y cual era mi cagadero
+[22Apr2025 02:59:54.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si no me gusta exploto todo con tnt
+[22Apr2025 03:00:01.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo de los equipos
+[22Apr2025 03:00:03.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no
+[22Apr2025 03:00:07.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tu cocina
+[22Apr2025 03:00:22.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> te voy a tener fe
+[22Apr2025 03:00:31.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no
+[22Apr2025 03:00:36.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale
+[22Apr2025 03:00:36.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> que me guste construir no queire decir q lo haga bien
+[22Apr2025 03:00:44.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> adentro esta mas bonito
+[22Apr2025 03:00:50.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> uy
+[22Apr2025 03:01:05.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> no veo nada malo aca
+[22Apr2025 03:01:06.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo que deberiamos quitar es la parte de abajo
+[22Apr2025 03:01:11.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq no se va a ver
+[22Apr2025 03:01:20.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> QUE YA LO ARREGLE
+[22Apr2025 03:01:26.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> MRDA
+[22Apr2025 03:01:38.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> que colocaste
+[22Apr2025 03:01:39.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> SI NO, NO PODIAMOS JUGAR
+[22Apr2025 03:01:48.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pero nosotros jugamos tranqui ayer
+[22Apr2025 03:01:56.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y eso no lo movi
+[22Apr2025 03:02:04.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 03:02:07.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no tenia nda
+[22Apr2025 03:02:23.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y el clear del final tambien
+[22Apr2025 03:02:55.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> No te preocupes
+[22Apr2025 03:02:59.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> voy a volarlo
+[22Apr2025 03:03:14.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> tengo que hacer una restructuración
+[22Apr2025 03:03:43.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> necesito que configures un bloque que sume una variable
+[22Apr2025 03:03:51.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> con cada tick del reloj
+[22Apr2025 03:04:43.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> No se si Mc maneja unidades de tiempo convencionales
+[22Apr2025 03:04:48.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> usa ticks
+[22Apr2025 03:04:55.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> o hay que pasarlas de ticks a segundos en el scoreboard
+[22Apr2025 03:04:56.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> es una unidad de tiempo rara
+[22Apr2025 03:05:30.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> el fokin beacon se va
+[22Apr2025 03:06:54.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lito
+[22Apr2025 03:07:05.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pq quitaste los bloques animal
+[22Apr2025 03:07:11.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> los iba a copiar
+[22Apr2025 03:07:18.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq eso no los ibas a poner alla
+[22Apr2025 03:07:23.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> si
+[22Apr2025 03:07:23.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ?
+[22Apr2025 03:07:26.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> a
+[22Apr2025 03:07:31.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya vi el problema
+[22Apr2025 03:07:33.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> el del pvp
+[22Apr2025 03:07:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pido perdon
+[22Apr2025 03:07:40.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> :1
+[22Apr2025 03:07:45.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> copia el que lo quita
+[22Apr2025 03:07:52.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y ponle true
+[22Apr2025 03:08:34.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero no rompas
