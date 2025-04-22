@@ -1801,3 +1801,410 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 01:00:56.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dylan_HHH
 [22Apr2025 01:00:56.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
 [22Apr2025 01:00:56.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[22Apr2025 01:01:28.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 342 items from player Crying_Prophet]
+[22Apr2025 01:01:30.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:01:30.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:01:30.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:01:30.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:01:30.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:01:31.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:01:31.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 01:01:31.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:01:35.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> q hace
+[22Apr2025 01:02:07.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Creative Mode]
+[22Apr2025 01:02:25.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> vamosa jugar
+[22Apr2025 01:02:30.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> estaba arreglando algo
+[22Apr2025 01:02:37.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 152 items from player Crying_Prophet]
+[22Apr2025 01:02:39.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:02:39.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:02:39.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:02:39.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:02:39.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:02:40.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:02:40.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 01:02:40.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:02:40.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:03:06.259] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[22Apr2025 01:03:06.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[22Apr2025 01:03:06.263] [Thread-47/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Dylan_HHH data
+[22Apr2025 01:03:06.263] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Dylan_HHH data
+[22Apr2025 01:03:06.265] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dylan_HHH
+[22Apr2025 01:03:06.267] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[22Apr2025 01:03:06.308] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[22Apr2025 01:03:18.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Crying_Prophet's game mode to Adventure Mode]
+[22Apr2025 01:03:18.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to Crying_Prophet]
+[22Apr2025 01:03:19.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to Crying_Prophet]
+[22Apr2025 01:03:19.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to Crying_Prophet]
+[22Apr2025 01:03:19.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 01:03:19.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 01:03:20.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 01:03:20.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: The difficulty has been set to Peaceful]
+[22Apr2025 01:03:20.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 01:03:21.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 01:03:22.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 01:03:22.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 01:03:22.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:03:22.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:03:23.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 01:03:23.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:03:23.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for Crying_Prophet]
+[22Apr2025 01:03:23.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for Crying_Prophet]
+[22Apr2025 01:03:23.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to Crying_Prophet]
+[22Apr2025 01:03:23.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:03:48.965] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 24 messages to dispatch.
+[22Apr2025 01:03:49.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:03:50.058] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.obfuscate.network.HandshakeMessages$S2CSyncedPlayerData' to 'obfuscate:handshake' sequence 0
+[22Apr2025 01:03:50.108] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.guns.network.HandshakeMessages$S2CUpdateGuns' to 'cgm:handshake' sequence 1
+[22Apr2025 01:03:50.134] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel obfuscate:handshake with index 0
+[22Apr2025 01:03:50.135] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.obfuscate.network.HandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.135] [Netty Epoll Server IO #3/DEBUG] [Obfuscate/OBFUSCATE_HANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.158] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[22Apr2025 01:03:50.208] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[22Apr2025 01:03:50.228] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel cgm:handshake with index 1
+[22Apr2025 01:03:50.228] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.guns.network.HandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.229] [Netty Epoll Server IO #3/DEBUG] [cgm/CGM_HANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.258] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[22Apr2025 01:03:50.307] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[22Apr2025 01:03:50.326] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, voicechat, otyacraftengine, iammusicplayer, mr_coffwallclimb, cgm, jade, waila, customskinloader, jei, elenaidodge2, beautifiedchatclient, invocore, libraryferret, spark, mr_fokusapi, neat, reviveme, collective, bettertitlescreen, journeymap, controlling, searchables, configured, entityculling, norealmsbutton, obfuscate, worldedit, simpleplanes, lanserverproperties, bettercommandblock, walljump, cloth-config, chat_heads, forge, dummmmmmy, embeddium, rubidium, selene, corpse]
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'iammusicplayer:iammusicplayer_channel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:handshake' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'otyacraftengine:otyacraftengine_channel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'reviveme:network' : Version test of '1.6.0' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[22Apr2025 01:03:50.327] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:play' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '4' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.330] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.330] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:handshake' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'elenaidodge2:channel' : Version test of '1.0' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[22Apr2025 01:03:50.331] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[22Apr2025 01:03:50.358] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[22Apr2025 01:03:50.358] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[22Apr2025 01:03:50.358] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.358] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.399] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[22Apr2025 01:03:50.399] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.399] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[22Apr2025 01:03:50.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.408] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[22Apr2025 01:03:50.457] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[22Apr2025 01:03:50.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[22Apr2025 01:03:50.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.508] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[22Apr2025 01:03:50.529] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[22Apr2025 01:03:50.529] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.529] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.558] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[22Apr2025 01:03:50.558] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[22Apr2025 01:03:50.558] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.559] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.608] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[22Apr2025 01:03:50.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[22Apr2025 01:03:50.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.658] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[22Apr2025 01:03:50.696] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[22Apr2025 01:03:50.696] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.696] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.698] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[22Apr2025 01:03:50.698] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.698] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.708] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[22Apr2025 01:03:50.758] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 14
+[22Apr2025 01:03:50.763] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[22Apr2025 01:03:50.763] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.763] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.808] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[22Apr2025 01:03:50.832] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[22Apr2025 01:03:50.832] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.832] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.833] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[22Apr2025 01:03:50.833] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.833] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.858] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[22Apr2025 01:03:50.907] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[22Apr2025 01:03:50.907] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.907] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:50.908] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[22Apr2025 01:03:50.958] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[22Apr2025 01:03:50.982] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[22Apr2025 01:03:50.982] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:50.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.008] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[22Apr2025 01:03:51.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[22Apr2025 01:03:51.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.058] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 20
+[22Apr2025 01:03:51.059] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[22Apr2025 01:03:51.059] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.059] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.108] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 21
+[22Apr2025 01:03:51.158] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[22Apr2025 01:03:51.208] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.500] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[22Apr2025 01:03:51.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.502] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[22Apr2025 01:03:51.502] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.502] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.502] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[22Apr2025 01:03:51.503] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 01:03:51.503] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 01:03:51.508] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[22Apr2025 01:03:51.560] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@c482910
+[22Apr2025 01:03:51.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.57.229.121:47687] logged in with entity id 62 at (-23.300000011920915, 111.90779718977033, 135.34272469762422)
+[22Apr2025 01:03:51.565] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@7b9ef1fa into net.minecraft.network.NetworkManager@1f19bbd8
+[22Apr2025 01:03:51.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH joined the game
+[22Apr2025 01:03:51.626] [Server thread/INFO] [Waila/]: Syncing config to Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5)
+[22Apr2025 01:03:51.628] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: loading Dylan_HHH data
+[22Apr2025 01:03:51.630] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
+[22Apr2025 01:03:51.888] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dylan_HHH (18)
+[22Apr2025 01:03:51.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[22Apr2025 01:03:51.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dylan_HHH
+[22Apr2025 01:03:51.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[22Apr2025 01:03:51.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[22Apr2025 01:04:09.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Survival Mode]
+[22Apr2025 01:04:14.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 700 items from player Dylan_HHH]
+[22Apr2025 01:04:14.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:04:14.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 01:04:14.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 01:04:14.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 01:04:14.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:04:14.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 01:04:14.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 01:04:15.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:04:15.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 01:04:15.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:04:15.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:04:15.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 01:04:15.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:04:25.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 281 items from player Crying_Prophet]
+[22Apr2025 01:04:29.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 1 items from player Dylan_HHH]
+[22Apr2025 01:04:29.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:04:29.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Dylan_HHH]
+[22Apr2025 01:04:29.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:04:29.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Cap]]
+[22Apr2025 01:04:29.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Tunic]]
+[22Apr2025 01:04:30.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Pants]]
+[22Apr2025 01:04:30.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:04:30.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:04:38.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 01:04:38.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 01:04:38.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:04:38.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 01:04:39.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 01:04:39.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 01:04:39.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 01:04:39.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:04:39.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 01:04:46.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[22Apr2025 01:04:47.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:04:50.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[22Apr2025 01:05:00.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 01:05:02.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:05:30.419] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:05:30.550] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:05:30.553] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:05:30.559] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 01:05:30.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 01:05:35.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[22Apr2025 01:05:37.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Dylan_HHH's game mode to Adventure Mode]
+[22Apr2025 01:05:37.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 01:05:37.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 01:05:37.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 01:05:37.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 01:05:38.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 01:05:38.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 01:05:39.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 01:05:40.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 01:05:40.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 01:05:41.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 01:05:41.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 88.55 blocks apart]
+[22Apr2025 01:05:41.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:05:41.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 01:05:41.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to 2 targets]
+[22Apr2025 01:05:41.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 01:05:41.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:05:42.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 01:05:42.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:06:05.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:06:06.501] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[22Apr2025 01:06:06.502] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[22Apr2025 01:06:06.503] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[22Apr2025 01:06:08.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:06:08.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:06:08.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:06:08.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:06:08.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:06:20.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:06:20.609] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[22Apr2025 01:06:20.658] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 01:06:23.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by Dylan_HHH
+[22Apr2025 01:06:23.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:06:23.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:06:23.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:06:23.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:06:31.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:06:34.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[22Apr2025 01:06:34.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:06:34.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:06:34.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:06:34.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:06:43.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:06:49.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was eliminated by Crying_Prophet
+[22Apr2025 01:06:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:06:49.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:06:49.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:06:50.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:06:50.159] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[22Apr2025 01:07:08.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:07:11.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was eliminated by Crying_Prophet
+[22Apr2025 01:07:11.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:07:12.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:07:12.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:07:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:07:22.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:07:32.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:07:32.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was annihilated by Dylan_HHH
+[22Apr2025 01:07:32.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:07:32.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:07:32.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:07:32.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:07:45.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:07:47.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was decimated by Crying_Prophet
+[22Apr2025 01:07:47.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:07:47.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:07:47.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:07:47.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:07:57.108] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[22Apr2025 01:07:57.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:08:01.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:08:02.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:08:02.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:08:02.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:08:02.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:08:16.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:08:18.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was decimated by Crying_Prophet
+[22Apr2025 01:08:18.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:08:18.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:08:18.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:08:18.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:08:33.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:08:36.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[22Apr2025 01:08:36.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:08:36.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:08:36.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:08:36.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:09:15.059] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 91
+[22Apr2025 01:09:21.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:09:29.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was annihilated by Dylan_HHH
+[22Apr2025 01:09:30.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:09:30.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:09:30.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:09:30.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:09:32.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:09:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was eliminated by Crying_Prophet
+[22Apr2025 01:09:33.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:09:34.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:09:34.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:09:34.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:09:41.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:09:42.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:09:43.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was executed by Crying_Prophet
+[22Apr2025 01:09:44.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:09:44.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:09:44.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:09:44.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:09:47.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by Dylan_HHH
+[22Apr2025 01:09:47.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:09:48.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:09:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:09:48.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:10:13.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:10:13.932] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 76
+[22Apr2025 01:10:19.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was annihilated by Dylan_HHH
+[22Apr2025 01:10:20.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:10:20.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:10:20.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:10:20.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:10:30.415] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:10:30.525] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:10:30.528] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:10:30.532] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 01:10:30.537] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 01:10:30.859] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[22Apr2025 01:10:31.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:10:34.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was taken down by Dylan_HHH
+[22Apr2025 01:10:34.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:10:34.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:10:34.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 01:10:34.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:10:42.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 01:10:42.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 01:10:42.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:10:42.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 01:10:42.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 01:10:45.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> gg
+[22Apr2025 01:10:47.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pta madreeeeeeeeeeeeeeeeeeeee
+[22Apr2025 01:10:52.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> buena partida
+[22Apr2025 01:10:54.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> chamo t
+[22Apr2025 01:10:56.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> si
+[22Apr2025 01:11:02.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale me cago todo
+[22Apr2025 01:11:06.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> te megapapie
+[22Apr2025 01:11:06.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> unos comandos los quito
+[22Apr2025 01:11:12.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y no los volvio a poner
+[22Apr2025 01:11:19.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> le hijo de la verga
+[22Apr2025 01:11:21.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 01:11:26.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 01:11:37.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:11:37.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 01:11:37.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 01:11:37.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:11:43.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 687 items from player Dylan_HHH]
+[22Apr2025 01:11:44.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:11:44.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Dylan_HHH]
+[22Apr2025 01:11:44.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:11:44.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Cap]]
+[22Apr2025 01:11:44.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Tunic]]
+[22Apr2025 01:11:44.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Pants]]
+[22Apr2025 01:11:44.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:11:44.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:11:49.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
