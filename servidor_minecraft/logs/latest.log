@@ -2243,3 +2243,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 03:07:45.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> copia el que lo quita
 [22Apr2025 03:07:52.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y ponle true
 [22Apr2025 03:08:34.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero no rompas
+[22Apr2025 03:08:38.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> la construccion
+[22Apr2025 03:08:45.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no rompi nada importante
+[22Apr2025 03:08:49.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> rompiste
+[22Apr2025 03:08:51.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> mis sentimientos
+[22Apr2025 03:08:53.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> yo lo pongo otra vez
+[22Apr2025 03:09:02.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y fue afuera
+[22Apr2025 03:09:15.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> que cojones rompí
+[22Apr2025 03:09:30.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> sabes que tienes que dejar un espacio para elegir las clases no?
+[22Apr2025 03:09:42.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> obvio
+[22Apr2025 03:09:48.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y espacio por si quieremos agregar más
+[22Apr2025 03:09:51.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ok
+[22Apr2025 03:09:53.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> deja cocinar vv
+[22Apr2025 03:09:58.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> dejare espacio pa todo
+[22Apr2025 03:10:04.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> oki
+[22Apr2025 03:10:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> voy a terminar de arreglar las clases
+[22Apr2025 03:13:18.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has made the advancement [Hot Stuff]
+[22Apr2025 03:13:32.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 9 items from player Crying_Prophet]
+[22Apr2025 03:13:32.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 03:13:32.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:15:20.858] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[22Apr2025 03:15:20.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[22Apr2025 03:15:20.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KaleSsz
+[22Apr2025 03:15:25.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b2fe223
+[22Apr2025 03:15:25.067] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.244.200.188:55347] logged in with entity id 5711 at (-53.087969752601005, 110.6124139667256, 124.76576219404491)
+[22Apr2025 03:15:25.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz joined the game
+[22Apr2025 03:15:25.116] [Server thread/INFO] [Waila/]: Syncing config to KaleSsz (5d037630-0bd9-3d33-9502-32a044f5f237)
+[22Apr2025 03:15:25.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KaleSsz (18)
+[22Apr2025 03:15:25.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KaleSsz
+[22Apr2025 03:16:17.609] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -0.7207708391729426,-10.867409983895072,-0.10091110770258638
+[22Apr2025 03:16:36.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 03:16:36.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 7 items from player Crying_Prophet]
+[22Apr2025 03:16:36.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:16:36.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:16:36.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Crying_Prophet]
+[22Apr2025 03:16:36.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:16:36.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 03:16:37.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 03:16:37.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:17:23.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 03:17:23.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player Crying_Prophet]
+[22Apr2025 03:17:23.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[22Apr2025 03:17:23.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:17:23.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:17:23.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Crying_Prophet]
+[22Apr2025 03:17:23.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:17:23.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 03:17:23.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 03:17:23.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
