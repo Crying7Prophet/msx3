@@ -2310,3 +2310,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 03:27:53.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale
 [22Apr2025 03:28:05.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> avisame cuando arregles el spread
 [22Apr2025 03:28:24.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> tabien
+[22Apr2025 03:29:18.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> dime cuantos repetidores hacen 10 segundos
+[22Apr2025 03:32:12.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 3 players]
+[22Apr2025 03:32:12.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 3 players]
+[22Apr2025 03:32:22.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> nice
+[22Apr2025 03:34:09.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ,
+[22Apr2025 03:34:29.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 18 items from player Crying_Prophet]
+[22Apr2025 03:34:30.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[22Apr2025 03:34:30.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[22Apr2025 03:34:30.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to Crying_Prophet]
+[22Apr2025 03:34:30.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 03:34:30.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:34:30.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:34:30.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:34:30.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to Crying_Prophet]
+[22Apr2025 03:34:30.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 03:34:34.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 79 items from player Crying_Prophet]
+[22Apr2025 03:34:34.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Heavy Rifle] to Crying_Prophet]
+[22Apr2025 03:34:34.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Pistol] to Crying_Prophet]
+[22Apr2025 03:34:34.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 03:34:34.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:34:34.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:34:34.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:34:35.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:34:35.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -41, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 03:34:35.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slow Falling to Crying_Prophet]
+[22Apr2025 03:34:42.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player Crying_Prophet]
+[22Apr2025 03:34:43.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 03:34:44.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 03:34:44.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 03:34:44.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:34:44.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:34:44.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:34:44.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 03:34:44.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:34:44.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 03:35:12.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 3 players]
+[22Apr2025 03:35:12.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 3 players]
+[22Apr2025 03:35:19.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> bro?
+[22Apr2025 03:35:26.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> como q tp
+[22Apr2025 03:35:28.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> en 10 segundos
+[22Apr2025 03:35:36.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> solo prueba una alarma
+[22Apr2025 03:35:38.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ntp
+[22Apr2025 03:35:39.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 151 items from player Crying_Prophet]
+[22Apr2025 03:35:41.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 03:35:41.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 03:35:41.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 03:35:41.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:35:41.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:35:42.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:35:42.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 03:35:42.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:35:42.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 03:35:43.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 149 items from player Crying_Prophet]
+[22Apr2025 03:35:43.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Crying_Prophet]
+[22Apr2025 03:35:43.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 03:35:43.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 32 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 03:35:43.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 03:35:43.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 03:35:44.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 03:35:44.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 03:35:44.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 03:35:55.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> supongamos que tu amigo es chistoso y le da clic al boton de inicio antes que todos se preparen
+[22Apr2025 03:36:19.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> tienen 10 segundos para prepararse antes del tp
+[22Apr2025 03:36:23.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Gave 1 [Black Glazed Terracotta] to aestheril]
+[22Apr2025 03:36:32.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 3 players]
+[22Apr2025 03:36:32.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 3 players]
+[22Apr2025 03:36:33.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 3 players]
+[22Apr2025 03:36:33.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 3 players]
