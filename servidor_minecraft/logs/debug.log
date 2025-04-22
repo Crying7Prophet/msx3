@@ -7300,3 +7300,111 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 03:48:20.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> grasia
 [22Apr2025 03:48:30.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> aun falta
 [22Apr2025 03:48:44.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 3 targets]
+[22Apr2025 03:48:55.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 3 targets]
+[22Apr2025 03:49:07.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 3 players]
+[22Apr2025 03:49:07.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 3 players]
+[22Apr2025 03:49:07.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 3 players]
+[22Apr2025 03:49:13.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale
+[22Apr2025 03:49:20.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> dime
+[22Apr2025 03:49:20.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 3 targets]
+[22Apr2025 03:49:26.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no pusiste esto en un mundo de vacio verdad?
+[22Apr2025 03:49:35.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> solo rompiste al rededor verdad?
+[22Apr2025 03:49:41.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> :1
+[22Apr2025 03:49:44.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Teleported aestheril to Crying_Prophet]
+[22Apr2025 03:49:50.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> nmms
+[22Apr2025 03:49:54.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> es enserio kbron
+[22Apr2025 03:49:57.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> si
+[22Apr2025 03:49:58.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> q
+[22Apr2025 03:50:06.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> vas a tener que pasarlo a un mundo de vacio hdp
+[22Apr2025 03:50:15.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pq?
+[22Apr2025 03:50:17.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> por suerte esta el //copy
+[22Apr2025 03:50:22.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pe eso caga el rendimiento
+[22Apr2025 03:50:24.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril fell out of the world
+[22Apr2025 03:50:25.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> esta en mundo de vacio
+[22Apr2025 03:50:30.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq se empieza a generar mrda
+[22Apr2025 03:50:34.603] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:50:34.910] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:50:34.912] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:50:34.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:50:34.915] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 03:50:34.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> que no vamos a usar
+[22Apr2025 03:50:35.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pero se empezo a generar terreno no se pq
+[22Apr2025 03:50:36.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 03:50:38.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> se salvo
+[22Apr2025 03:50:47.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported aestheril to Crying_Prophet]
+[22Apr2025 03:50:50.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira
+[22Apr2025 03:50:54.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira
+[22Apr2025 03:50:57.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported aestheril to Crying_Prophet]
+[22Apr2025 03:51:09.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported KaleSsz to Crying_Prophet]
+[22Apr2025 03:51:13.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira mmamon
+[22Apr2025 03:51:30.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> si yo vi eso cuando lo pasaste al sv
+[22Apr2025 03:51:35.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya las clases estan oficialmente listas
+[22Apr2025 03:51:39.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> .-.
+[22Apr2025 03:51:47.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> en mi mundo local no se genera terreno
+[22Apr2025 03:51:49.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya las nerfee tmabien
+[22Apr2025 03:51:59.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ivan
+[22Apr2025 03:52:02.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has reached the goal [Sky's the Limit]
+[22Apr2025 03:52:14.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el world edit funciona entre mundos no?
+[22Apr2025 03:52:20.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> tecnicamente
+[22Apr2025 03:52:24.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> sí
+[22Apr2025 03:52:28.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> esto es tu culpa xd
+[22Apr2025 03:52:31.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero
+[22Apr2025 03:52:36.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> necesitas un plugin
+[22Apr2025 03:52:39.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> creo
+[22Apr2025 03:52:44.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero como ustedes no usan plugins
+[22Apr2025 03:52:45.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> y son zz
+[22Apr2025 03:52:46.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tuya wbn
+[22Apr2025 03:52:55.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> yo no hice esta mrda en un mundo normal
+[22Apr2025 03:52:56.554] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=true, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[22Apr2025 03:52:58.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> animal
+[22Apr2025 03:53:01.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> debiste ajustar level type en server config
+[22Apr2025 03:53:11.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> voy a ponerme con el mapa de mrda este
+[22Apr2025 03:53:12.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y poner void o algo asi
+[22Apr2025 03:53:27.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> pq si no al server le vale chotas
+[22Apr2025 03:53:33.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y empieza agenerar mrds
+[22Apr2025 03:53:51.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Removed every effect from Crying_Prophet]
+[22Apr2025 03:54:28.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[22Apr2025 03:54:28.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Teleported Crying_Prophet to aestheril]
+[22Apr2025 03:54:29.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hola
+[22Apr2025 03:54:34.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> que
+[22Apr2025 03:54:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> me aleje mucho
+[22Apr2025 03:54:42.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> no se necesitan plugins por lo q vi
+[22Apr2025 03:54:43.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no sigas generando mrda w
+[22Apr2025 03:54:47.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> DASJKDJASKD
+[22Apr2025 03:54:47.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 03:54:50.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> igual borraran esto
+[22Apr2025 03:54:57.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> solo hay que guardarlo como .scheme
+[22Apr2025 03:54:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> borratlo tu
+[22Apr2025 03:55:05.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y pegarlo
+[22Apr2025 03:55:12.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:15.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Set own game mode to Survival Mode]
+[22Apr2025 03:55:16.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:17.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:19.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to KaleSsz]
+[22Apr2025 03:55:27.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:28.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:30.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 3 players]
+[22Apr2025 03:55:34.614] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:55:35.878] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:55:35.879] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 03:55:35.881] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:55:35.884] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 03:55:35.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Teleported aestheril to Crying_Prophet]
+[22Apr2025 03:55:35.915] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -1.3314404220980585,-7.500000298023224,7.094521345719038
+[22Apr2025 03:56:26.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> adio
+[22Apr2025 03:56:28.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> volvere
+[22Apr2025 03:56:31.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> eventualmente
+[22Apr2025 03:56:33.195] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: aestheril lost connection: Disconnected
+[22Apr2025 03:56:33.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril left the game
+[22Apr2025 03:56:33.196] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding aestheril data
+[22Apr2025 03:56:33.196] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of aestheril
+[22Apr2025 03:56:33.196] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aestheril
+[22Apr2025 03:56:33.196] [Thread-384/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing aestheril data
+[22Apr2025 03:58:32.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 03:58:32.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 03:58:34.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 03:58:37.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 03:58:38.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 03:58:38.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 03:58:40.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 03:58:48.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Applied effect Haste to Crying_Prophet]
