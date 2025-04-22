@@ -2130,3 +2130,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 02:47:51.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> relajate
 [22Apr2025 02:48:07.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gamerule fallDamage is now set to: false]
 [22Apr2025 02:48:10.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> listo
+[22Apr2025 02:48:54.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 02:50:02.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> q tan grande el lobby?
+[22Apr2025 02:50:29.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mas o menos como este
+[22Apr2025 02:51:05.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 670 items from player Crying_Prophet]
+[22Apr2025 02:51:05.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Crying_Prophet]
+[22Apr2025 02:51:05.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 02:51:05.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:51:05.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:51:05.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:51:05.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:51:06.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:51:06.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:51:12.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player Crying_Prophet]
+[22Apr2025 02:51:13.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Heavy Rifle] to Crying_Prophet]
+[22Apr2025 02:51:14.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Pistol] to Crying_Prophet]
+[22Apr2025 02:51:14.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:51:14.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:51:14.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:51:14.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:51:14.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -41, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:51:14.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:52:56.110] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: aestheril moved too quickly! 0.0,-10.554950590931611,0.0
+[22Apr2025 02:54:56.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kbron que mrda
+[22Apr2025 02:54:56.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hola
+[22Apr2025 02:54:58.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> q
+[22Apr2025 02:54:58.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira
+[22Apr2025 02:55:01.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> su solo espera
+[22Apr2025 02:55:03.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> quedara bien
+[22Apr2025 02:55:08.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> sabes pq no usamos plugins?
+[22Apr2025 02:55:10.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pq
+[22Apr2025 02:55:12.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq no se puede
+[22Apr2025 02:55:15.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si se puede xd
+[22Apr2025 02:55:20.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> con forge no
+[22Apr2025 02:55:22.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> que si
+[22Apr2025 02:55:26.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ñao
+[22Apr2025 02:55:40.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el server no es archlight
+[22Apr2025 02:55:47.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> exacto
+[22Apr2025 02:55:50.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> tienen que cambiar el .jar
+[22Apr2025 02:55:52.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> del server
+[22Apr2025 02:55:57.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hay otras opciones
+[22Apr2025 02:55:59.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no solo archlight
+[22Apr2025 02:56:04.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> bueno
+[22Apr2025 02:57:18.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e807fdc
+[22Apr2025 02:57:18.860] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.244.200.188:36149] logged in with entity id 5619 at (-33.27612801203079, 109.0, 135.91348669644873)
+[22Apr2025 02:57:18.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz joined the game
+[22Apr2025 02:57:18.924] [Server thread/INFO] [Waila/]: Syncing config to KaleSsz (5d037630-0bd9-3d33-9502-32a044f5f237)
+[22Apr2025 02:57:20.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KaleSsz (18)
+[22Apr2025 02:57:20.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KaleSsz
+[22Apr2025 02:57:44.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> que porongas
+[22Apr2025 02:57:47.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> chamo tienes un desastre con eso comandos de inicion
+[22Apr2025 02:57:49.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> kaleb zzz
+[22Apr2025 02:57:59.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> es mi desastre chamo
+[22Apr2025 02:58:02.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> kaleb
+[22Apr2025 02:58:05.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pq no usan plugins
+[22Apr2025 02:58:05.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> y funciona
+[22Apr2025 02:58:05.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ?
+[22Apr2025 02:58:08.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si pero tu mrda no deja juagr
+[22Apr2025 02:58:30.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya arregle tu cagadero
