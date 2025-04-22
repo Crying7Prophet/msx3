@@ -2938,3 +2938,132 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 01:44:48.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
 [22Apr2025 01:44:48.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
 [22Apr2025 01:44:48.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 01:45:22.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:45:25.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[22Apr2025 01:45:26.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:45:26.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 01:45:26.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 01:45:26.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:45:30.422] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:45:30.566] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:45:30.571] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:45:30.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 01:45:30.593] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 01:45:40.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:45:43.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:45:43.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:45:43.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:45:43.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:45:43.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:46:07.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:46:12.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:46:12.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:46:12.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:46:12.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:46:12.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:46:26.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:46:29.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:46:29.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:46:29.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:46:29.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:46:30.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:46:54.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:46:57.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:46:58.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:46:58.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 01:46:58.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 01:46:58.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:47:06.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:47:06.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:47:09.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[22Apr2025 01:47:09.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:47:09.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 01:47:10.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 01:47:10.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:47:16.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:47:16.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:47:16.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:47:16.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:47:16.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:47:35.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:47:37.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:47:37.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:47:38.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:47:38.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:47:38.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:48:00.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:48:02.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:48:02.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:48:02.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:48:02.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:48:02.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:48:15.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:48:18.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:48:18.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:48:18.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:48:18.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:48:19.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:48:43.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:48:43.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:48:47.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was annihilated by Dylan_HHH
+[22Apr2025 01:48:47.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:48:47.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 01:48:47.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 01:48:48.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:48:53.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:48:53.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:48:53.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:48:53.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:48:53.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:49:07.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:49:11.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:49:11.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:49:11.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:49:11.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:49:11.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:49:21.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:49:28.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:49:28.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Dylan_HHH]
+[22Apr2025 01:49:28.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:49:28.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:49:28.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:49:35.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 01:49:38.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by Dylan_HHH
+[22Apr2025 01:49:38.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 01:49:39.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 01:49:39.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 01:49:39.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 01:49:44.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has fallen
+[22Apr2025 01:49:48.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 01:49:48.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 01:49:48.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 01:49:48.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 01:49:48.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 01:49:52.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was blown up by Crying_Prophet
+[22Apr2025 01:49:57.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> XDDDDDDDDDDDDD
+[22Apr2025 01:49:58.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 1339 items from player Dylan_HHH]
+[22Apr2025 01:50:06.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> esta rotisimo
+[22Apr2025 01:50:09.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 711 items from player Crying_Prophet]
+[22Apr2025 01:50:21.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Dylan_HHH> usalo otra vez
+[22Apr2025 01:50:24.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Dylan_HHH]
+[22Apr2025 01:50:24.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Dylan_HHH]
+[22Apr2025 01:50:25.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Dylan_HHH]
+[22Apr2025 01:50:25.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Cap]]
+[22Apr2025 01:50:25.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Tunic]]
+[22Apr2025 01:50:25.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Dylan_HHH with [Leather Pants]]
+[22Apr2025 01:50:25.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Dylan_HHH]
+[22Apr2025 01:50:25.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Dylan_HHH]
+[22Apr2025 01:50:28.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 01:50:30.412] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:50:30.497] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:50:30.499] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:50:30.502] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 01:50:30.514] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 01:50:34.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tengo que barrer
+[22Apr2025 01:50:41.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya me estan insultando
+[22Apr2025 01:50:46.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> dame 5 mins
+[22Apr2025 01:55:30.413] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:55:30.419] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:55:30.420] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 01:55:30.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 01:55:30.426] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
