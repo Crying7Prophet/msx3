@@ -2970,3 +2970,143 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 04:35:19.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> mal
 [22Apr2025 04:35:49.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> de pana?
 [22Apr2025 04:35:54.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no me di cuenta kbron
+[22Apr2025 04:39:20.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:39:20.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 04:40:19.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 04:40:47.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KaleSsz: Applied effect Night Vision to 2 targets]
+[22Apr2025 04:41:38.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 04:42:03.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:42:03.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 04:42:03.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 04:42:08.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 04:42:16.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> nice
+[22Apr2025 04:42:30.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:42:41.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> loco
+[22Apr2025 04:42:55.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:43:03.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tenemos que poner un mod de rangos
+[22Apr2025 04:43:09.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> para los jugadores
+[22Apr2025 04:43:23.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y asi darles permiso de usar los comandos y nada mas
+[22Apr2025 04:43:42.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:43:43.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:43:43.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 04:43:43.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 04:43:43.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 04:43:43.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 04:43:56.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 04:43:56.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 04:43:56.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 04:43:59.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 04:43:59.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:43:59.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:43:59.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 92.89 blocks apart]
+[22Apr2025 04:44:11.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KaleSsz: Set own game mode to Adventure Mode]
+[22Apr2025 04:44:17.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> te falto ponerlo en aventura
+[22Apr2025 04:44:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> eso va aparte
+[22Apr2025 04:44:29.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 145 items from player Crying_Prophet]
+[22Apr2025 04:44:29.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 04:44:29.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 04:44:29.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 04:44:29.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 04:44:30.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 04:44:30.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 04:44:30.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[22Apr2025 04:44:30.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 04:44:30.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 04:44:30.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 04:44:31.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> como constantes
+[22Apr2025 04:44:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KaleSsz: Set own game mode to Creative Mode]
+[22Apr2025 04:44:53.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> una probada y me voy a dormir
+[22Apr2025 04:45:02.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> escoge una clase
+[22Apr2025 04:45:30.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 38 items from player KaleSsz]
+[22Apr2025 04:45:30.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to KaleSsz]
+[22Apr2025 04:45:30.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to KaleSsz]
+[22Apr2025 04:45:30.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to KaleSsz]
+[22Apr2025 04:45:30.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to KaleSsz]
+[22Apr2025 04:45:30.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Tunic]]
+[22Apr2025 04:45:31.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Pants]]
+[22Apr2025 04:45:31.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Boots]]
+[22Apr2025 04:45:31.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for KaleSsz]
+[22Apr2025 04:45:31.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Cap]]
+[22Apr2025 04:45:31.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to KaleSsz]
+[22Apr2025 04:45:33.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 150 items from player KaleSsz]
+[22Apr2025 04:45:34.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Heavy Rifle] to KaleSsz]
+[22Apr2025 04:45:34.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Pistol] to KaleSsz]
+[22Apr2025 04:45:34.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to KaleSsz]
+[22Apr2025 04:45:34.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to KaleSsz]
+[22Apr2025 04:45:34.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Tunic]]
+[22Apr2025 04:45:34.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Pants]]
+[22Apr2025 04:45:34.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Boots]]
+[22Apr2025 04:45:34.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Cap]]
+[22Apr2025 04:45:34.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -41, 109, 148 [0.0] in minecraft:overworld for KaleSsz]
+[22Apr2025 04:45:34.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slow Falling to KaleSsz]
+[22Apr2025 04:45:39.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 134 items from player KaleSsz]
+[22Apr2025 04:45:39.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to KaleSsz]
+[22Apr2025 04:45:40.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to KaleSsz]
+[22Apr2025 04:45:40.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to KaleSsz]
+[22Apr2025 04:45:40.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to KaleSsz]
+[22Apr2025 04:45:40.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Tunic]]
+[22Apr2025 04:45:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Pants]]
+[22Apr2025 04:45:40.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Boots]]
+[22Apr2025 04:45:40.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on KaleSsz with [Leather Cap]]
+[22Apr2025 04:45:40.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to KaleSsz]
+[22Apr2025 04:45:40.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for KaleSsz]
+[22Apr2025 04:45:47.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:45:47.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:45:47.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 04:45:47.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 04:45:47.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 04:45:47.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 04:45:47.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Crying_Prophet's game mode to Adventure Mode]
+[22Apr2025 04:45:47.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set KaleSsz's game mode to Adventure Mode]
+[22Apr2025 04:46:00.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 04:46:00.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 04:46:01.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 04:46:03.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[22Apr2025 04:46:03.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:46:03.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:46:04.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 50.87 blocks apart]
+[22Apr2025 04:46:24.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 04:46:27.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by KaleSsz
+[22Apr2025 04:46:27.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 04:46:27.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 150 items from player Crying_Prophet]
+[22Apr2025 04:46:27.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[22Apr2025 04:46:27.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 04:46:27.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 04:46:27.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 04:46:27.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 04:46:27.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 04:46:27.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 04:46:27.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 04:46:27.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 61.50 blocks apart]
+[22Apr2025 04:46:32.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> eh?
+[22Apr2025 04:46:40.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> me hizo tp a mi xd
+[22Apr2025 04:46:46.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya vi el erro
+[22Apr2025 04:46:50.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> le pusiste @a seguro
+[22Apr2025 04:46:51.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:46:58.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya lo arreglo
+[22Apr2025 04:48:49.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[22Apr2025 04:48:53.372] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet was kicked for floating too long!
+[22Apr2025 04:48:53.422] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Flying is not enabled on this server
+[22Apr2025 04:48:53.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[22Apr2025 04:48:53.423] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[22Apr2025 04:48:57.876] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41383b5a
+[22Apr2025 04:48:57.883] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:45679] logged in with entity id 13050 at (-27.815978401608852, -223.17757134952012, 147.24389256296362)
+[22Apr2025 04:48:57.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[22Apr2025 04:48:57.915] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[22Apr2025 04:48:58.045] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[22Apr2025 04:48:58.046] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[22Apr2025 04:48:58.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 04:48:58.825] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 0.0,-22.299605266217355,0.0
+[22Apr2025 04:48:58.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet fell out of the world
+[22Apr2025 04:48:59.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 04:48:59.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 139 items from player Crying_Prophet]
+[22Apr2025 04:48:59.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[22Apr2025 04:48:59.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 04:48:59.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 04:48:59.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 04:48:59.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 04:48:59.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 04:48:59.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 04:48:59.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 04:48:59.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 04:48:59.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to KaleSsz]
