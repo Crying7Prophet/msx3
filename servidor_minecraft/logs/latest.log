@@ -1322,3 +1322,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 01:50:34.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tengo que barrer
 [22Apr2025 01:50:41.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya me estan insultando
 [22Apr2025 01:50:46.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> dame 5 mins
+[22Apr2025 02:04:39.507] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[22Apr2025 02:04:39.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[22Apr2025 02:04:39.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH

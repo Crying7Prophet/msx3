@@ -3067,3 +3067,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 01:55:30.420] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [22Apr2025 01:55:30.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Apr2025 01:55:30.426] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 02:00:30.417] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:00:30.422] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:00:30.425] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:00:30.428] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 02:00:30.435] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 02:04:39.507] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[22Apr2025 02:04:39.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[22Apr2025 02:04:39.508] [Thread-189/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Dylan_HHH data
+[22Apr2025 02:04:39.508] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Dylan_HHH data
+[22Apr2025 02:04:39.508] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dylan_HHH
+[22Apr2025 02:04:39.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[22Apr2025 02:05:30.411] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:05:30.415] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:05:30.415] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:05:30.417] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 02:05:30.420] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
