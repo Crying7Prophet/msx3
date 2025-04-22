@@ -2863,3 +2863,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 04:07:20.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
 [22Apr2025 04:07:20.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
 [22Apr2025 04:07:20.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 04:15:13.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[22Apr2025 04:15:23.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:15:28.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[22Apr2025 04:15:39.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 04:15:54.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> jere
+[22Apr2025 04:15:59.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> vamo a proba
+[22Apr2025 04:17:13.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 04:17:13.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 04:17:46.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KaleSsz> ponte en survival
+[22Apr2025 04:19:01.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 04:19:01.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 04:19:01.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 04:19:01.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 04:19:01.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 04:19:01.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
