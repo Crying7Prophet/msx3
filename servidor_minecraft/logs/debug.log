@@ -3414,3 +3414,538 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 02:28:07.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
 [22Apr2025 02:28:07.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
 [22Apr2025 02:28:12.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> cuando mueres te da resistencia
+[22Apr2025 02:28:25.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:28:28.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was blown up by Crying_Prophet
+[22Apr2025 02:28:28.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:28:29.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 145 items from player aestheril]
+[22Apr2025 02:28:29.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:28:29.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:28:29.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:28:29.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:28:29.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:28:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:28:45.008] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[22Apr2025 02:28:49.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:28:53.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:28:53.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:28:53.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 02:28:53.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 02:28:53.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:28:59.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:29:04.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was blown up by Crying_Prophet
+[22Apr2025 02:29:05.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:29:05.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 113 items from player aestheril]
+[22Apr2025 02:29:05.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:29:05.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:29:05.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:29:05.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:29:05.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:29:05.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:29:13.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:29:13.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:29:17.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[22Apr2025 02:29:17.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:29:18.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 02:29:18.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 02:29:18.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:29:19.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was blown up by Crying_Prophet
+[22Apr2025 02:29:19.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:29:19.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 142 items from player aestheril]
+[22Apr2025 02:29:19.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:29:20.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:29:20.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:29:20.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:29:20.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:29:20.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:29:32.060] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[22Apr2025 02:29:33.157] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:29:33.157] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:29:33.514] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:29:38.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:29:38.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:29:40.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 02:29:40.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 02:29:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 02:29:40.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 02:29:41.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 02:29:41.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[22Apr2025 02:29:42.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was blown up by Crying_Prophet
+[22Apr2025 02:29:43.224] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 83
+[22Apr2025 02:29:44.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> oe
+[22Apr2025 02:29:49.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> esta muy bueno
+[22Apr2025 02:29:50.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> te gusto?
+[22Apr2025 02:29:56.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si me gustas
+[22Apr2025 02:29:59.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> falta pulirlo
+[22Apr2025 02:30:02.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> se
+[22Apr2025 02:30:04.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero esta bien
+[22Apr2025 02:30:06.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> nerfear las clases
+[22Apr2025 02:30:11.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> tambien
+[22Apr2025 02:30:12.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> arreglar el mapa
+[22Apr2025 02:30:13.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> estas muy roto
+[22Apr2025 02:30:17.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> tengo mejor aim q tu
+[22Apr2025 02:30:22.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> arreglar este lobby de mrda
+[22Apr2025 02:30:22.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero me matas de un tiro
+[22Apr2025 02:30:25.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 02:30:30.412] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:30:30.464] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:30:30.465] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:30:30.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 02:30:30.469] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 02:30:31.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> yo pdo hacer mejor lobby
+[22Apr2025 02:30:37.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> me gusta construir
+[22Apr2025 02:30:41.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el chiste es que esta clase tenga slowness 2
+[22Apr2025 02:30:49.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y seas super lento
+[22Apr2025 02:30:51.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pero la tienes=
+[22Apr2025 02:30:52.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ?*
+[22Apr2025 02:30:53.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no
+[22Apr2025 02:30:56.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> zzz
+[22Apr2025 02:31:02.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el unico que esta 100 listo
+[22Apr2025 02:31:05.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> es tu clase
+[22Apr2025 02:31:09.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> la que agarraste
+[22Apr2025 02:31:12.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> Conveniente
+[22Apr2025 02:31:15.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 88 items from player aestheril]
+[22Apr2025 02:31:15.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to aestheril]
+[22Apr2025 02:31:15.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to aestheril]
+[22Apr2025 02:31:15.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to aestheril]
+[22Apr2025 02:31:15.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Cap]]
+[22Apr2025 02:31:15.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Tunic]]
+[22Apr2025 02:31:16.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Pants]]
+[22Apr2025 02:31:16.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for aestheril]
+[22Apr2025 02:31:16.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to aestheril]
+[22Apr2025 02:31:23.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> aun asi se me olvido poner que te de armadura otra vez
+[22Apr2025 02:31:24.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 132 items from player aestheril]
+[22Apr2025 02:31:29.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 874 items from player Crying_Prophet]
+[22Apr2025 02:31:29.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Heavy Rifle] to aestheril]
+[22Apr2025 02:31:29.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Pistol] to aestheril]
+[22Apr2025 02:31:30.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:31:30.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Cap]]
+[22Apr2025 02:31:30.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Tunic]]
+[22Apr2025 02:31:30.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Pants]]
+[22Apr2025 02:31:30.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -41, 109, 148 [0.0] in minecraft:overworld for aestheril]
+[22Apr2025 02:31:30.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:31:36.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> esa es puro aim
+[22Apr2025 02:31:38.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> otra?
+[22Apr2025 02:31:43.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player aestheril]
+[22Apr2025 02:31:43.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to aestheril]
+[22Apr2025 02:31:43.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to aestheril]
+[22Apr2025 02:31:43.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:31:43.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Cap]]
+[22Apr2025 02:31:44.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Tunic]]
+[22Apr2025 02:31:44.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Pants]]
+[22Apr2025 02:31:44.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for aestheril]
+[22Apr2025 02:31:44.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:31:54.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> y esa es la mas normalita
+[22Apr2025 02:32:03.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> aunque tengo que nerfearla
+[22Apr2025 02:32:06.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> me gusta
+[22Apr2025 02:32:10.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:32:10.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:32:10.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:32:11.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:32:11.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:32:11.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:32:11.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:32:11.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:32:11.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:32:11.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> tiene arma rapida y sniper
+[22Apr2025 02:32:17.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> otra?
+[22Apr2025 02:32:19.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 02:32:20.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> se
+[22Apr2025 02:32:22.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> loco
+[22Apr2025 02:32:23.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 02:32:23.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 02:32:23.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 02:32:23.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 02:32:24.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 02:32:24.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 02:32:25.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> el server esta lag
+[22Apr2025 02:32:25.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 02:32:26.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> o soy yo
+[22Apr2025 02:32:26.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 02:32:26.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 02:32:27.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 02:32:27.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 77.04 blocks apart]
+[22Apr2025 02:32:27.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 02:32:27.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 02:32:27.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to 2 targets]
+[22Apr2025 02:32:27.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 02:32:27.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 02:32:28.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 02:32:28.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 02:32:30.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> eres tu w
+[22Apr2025 02:32:39.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tu coneccion esta medio mala
+[22Apr2025 02:33:04.100] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[22Apr2025 02:33:09.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:33:11.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> mmm
+[22Apr2025 02:33:12.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was taken down by Crying_Prophet
+[22Apr2025 02:33:12.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:33:12.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:33:12.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:33:13.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:33:15.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> se bugeo esto
+[22Apr2025 02:33:17.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no recarga
+[22Apr2025 02:33:25.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> es con r
+[22Apr2025 02:33:30.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no me digas pendejo
+[22Apr2025 02:33:36.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:33:39.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by aestheril
+[22Apr2025 02:33:40.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:33:40.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 136 items from player Crying_Prophet]
+[22Apr2025 02:33:40.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:33:40.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:33:40.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:33:40.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:33:40.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:33:40.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:33:53.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:33:56.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:33:57.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:33:57.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player Crying_Prophet]
+[22Apr2025 02:33:57.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:33:57.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:33:57.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:33:57.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:33:57.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:33:57.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:34:09.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:34:13.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> inmortal
+[22Apr2025 02:34:14.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was executed by Crying_Prophet
+[22Apr2025 02:34:15.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:34:15.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:34:15.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:34:15.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:34:19.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> siento que la escopeta
+[22Apr2025 02:34:26.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:34:28.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> q
+[22Apr2025 02:34:30.965] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[22Apr2025 02:34:32.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was taken down by Crying_Prophet
+[22Apr2025 02:34:32.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:34:32.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:34:32.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:34:32.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:34:33.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> necesita un buff urgente
+[22Apr2025 02:34:40.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:34:42.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> na
+[22Apr2025 02:34:44.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> esta bie
+[22Apr2025 02:34:45.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si w
+[22Apr2025 02:34:48.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:34:49.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:34:49.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 106 items from player Crying_Prophet]
+[22Apr2025 02:34:49.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:34:49.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> sirve de cerca
+[22Apr2025 02:34:49.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:34:49.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:34:49.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:34:49.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:34:49.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:34:53.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> esta hecha para eso
+[22Apr2025 02:34:56.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tienes que estas demasiado cerca
+[22Apr2025 02:35:03.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ni el speed 2 ayuda
+[22Apr2025 02:35:04.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> es la idea
+[22Apr2025 02:35:18.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> tambien es que el mapa no esta termiando
+[22Apr2025 02:35:21.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:35:30.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by aestheril
+[22Apr2025 02:35:30.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:35:30.413] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:35:30.465] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:35:30.466] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[22Apr2025 02:35:30.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 02:35:30.471] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 02:35:30.483] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:35:30.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player Crying_Prophet]
+[22Apr2025 02:35:30.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:35:30.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:35:30.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:35:30.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:35:30.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:35:31.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:35:43.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:35:44.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was annihilated by Crying_Prophet
+[22Apr2025 02:35:45.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:35:45.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:35:45.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:35:45.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:35:48.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> estaba jugando a 4 chunks
+[22Apr2025 02:35:50.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> q desventaja KDJSAKDJ
+[22Apr2025 02:35:54.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> le voy a meter que te queme
+[22Apr2025 02:36:04.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:36:07.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:36:07.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:36:07.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 141 items from player Crying_Prophet]
+[22Apr2025 02:36:08.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:36:08.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:36:08.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:36:08.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:36:08.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:36:08.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:36:08.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pa que
+[22Apr2025 02:36:10.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> naguevona
+[22Apr2025 02:36:14.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> va a quedar muy rota
+[22Apr2025 02:36:19.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> para compensar
+[22Apr2025 02:36:19.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:36:22.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by aestheril
+[22Apr2025 02:36:22.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:36:22.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player Crying_Prophet]
+[22Apr2025 02:36:23.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:36:23.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:36:23.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:36:23.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:36:23.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:36:23.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:36:26.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:36:28.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was decimated by Crying_Prophet
+[22Apr2025 02:36:28.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:36:28.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:36:28.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:36:28.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:36:34.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> UY
+[22Apr2025 02:36:37.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> TREMENDO BUGG
+[22Apr2025 02:36:39.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> cuida
+[22Apr2025 02:36:40.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:36:43.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 02:36:47.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale no lo arreglop
+[22Apr2025 02:36:50.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was decimated by aestheril
+[22Apr2025 02:36:50.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:36:50.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player Crying_Prophet]
+[22Apr2025 02:36:50.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:36:50.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:36:50.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:36:50.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:36:50.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:36:51.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:36:59.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pinche chino
+[22Apr2025 02:37:04.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:37:08.208] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: aestheril was kicked for floating too long!
+[22Apr2025 02:37:08.258] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: aestheril lost connection: Flying is not enabled on this server
+[22Apr2025 02:37:08.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril left the game
+[22Apr2025 02:37:08.259] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding aestheril data
+[22Apr2025 02:37:08.259] [Thread-254/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing aestheril data
+[22Apr2025 02:37:08.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of aestheril
+[22Apr2025 02:37:08.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client aestheril
+[22Apr2025 02:37:08.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mmlo
+[22Apr2025 02:37:11.189] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 24 messages to dispatch.
+[22Apr2025 02:37:11.208] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.obfuscate.network.HandshakeMessages$S2CSyncedPlayerData' to 'obfuscate:handshake' sequence 0
+[22Apr2025 02:37:11.258] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.guns.network.HandshakeMessages$S2CUpdateGuns' to 'cgm:handshake' sequence 1
+[22Apr2025 02:37:11.308] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[22Apr2025 02:37:11.358] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[22Apr2025 02:37:11.359] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel obfuscate:handshake with index 0
+[22Apr2025 02:37:11.359] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.obfuscate.network.HandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.359] [Netty Epoll Server IO #2/DEBUG] [Obfuscate/OBFUSCATE_HANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.408] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[22Apr2025 02:37:11.445] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel cgm:handshake with index 1
+[22Apr2025 02:37:11.446] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.guns.network.HandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.446] [Netty Epoll Server IO #2/DEBUG] [cgm/CGM_HANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.458] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[22Apr2025 02:37:11.507] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, dynamiclightsreforged, voicechat, otyacraftengine, iammusicplayer, mr_coffwallclimb, cgm, jade, waila, customskinloader, jei, elenaidodge2, invocore, libraryferret, spark, mr_fokusapi, neat, reviveme, bettertitlescreen, controlling, searchables, configured, entityculling, obfuscate, worldedit, simpleplanes, lanserverproperties, bettercommandblock, walljump, cloth-config, magnesium_extras, chat_heads, forge, embeddiumextension, dummmmmmy, tlskincape, embeddium, rubidium, selene, corpse]
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'iammusicplayer:iammusicplayer_channel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:handshake' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'otyacraftengine:otyacraftengine_channel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'reviveme:network' : Version test of '1.6.0' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:play' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.508] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '4' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:handshake' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'elenaidodge2:channel' : Version test of '1.0' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[22Apr2025 02:37:11.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[22Apr2025 02:37:11.558] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[22Apr2025 02:37:11.559] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[22Apr2025 02:37:11.559] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.559] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.608] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[22Apr2025 02:37:11.658] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[22Apr2025 02:37:11.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> XDDDDDDDDD
+[22Apr2025 02:37:11.708] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.758] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[22Apr2025 02:37:11.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[22Apr2025 02:37:11.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.809] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[22Apr2025 02:37:11.858] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[22Apr2025 02:37:11.868] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[22Apr2025 02:37:11.868] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.868] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.908] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 14
+[22Apr2025 02:37:11.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[22Apr2025 02:37:11.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.948] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[22Apr2025 02:37:11.948] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:11.948] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:11.958] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[22Apr2025 02:37:12.008] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[22Apr2025 02:37:12.058] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[22Apr2025 02:37:12.059] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[22Apr2025 02:37:12.059] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.059] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[22Apr2025 02:37:12.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.108] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[22Apr2025 02:37:12.158] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[22Apr2025 02:37:12.161] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[22Apr2025 02:37:12.161] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.161] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.208] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 20
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.214] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.258] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 21
+[22Apr2025 02:37:12.308] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[22Apr2025 02:37:12.308] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[22Apr2025 02:37:12.308] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.309] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.358] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[22Apr2025 02:37:12.870] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[22Apr2025 02:37:12.870] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.870] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.875] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[22Apr2025 02:37:12.875] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.875] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.876] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[22Apr2025 02:37:12.876] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[22Apr2025 02:37:12.876] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22Apr2025 02:37:12.908] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[22Apr2025 02:37:12.960] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52729f40
+[22Apr2025 02:37:12.968] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: aestheril[/127.232.38.42:48201] logged in with entity id 4667 at (52.262646290037594, -61.31933251571971, 46.26061964905999)
+[22Apr2025 02:37:12.969] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@13e634ef into net.minecraft.network.NetworkManager@a2fdd25
+[22Apr2025 02:37:12.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril joined the game
+[22Apr2025 02:37:13.002] [Server thread/INFO] [Waila/]: Syncing config to aestheril (87b2cbb5-8c13-34f4-949b-e303a21278fc)
+[22Apr2025 02:37:13.005] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: loading aestheril data
+[22Apr2025 02:37:13.005] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of aestheril: {disabled=false, disconnected=true, uuid=87b2cbb5-8c13-34f4-949b-e303a21278fc, name=aestheril, group=null}
+[22Apr2025 02:37:13.489] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of aestheril (18)
+[22Apr2025 02:37:13.489] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to aestheril
+[22Apr2025 02:37:13.489] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with aestheril
+[22Apr2025 02:37:13.489] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with aestheril
+[22Apr2025 02:37:13.489] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to aestheril
+[22Apr2025 02:37:14.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril fell out of the world
+[22Apr2025 02:37:14.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:37:15.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to aestheril]
+[22Apr2025 02:37:15.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to aestheril]
+[22Apr2025 02:37:15.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:37:17.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> el void me saco
+[22Apr2025 02:37:28.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 02:37:28.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 02:37:28.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 02:37:28.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 02:37:28.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 02:37:32.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 702 items from player aestheril]
+[22Apr2025 02:37:34.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:37:34.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:37:34.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:37:34.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:37:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:37:35.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:37:35.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:37:35.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:37:35.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:37:35.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 207 items from player Crying_Prophet]
+[22Apr2025 02:37:40.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> eso si ya es mi culpa
+[22Apr2025 02:37:46.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 64 items from player aestheril]
+[22Apr2025 02:37:46.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:37:46.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:37:46.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:37:46.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Cap]]
+[22Apr2025 02:37:46.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Tunic]]
+[22Apr2025 02:37:46.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on aestheril with [Leather Pants]]
+[22Apr2025 02:37:46.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for aestheril]
+[22Apr2025 02:37:47.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:37:47.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:37:47.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> es por parte del server
+[22Apr2025 02:37:50.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Grenade] to Crying_Prophet]
+[22Apr2025 02:37:50.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[22Apr2025 02:37:50.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[22Apr2025 02:37:50.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:37:50.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:37:50.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:37:50.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:37:51.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[22Apr2025 02:37:51.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player Crying_Prophet]
+[22Apr2025 02:37:52.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Heavy Rifle] to Crying_Prophet]
+[22Apr2025 02:37:52.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Pistol] to Crying_Prophet]
+[22Apr2025 02:37:52.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:37:52.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:37:52.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:37:52.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:37:52.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -41, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:37:52.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:37:53.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> mr
+[22Apr2025 02:37:54.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 133 items from player Crying_Prophet]
+[22Apr2025 02:37:54.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Crying_Prophet]
+[22Apr2025 02:37:54.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Crying_Prophet]
+[22Apr2025 02:37:54.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Crying_Prophet]
+[22Apr2025 02:37:54.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> mrc
+[22Apr2025 02:37:54.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:37:54.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:37:54.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:37:55.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:37:55.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:37:55.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[22Apr2025 02:37:55.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 149 items from player Crying_Prophet]
+[22Apr2025 02:37:55.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Assault Rifle] to Crying_Prophet]
+[22Apr2025 02:37:56.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Rifle] to Crying_Prophet]
+[22Apr2025 02:37:56.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:37:56.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[22Apr2025 02:37:56.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[22Apr2025 02:37:56.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[22Apr2025 02:37:56.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[22Apr2025 02:37:56.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:38:01.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no estan usando plugins, verdad?
+[22Apr2025 02:38:07.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> con razon todo esta tan raro
+[22Apr2025 02:38:09.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 02:38:16.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 02:38:17.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> con plugins es todo mejor y mas facil
+[22Apr2025 02:38:23.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> na
