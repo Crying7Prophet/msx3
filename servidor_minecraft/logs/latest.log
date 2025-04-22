@@ -1872,3 +1872,261 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Apr2025 02:38:16.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
 [22Apr2025 02:38:17.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> con plugins es todo mejor y mas facil
 [22Apr2025 02:38:23.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> na
+[22Apr2025 02:38:26.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> Si JDKSAJDJKASD
+[22Apr2025 02:38:27.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya lo intentamos
+[22Apr2025 02:38:29.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> como me vas a decir q na
+[22Apr2025 02:38:41.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq ya lo intentamos w
+[22Apr2025 02:38:45.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> y q paso
+[22Apr2025 02:38:51.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> no funciono
+[22Apr2025 02:38:54.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ?
+[22Apr2025 02:38:54.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> por
+[22Apr2025 02:39:02.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Crying_Prophet's game mode to Adventure Mode]
+[22Apr2025 02:39:02.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[22Apr2025 02:39:02.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[22Apr2025 02:39:02.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[22Apr2025 02:39:02.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doDaylightCycle is now set to: false]
+[22Apr2025 02:39:02.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule naturalRegeneration is now set to: true]
+[22Apr2025 02:39:03.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule doImmediateRespawn is now set to: true]
+[22Apr2025 02:39:04.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gamerule keepInventory is now set to: true]
+[22Apr2025 02:39:05.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[22Apr2025 02:39:05.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[22Apr2025 02:39:05.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[22Apr2025 02:39:06.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 50.69 blocks apart]
+[22Apr2025 02:39:06.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 02:39:06.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Enabled friendly fire for team [false]]
+[22Apr2025 02:39:06.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to 2 targets]
+[22Apr2025 02:39:06.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[22Apr2025 02:39:06.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 02:39:06.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[22Apr2025 02:39:07.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 2, 65, 16]
+[22Apr2025 02:39:09.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> calmate w
+[22Apr2025 02:39:15.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> estaba arregakndo algo
+[22Apr2025 02:39:21.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:39:22.026] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:39:22.026] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:39:22.026] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:39:22.026] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 02:39:22.027] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 02:39:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:39:23.136] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:39:23.136] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:39:26.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was annihilated by Crying_Prophet
+[22Apr2025 02:39:27.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:39:27.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 149 items from player aestheril]
+[22Apr2025 02:39:27.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:39:27.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:39:27.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:39:27.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:39:27.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:39:27.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:39:32.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:39:32.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:39:32.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:39:32.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:39:32.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:39:51.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:39:55.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was taken down by aestheril
+[22Apr2025 02:39:55.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:39:55.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:39:56.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:39:56.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:40:17.459] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 138
+[22Apr2025 02:40:22.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:40:28.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was taken down by aestheril
+[22Apr2025 02:40:29.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:40:29.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:40:29.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:40:29.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:40:41.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:40:45.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:40:45.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:40:45.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:40:45.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:40:45.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:41:07.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:41:12.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya va
+[22Apr2025 02:41:18.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> me mandaron a hacer algo
+[22Apr2025 02:41:18.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has been revived
+[22Apr2025 02:41:22.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:41:25.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was annihilated by Crying_Prophet
+[22Apr2025 02:41:25.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> dale
+[22Apr2025 02:41:25.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:41:25.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 126 items from player aestheril]
+[22Apr2025 02:41:25.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:41:25.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:41:26.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:41:26.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:41:26.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:41:26.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:41:26.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> traidor
+[22Apr2025 02:41:30.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el lag te da poderes w
+[22Apr2025 02:41:31.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:41:34.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ajskdhasd
+[22Apr2025 02:41:38.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by aestheril
+[22Apr2025 02:41:38.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:41:39.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:41:39.058] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[22Apr2025 02:41:39.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:41:39.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:41:40.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> plugins son mejor
+[22Apr2025 02:41:43.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> automatizan todo
+[22Apr2025 02:41:44.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> zzz
+[22Apr2025 02:41:45.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> sin tanto bug
+[22Apr2025 02:41:45.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> na w
+[22Apr2025 02:41:49.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> si pndjo
+[22Apr2025 02:41:50.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hypixel
+[22Apr2025 02:41:53.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> universocraf
+[22Apr2025 02:41:56.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> todos esos
+[22Apr2025 02:41:57.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> usan plugins
+[22Apr2025 02:41:58.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> ya lo intentamos w
+[22Apr2025 02:42:02.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:42:03.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> y q salio mal
+[22Apr2025 02:42:06.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> espaldero
+[22Apr2025 02:42:10.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was executed by Crying_Prophet
+[22Apr2025 02:42:11.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si pero ellos son profesionales
+[22Apr2025 02:42:11.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:42:11.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 136 items from player aestheril]
+[22Apr2025 02:42:11.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:42:11.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:42:11.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:42:11.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:42:11.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:42:11.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:42:17.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> kale y yo soomo
+[22Apr2025 02:42:22.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:42:24.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was annihilated by Crying_Prophet
+[22Apr2025 02:42:25.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:42:25.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player aestheril]
+[22Apr2025 02:42:25.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:42:25.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:42:25.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:42:25.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:42:25.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:42:26.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:42:28.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> yo se usar plugins
+[22Apr2025 02:42:29.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> dos pelagatos
+[22Apr2025 02:42:38.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> que hicimos esta mierda en un dia
+[22Apr2025 02:42:46.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:42:50.343] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:42:51.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[22Apr2025 02:42:51.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was eliminated by Crying_Prophet
+[22Apr2025 02:42:51.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:42:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player aestheril]
+[22Apr2025 02:42:51.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:42:51.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:42:52.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:42:52.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:42:52.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:42:52.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:42:56.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> con plugins
+[22Apr2025 02:42:56.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by aestheril
+[22Apr2025 02:42:57.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[22Apr2025 02:42:57.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Advanced Bullet] to Crying_Prophet]
+[22Apr2025 02:42:57.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Crying_Prophet]
+[22Apr2025 02:42:57.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:42:58.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> eso no pasa
+[22Apr2025 02:43:10.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> que cosa
+[22Apr2025 02:43:13.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:43:15.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was eliminated by Crying_Prophet
+[22Apr2025 02:43:15.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:43:15.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player aestheril]
+[22Apr2025 02:43:15.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:43:15.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:43:16.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:43:16.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:43:16.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:43:16.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:43:17.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> matarte
+[22Apr2025 02:43:19.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> estando morido
+[22Apr2025 02:43:22.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si pasa
+[22Apr2025 02:43:28.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pq son las armas
+[22Apr2025 02:43:39.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:43:41.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was annihilated by Crying_Prophet
+[22Apr2025 02:43:41.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:43:41.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 143 items from player aestheril]
+[22Apr2025 02:43:41.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:43:41.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:43:41.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:43:41.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:43:42.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:43:42.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:43:43.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no le sabes
+[22Apr2025 02:43:48.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> las armas se bugean
+[22Apr2025 02:43:52.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril has fallen
+[22Apr2025 02:43:56.193] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 02:43:56.194] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 02:43:56.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: aestheril was decimated by Crying_Prophet
+[22Apr2025 02:43:56.830] [Server thread/WARN] [cgm/]: aestheril(87b2cbb5-8c13-34f4-949b-e303a21278fc) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:43:57.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to aestheril]
+[22Apr2025 02:43:57.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 146 items from player aestheril]
+[22Apr2025 02:43:57.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to aestheril]
+[22Apr2025 02:43:57.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to aestheril]
+[22Apr2025 02:43:57.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to aestheril]
+[22Apr2025 02:43:57.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to aestheril]
+[22Apr2025 02:43:57.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to aestheril]
+[22Apr2025 02:43:57.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[22Apr2025 02:44:06.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Teleported 2 entities to -34.5, 109.0, 132.5]
+[22Apr2025 02:44:06.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Disabled friendly fire for team [false]]
+[22Apr2025 02:44:06.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[22Apr2025 02:44:07.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[22Apr2025 02:44:07.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -35, 109, 132 [0.0] in minecraft:overworld for 2 players]
+[22Apr2025 02:44:09.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> wn
+[22Apr2025 02:44:12.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lito
+[22Apr2025 02:44:12.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> quita el daño por caida
+[22Apr2025 02:44:15.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> es estresante
+[22Apr2025 02:44:20.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> eso voy a hacer
+[22Apr2025 02:44:26.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pero dame chance
+[22Apr2025 02:44:31.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hare un lobby
+[22Apr2025 02:44:33.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> dale
+[22Apr2025 02:44:34.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> crea un mundo plano
+[22Apr2025 02:44:35.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> porfa
+[22Apr2025 02:44:40.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pa que
+[22Apr2025 02:44:44.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> pa hacerlo hay
+[22Apr2025 02:44:48.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> esta el world edit?
+[22Apr2025 02:44:49.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pero wn
+[22Apr2025 02:44:51.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> so
+[22Apr2025 02:44:52.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 02:44:57.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> pero hazlo aqui
+[22Apr2025 02:45:03.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> cual era el comando
+[22Apr2025 02:45:05.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> del we
+[22Apr2025 02:45:06.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> para
+[22Apr2025 02:45:08.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> hacer un piso
+[22Apr2025 02:45:10.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> grandote
+[22Apr2025 02:45:14.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> fill
+[22Apr2025 02:45:17.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> seguro?
+[22Apr2025 02:45:20.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> si
+[22Apr2025 02:45:22.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no
+[22Apr2025 02:45:24.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> un cilindro
+[22Apr2025 02:45:24.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> digo
+[22Apr2025 02:45:31.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo rellenas con stone
+[22Apr2025 02:45:33.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> ay ya
+[22Apr2025 02:45:35.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> asi hace kale
+[22Apr2025 02:45:36.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> buscare en gogle
+[22Apr2025 02:45:37.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> google
+[22Apr2025 02:45:38.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[22Apr2025 02:45:39.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> kaleb no le sabe
+[22Apr2025 02:45:46.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> el hizo todo esto
+[22Apr2025 02:45:52.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> lo de construir
+[22Apr2025 02:45:52.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> chino de mier
+[22Apr2025 02:45:53.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> no mentira
+[22Apr2025 02:45:53.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> mira
+[22Apr2025 02:46:02.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> voy a comodar el voice chat
+[22Apr2025 02:46:04.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [aestheril: Set own game mode to Creative Mode]
+[22Apr2025 02:46:16.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> oh no
+[22Apr2025 02:46:32.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> la pta que me pario
+[22Apr2025 02:46:36.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> kaleb se va a emputar
+[22Apr2025 02:46:38.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> es enserio chamo
+[22Apr2025 02:46:48.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> espera
+[22Apr2025 02:46:52.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> listo
+[22Apr2025 02:46:55.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> naguara
+[22Apr2025 02:46:58.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> menos mal
+[22Apr2025 02:47:00.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> perdon jskajdsd
+[22Apr2025 02:47:01.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> dale por ahi
+[22Apr2025 02:47:03.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> fue sin querer
+[22Apr2025 02:47:06.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> para alla
+[22Apr2025 02:47:13.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> aqui
+[22Apr2025 02:47:25.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> despues lo copias con el world edit
+[22Apr2025 02:47:50.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> yo se usarlo sjdksjd
+[22Apr2025 02:47:51.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <aestheril> relajate
+[22Apr2025 02:48:07.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gamerule fallDamage is now set to: false]
+[22Apr2025 02:48:10.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Crying_Prophet> listo
