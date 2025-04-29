@@ -2280,3 +2280,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Apr2025 23:04:48.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Applied effect Night Vision to 2 targets]
 [29Apr2025 23:05:23.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
 [29Apr2025 23:05:25.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:06:24.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 60.11 blocks apart]
+[29Apr2025 23:06:52.155] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:06:52.269] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:06:52.272] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:06:52.274] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 23:06:52.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 23:07:26.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:07:43.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:08:08.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:08:24.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:09:23.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:09:43.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:09:51.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:09:59.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:10:08.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:10:24.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:10:47.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:10:55.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:11:00.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:11:12.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:11:47.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:11:52.153] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:11:52.168] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:11:52.171] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Apr2025 23:11:52.173] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 23:11:52.176] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 23:11:58.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:13:06.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:13:16.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:13:29.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:13:41.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:14:06.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:14:11.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:14:28.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 23:14:36.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 23:15:13.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
