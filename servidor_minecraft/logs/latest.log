@@ -363,3 +363,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Apr2025 22:30:09.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to Crying_Prophet]
 [29Apr2025 22:30:09.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
 [29Apr2025 22:30:12.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 22:45:41.990] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [reviveme:network,walljump:network,simpleplanes:main,selene:network,cgm:play,dummmmmmy:dummychannel,elenaidodge2:channel] rejected vanilla connections
+[29Apr2025 22:45:41.991] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
