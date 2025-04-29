@@ -365,3 +365,168 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Apr2025 22:30:12.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
 [29Apr2025 22:45:41.990] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [reviveme:network,walljump:network,simpleplanes:main,selene:network,cgm:play,dummmmmmy:dummychannel,elenaidodge2:channel] rejected vanilla connections
 [29Apr2025 22:45:41.991] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[29Apr2025 22:45:50.692] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [reviveme:network,walljump:network,simpleplanes:main,selene:network,cgm:play,dummmmmmy:dummychannel,elenaidodge2:channel] rejected vanilla connections
+[29Apr2025 22:45:50.692] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[29Apr2025 22:49:16.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33510188
+[29Apr2025 22:49:16.504] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.121.38.136:53213] logged in with entity id 23 at (-25.5, 109.0, 132.5)
+[29Apr2025 22:49:16.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex joined the game
+[29Apr2025 22:49:16.556] [Server thread/INFO] [Waila/]: Syncing config to Tontuex (c116b748-fcf7-310a-8879-08ba63865e69)
+[29Apr2025 22:49:16.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Added Tontuex to team [false]]
+[29Apr2025 22:49:19.626] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tontuex (18)
+[29Apr2025 22:49:19.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tontuex
+[29Apr2025 22:49:24.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c116b748-fcf7-310a-8879-08ba63865e69
+[29Apr2025 22:49:25.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c116b748-fcf7-310a-8879-08ba63865e69
+[29Apr2025 22:49:25.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tontuex (c116b748-fcf7-310a-8879-08ba63865e69) successfully connected to voice chat
+[29Apr2025 22:50:21.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[29Apr2025 22:50:26.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[29Apr2025 22:50:27.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[29Apr2025 22:50:27.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 79 items from player Crying_Prophet]
+[29Apr2025 22:50:27.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[29Apr2025 22:50:27.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[29Apr2025 22:50:27.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[29Apr2025 22:50:27.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[29Apr2025 22:50:27.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[29Apr2025 22:50:27.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[29Apr2025 22:50:27.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[29Apr2025 22:50:27.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to Crying_Prophet]
+[29Apr2025 22:50:27.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:50:27.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to Tontuex]
+[29Apr2025 22:50:30.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 22:50:56.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 22:50:57.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Apr2025 22:51:26.272] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-26, y=110, z=143}
+[29Apr2025 22:51:28.454] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-26, y=110, z=143}
+[29Apr2025 22:51:36.103] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=110, z=143}
+[29Apr2025 22:51:36.252] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=110, z=143}
+[29Apr2025 22:51:36.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=110, z=143}
+[29Apr2025 22:51:49.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Tontuex> asd
+[29Apr2025 22:51:53.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Tontuex> asdasd
+[29Apr2025 22:51:58.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Tontuex a server operator
+[29Apr2025 22:52:01.698] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
+[29Apr2025 22:52:01.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[29Apr2025 22:52:01.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tontuex
+[29Apr2025 22:52:01.748] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[29Apr2025 22:52:04.945] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -6.88384858023684,-7.312512630107875,-1.0528855224545453
+[29Apr2025 22:52:11.349] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1aa16285
+[29Apr2025 22:52:11.354] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.121.38.136:38627] logged in with entity id 54 at (-33.51217413246177, 109.0, 141.20148644086595)
+[29Apr2025 22:52:11.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex joined the game
+[29Apr2025 22:52:11.410] [Server thread/INFO] [Waila/]: Syncing config to Tontuex (c116b748-fcf7-310a-8879-08ba63865e69)
+[29Apr2025 22:52:11.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tontuex (18)
+[29Apr2025 22:52:11.693] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tontuex
+[29Apr2025 22:52:12.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c116b748-fcf7-310a-8879-08ba63865e69
+[29Apr2025 22:52:14.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c116b748-fcf7-310a-8879-08ba63865e69
+[29Apr2025 22:52:14.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tontuex (c116b748-fcf7-310a-8879-08ba63865e69) successfully connected to voice chat
+[29Apr2025 22:52:15.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Tontuex]
+[29Apr2025 22:52:15.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Tontuex]
+[29Apr2025 22:52:15.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Tontuex]
+[29Apr2025 22:52:15.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 80 [Basic Bullet] to Tontuex]
+[29Apr2025 22:52:16.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Tunic]]
+[29Apr2025 22:52:16.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Adventure Mode]
+[29Apr2025 22:52:16.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Pants]]
+[29Apr2025 22:52:16.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Boots]]
+[29Apr2025 22:52:16.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -29, 109, 148 [0.0] in minecraft:overworld for Tontuex]
+[29Apr2025 22:52:16.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Cap]]
+[29Apr2025 22:52:16.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Tontuex]
+[29Apr2025 22:52:22.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed title display times for 2 players]
+[29Apr2025 22:52:22.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[29Apr2025 22:52:22.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed objective [Kills]]
+[29Apr2025 22:52:22.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[29Apr2025 22:52:22.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Created new objective [Kills]]
+[29Apr2025 22:52:22.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 80 items from player Crying_Prophet]
+[29Apr2025 22:52:22.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set display slot sidebar to show objective Kills]
+[29Apr2025 22:52:22.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[29Apr2025 22:52:22.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set Tontuex's game mode to Adventure Mode]
+[29Apr2025 22:52:22.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[29Apr2025 22:52:22.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to Crying_Prophet]
+[29Apr2025 22:52:22.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[29Apr2025 22:52:23.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[29Apr2025 22:52:23.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[29Apr2025 22:52:23.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[29Apr2025 22:52:23.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[29Apr2025 22:52:23.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to Crying_Prophet]
+[29Apr2025 22:52:23.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set spawn point to -47, 109, 148 [0.0] in minecraft:overworld for Crying_Prophet]
+[29Apr2025 22:52:35.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Blinded to 2 targets]
+[29Apr2025 22:52:35.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.explosion to 2 players]
+[29Apr2025 22:52:35.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound cgm:entity.stun_grenade.ring to 2 players]
+[29Apr2025 22:52:38.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all 'master' sounds]
+[29Apr2025 22:52:38.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Showing new title for 2 players]
+[29Apr2025 22:52:38.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:ui.toast.challenge_complete to 2 players]
+[29Apr2025 22:52:39.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 2 players around 0.5, 0.5 with an average distance of 82.82 blocks apart]
+[29Apr2025 22:53:15.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has fallen
+[29Apr2025 22:53:24.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was blown up by Crying_Prophet
+[29Apr2025 22:53:25.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Tontuex]
+[29Apr2025 22:53:25.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 150 items from player Tontuex]
+[29Apr2025 22:53:25.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Boots]]
+[29Apr2025 22:53:25.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Cap]]
+[29Apr2025 22:53:25.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Tontuex]
+[29Apr2025 22:53:25.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Tunic]]
+[29Apr2025 22:53:25.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Tontuex]
+[29Apr2025 22:53:25.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Tontuex]
+[29Apr2025 22:53:25.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Pants]]
+[29Apr2025 22:53:25.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Tontuex]
+[29Apr2025 22:53:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:53:25.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Tontuex]
+[29Apr2025 22:53:30.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[29Apr2025 22:53:33.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was eliminated by Tontuex
+[29Apr2025 22:53:33.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[29Apr2025 22:53:34.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 79 items from player Crying_Prophet]
+[29Apr2025 22:53:34.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[29Apr2025 22:53:34.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[29Apr2025 22:53:34.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[29Apr2025 22:53:34.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[29Apr2025 22:53:34.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[29Apr2025 22:53:34.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[29Apr2025 22:53:34.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[29Apr2025 22:53:34.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to Crying_Prophet]
+[29Apr2025 22:53:34.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:53:34.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Slowness to Crying_Prophet]
+[29Apr2025 22:53:39.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has fallen
+[29Apr2025 22:53:46.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was blown up by Crying_Prophet
+[29Apr2025 22:53:46.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Tontuex]
+[29Apr2025 22:53:46.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 134 items from player Tontuex]
+[29Apr2025 22:53:46.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Boots]]
+[29Apr2025 22:53:46.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Cap]]
+[29Apr2025 22:53:46.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Tontuex]
+[29Apr2025 22:53:46.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Tunic]]
+[29Apr2025 22:53:46.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Tontuex]
+[29Apr2025 22:53:46.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Tontuex]
+[29Apr2025 22:53:47.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Pants]]
+[29Apr2025 22:53:47.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Tontuex]
+[29Apr2025 22:53:47.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:53:47.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Tontuex]
+[29Apr2025 22:54:10.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has fallen
+[29Apr2025 22:54:20.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was blown up by Crying_Prophet
+[29Apr2025 22:54:20.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Tontuex]
+[29Apr2025 22:54:20.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 134 items from player Tontuex]
+[29Apr2025 22:54:20.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Boots]]
+[29Apr2025 22:54:20.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Cap]]
+[29Apr2025 22:54:20.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Tontuex]
+[29Apr2025 22:54:20.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Tunic]]
+[29Apr2025 22:54:20.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Tontuex]
+[29Apr2025 22:54:20.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Shell] to Tontuex]
+[29Apr2025 22:54:21.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Pants]]
+[29Apr2025 22:54:21.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Basic Bullet] to Tontuex]
+[29Apr2025 22:54:21.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:54:21.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Speed to Crying_Prophet]
+[29Apr2025 22:55:37.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has fallen
+[29Apr2025 22:55:42.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has fallen
+[29Apr2025 22:55:45.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was blown up by Crying_Prophet
+[29Apr2025 22:55:45.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Crying_Prophet]
+[29Apr2025 22:55:45.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 76 items from player Crying_Prophet]
+[29Apr2025 22:55:45.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Boots]]
+[29Apr2025 22:55:45.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Cap]]
+[29Apr2025 22:55:45.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Tunic]]
+[29Apr2025 22:55:45.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Bazooka] to Crying_Prophet]
+[29Apr2025 22:55:45.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Crying_Prophet with [Leather Pants]]
+[29Apr2025 22:55:45.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Grenade Launcher] to Crying_Prophet]
+[29Apr2025 22:55:45.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 64 [Missile] to Crying_Prophet]
+[29Apr2025 22:55:46.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 10 [Grenade] to Crying_Prophet]
+[29Apr2025 22:55:46.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Spread 1 players around 0.5, 0.5 with an average distance of 0.00 blocks apart]
+[29Apr2025 22:55:47.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was blown up by Crying_Prophet
+[29Apr2025 22:55:48.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Resistance to Tontuex]
+[29Apr2025 22:55:48.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed 134 items from player Tontuex]
+[29Apr2025 22:55:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Boots]]
+[29Apr2025 22:55:48.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Cap]]
+[29Apr2025 22:55:48.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Shotgun] to Tontuex]
+[29Apr2025 22:55:48.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Replaced a slot on Tontuex with [Leather Tunic]]
+[29Apr2025 22:55:48.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Machine Pistol] to Tontuex]
