@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:rabbit": 1,
+      "minecraft:stick": 3,
+      "minecraft:wheat_seeds": 34,
+      "minecraft:wheat": 11,
+      "minecraft:sugar_cane": 7
+    },
+    "minecraft:mined": {
+      "minecraft:tall_dry_grass": 11,
+      "minecraft:wheat": 13,
+      "minecraft:short_dry_grass": 9,
+      "minecraft:dead_bush": 6,
+      "minecraft:sugar_cane": 4
+    },
+    "minecraft:used": {
+      "minecraft:bread": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 10633,
+      "minecraft:walk_one_cm": 11005,
+      "minecraft:leave_game": 1,
+      "minecraft:horse_one_cm": 950,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 10633,
+      "minecraft:jump": 159,
+      "minecraft:time_since_death": 10633,
+      "minecraft:sprint_one_cm": 35657,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 2650,
+      "minecraft:total_world_time": 10633,
+      "minecraft:fly_one_cm": 48292,
+      "minecraft:walk_on_water_one_cm": 112,
+      "minecraft:crouch_one_cm": 158,
+      "minecraft:sneak_time": 29
+    }
+  },
+  "DataVersion": 4790
+}
